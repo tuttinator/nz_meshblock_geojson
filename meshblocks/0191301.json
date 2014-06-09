@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0191301", "AU2014": "508520", "AU2014_NAM": "Sunnynook", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07605", "CB2014_NAM": "Devonport-Takapuna Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "032", "GED2007_NA": "North Shore", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 448.047010, "SHAPE_Area": 12260.360380 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1754819.877349853515625, 5931049.064799785614014 ], [ 1754827.716549873352051, 5931057.024250030517578 ], [ 1754919.851749897003174, 5930965.37755012512207 ], [ 1754912.079150199890137, 5930957.971849918365479 ], [ 1754850.87060022354126, 5930896.007900238037109 ], [ 1754816.22700023651123, 5930930.236599922180176 ], [ 1754801.080999851226807, 5930954.532549858093262 ], [ 1754764.9586501121521, 5930990.217599868774414 ], [ 1754766.672699928283691, 5930995.201000213623047 ], [ 1754819.877349853515625, 5931049.064799785614014 ] ] ] } }
+]
+}

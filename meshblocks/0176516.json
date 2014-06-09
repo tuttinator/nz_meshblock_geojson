@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0176516", "AU2014": "505806", "AU2014_NAM": "Silverdale Central", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07602", "WARD2014_N": "Albany Ward", "CB2014": "07602", "CB2014_NAM": "Hibiscus and Bays Local Board Area", "TASUB2014": "07605", "TASUB2014_": "Hibiscus Coast Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "044", "GED2007_NA": "Rodney", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 526.872158, "SHAPE_Area": 16756.866159 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1750732.828400135040283, 5947175.292250156402588 ], [ 1750824.187399864196777, 5947219.445149898529053 ], [ 1750891.666200160980225, 5947092.274799823760986 ], [ 1750864.762899875640869, 5947024.842249870300293 ], [ 1750808.304150104522705, 5947051.132100105285645 ], [ 1750792.914999961853027, 5947063.910900115966797 ], [ 1750732.828400135040283, 5947175.292250156402588 ] ] ] } }
+]
+}

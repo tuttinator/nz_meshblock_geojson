@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0178709", "AU2014": "508701", "AU2014_NAM": "Albany", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07602", "WARD2014_N": "Albany Ward", "CB2014": "07603", "CB2014_NAM": "Upper Harbour Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "015", "GED2007_NA": "Helensville", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 563.796688, "SHAPE_Area": 17892.774569 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1751007.751999855041504, 5934549.19504976272583 ], [ 1751012.374300003051758, 5934539.530600070953369 ], [ 1751054.386750221252441, 5934467.532649993896484 ], [ 1751059.834449768066406, 5934431.849999904632568 ], [ 1751076.945199966430664, 5934403.942349910736084 ], [ 1751094.042850017547607, 5934383.727499961853027 ], [ 1751009.229300022125244, 5934333.711699962615967 ], [ 1750929.427249908447266, 5934469.024400234222412 ], [ 1750924.95734977722168, 5934476.361100196838379 ], [ 1751007.751999855041504, 5934549.19504976272583 ] ] ] } }
+]
+}

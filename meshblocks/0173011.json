@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0173011", "AU2014": "505808", "AU2014_NAM": "Red Beach East", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07602", "WARD2014_N": "Albany Ward", "CB2014": "07602", "CB2014_NAM": "Hibiscus and Bays Local Board Area", "TASUB2014": "07605", "TASUB2014_": "Hibiscus Coast Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "044", "GED2007_NA": "Rodney", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 424.382895, "SHAPE_Area": 9636.853015 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1752560.624800205230713, 5947715.724999904632568 ], [ 1752565.56974983215332, 5947660.632349967956543 ], [ 1752566.825950145721436, 5947650.000800132751465 ], [ 1752479.059599876403809, 5947642.225949764251709 ], [ 1752420.598849773406982, 5947637.707149982452393 ], [ 1752414.763899803161621, 5947702.614550113677979 ], [ 1752549.301750183105469, 5947714.718299865722656 ], [ 1752560.624800205230713, 5947715.724999904632568 ] ] ] } }
+]
+}

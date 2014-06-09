@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0179116", "AU2014": "508704", "AU2014_NAM": "Northcross", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07602", "WARD2014_N": "Albany Ward", "CB2014": "07603", "CB2014_NAM": "Upper Harbour Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "011", "GED2007_NA": "East Coast Bays", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 622.680492, "SHAPE_Area": 21156.665733 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1753239.597750186920166, 5934508.29295015335083 ], [ 1753242.854350090026855, 5934497.66765022277832 ], [ 1753164.608500003814697, 5934303.215099811553955 ], [ 1753144.473949909210205, 5934308.469749927520752 ], [ 1753115.364999771118164, 5934314.610050201416016 ], [ 1753088.262599945068359, 5934505.257599830627441 ], [ 1753087.060900211334229, 5934511.406899929046631 ], [ 1753136.498899936676025, 5934510.562749862670898 ], [ 1753229.116049766540527, 5934508.830299854278564 ], [ 1753239.597750186920166, 5934508.29295015335083 ] ] ] } }
+]
+}

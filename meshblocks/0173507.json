@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0173507", "AU2014": "505908", "AU2014_NAM": "Stanmore Bay East", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07602", "WARD2014_N": "Albany Ward", "CB2014": "07602", "CB2014_NAM": "Hibiscus and Bays Local Board Area", "TASUB2014": "07605", "TASUB2014_": "Hibiscus Coast Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "044", "GED2007_NA": "Rodney", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 592.840395, "SHAPE_Area": 19374.750236 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1755037.909850120544434, 5944986.21560001373291 ], [ 1755048.767099857330322, 5944986.611350059509277 ], [ 1755161.917250156402588, 5944946.394350051879883 ], [ 1755171.277900218963623, 5944946.798500061035156 ], [ 1755191.439400196075439, 5944823.271299839019775 ], [ 1755067.876900196075439, 5944798.411200046539307 ], [ 1755075.090199947357178, 5944810.177649974822998 ], [ 1755067.562349796295166, 5944859.310150146484375 ], [ 1755057.381249904632568, 5944860.108150005340576 ], [ 1755037.909850120544434, 5944986.21560001373291 ] ] ] } }
+]
+}

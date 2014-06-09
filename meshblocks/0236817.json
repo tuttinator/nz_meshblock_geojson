@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0236817", "AU2014": "513220", "AU2014_NAM": "Sturges North", "UA2014": "003", "UA2014_NAM": "Western Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07604", "WARD2014_N": "Waitakere Ward", "CB2014": "07606", "CB2014_NAM": "Henderson-Massey Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "057", "GED2007_NA": "Waitakere", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 657.816436, "SHAPE_Area": 23739.289773 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1743140.180500030517578, 5917034.288449764251709 ], [ 1743219.932050228118896, 5916952.085999965667725 ], [ 1743299.31505012512207, 5916871.203949928283691 ], [ 1743269.165599822998047, 5916842.103750228881836 ], [ 1743227.708000183105469, 5916800.822100162506104 ], [ 1743204.310850143432617, 5916817.808700084686279 ], [ 1743146.951950073242188, 5916877.363450050354004 ], [ 1743068.275650024414062, 5916964.300600051879883 ], [ 1743086.092750072479248, 5916986.963399887084961 ], [ 1743140.180500030517578, 5917034.288449764251709 ] ] ] } }
+]
+}

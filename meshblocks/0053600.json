@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0053600", "AU2014": "500900", "AU2014_NAM": "Kerikeri", "UA2014": "203", "UA2014_NAM": "Kerikeri", "TA2014": "001", "TA2014_NAM": "Far North District", "WARD2014": "00102", "WARD2014_N": "Bay of Islands-Whangaroa Ward", "CB2014": "00102", "CB2014_NAM": "Bay of Islands-Whangaroa Community", "TASUB2014": "00109", "TASUB2014_": "Kerikeri Subdivision", "REGC2014": "01", "REGC2014_N": "Northland Region", "CON2014": "0104", "CON2014_NA": "Coastal North Constituency", "MCON2014": "0199", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "034", "GED2007_NA": "Northland", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 811.598841, "SHAPE_Area": 29445.927210 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1686330.969850063323975, 6101296.455949783325195 ], [ 1686377.992400169372559, 6101262.051700115203857 ], [ 1686455.530799865722656, 6101205.66765022277832 ], [ 1686525.305950164794922, 6101152.688350200653076 ], [ 1686496.62624979019165, 6101147.178599834442139 ], [ 1686224.669650077819824, 6101107.1284499168396 ], [ 1686193.319550037384033, 6101106.745349884033203 ], [ 1686279.529150009155273, 6101227.983550071716309 ], [ 1686301.162350177764893, 6101256.58549976348877 ], [ 1686330.969850063323975, 6101296.455949783325195 ] ] ] } }
+]
+}

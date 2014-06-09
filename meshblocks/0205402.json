@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0205402", "AU2014": "508610", "AU2014_NAM": "Monarch Park", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07604", "CB2014_NAM": "Kaipatiki Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "033", "GED2007_NA": "Northcote", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 513.276993, "SHAPE_Area": 13905.019463 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1754142.09345006942749, 5926636.730949878692627 ], [ 1754211.748950004577637, 5926562.874750137329102 ], [ 1754133.103650093078613, 5926535.02299976348877 ], [ 1754079.809700012207031, 5926516.107200145721436 ], [ 1754021.954450130462646, 5926495.595799922943115 ], [ 1754033.812449932098389, 5926585.353149890899658 ], [ 1754142.09345006942749, 5926636.730949878692627 ] ] ] } }
+]
+}

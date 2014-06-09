@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0050806", "AU2014": "501200", "AU2014_NAM": "Haruru Falls", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "001", "TA2014_NAM": "Far North District", "WARD2014": "00102", "WARD2014_N": "Bay of Islands-Whangaroa Ward", "CB2014": "00102", "CB2014_NAM": "Bay of Islands-Whangaroa Community", "TASUB2014": "00110", "TASUB2014_": "Paihia Subdivision", "REGC2014": "01", "REGC2014_N": "Northland Region", "CON2014": "0104", "CON2014_NA": "Coastal North Constituency", "MCON2014": "0199", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "034", "GED2007_NA": "Northland", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 892.932151, "SHAPE_Area": 49394.372876 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1695171.064549922943115, 6095295.229450225830078 ], [ 1695331.086850166320801, 6095303.932799816131592 ], [ 1695330.530749797821045, 6095293.197949886322021 ], [ 1695307.532999992370605, 6095091.63129997253418 ], [ 1695091.972750186920166, 6095079.270649909973145 ], [ 1695080.496150016784668, 6095278.868100166320801 ], [ 1695079.43690013885498, 6095290.265200138092041 ], [ 1695171.064549922943115, 6095295.229450225830078 ] ] ] } }
+]
+}

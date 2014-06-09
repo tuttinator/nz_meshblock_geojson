@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0209400", "AU2014": "506800", "AU2014_NAM": "Helensville", "UA2014": "213", "UA2014_NAM": "Helensville", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07601", "WARD2014_N": "Rodney Ward", "CB2014": "07601", "CB2014_NAM": "Rodney Local Board Area", "TASUB2014": "07603", "TASUB2014_": "Kumeu Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "015", "GED2007_NA": "Helensville", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 874.916330, "SHAPE_Area": 44037.881432 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1729710.122650146484375, 5939730.793449878692627 ], [ 1729940.620150089263916, 5939685.177700042724609 ], [ 1729956.865499973297119, 5939596.07390022277832 ], [ 1729970.048550128936768, 5939509.958849906921387 ], [ 1729678.268149852752686, 5939569.445350170135498 ], [ 1729694.724899768829346, 5939647.565700054168701 ], [ 1729710.122650146484375, 5939730.793449878692627 ] ] ] } }
+]
+}

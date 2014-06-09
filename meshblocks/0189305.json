@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0189305", "AU2014": "508220", "AU2014_NAM": "Windy Ridge", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07604", "CB2014_NAM": "Kaipatiki Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "033", "GED2007_NA": "Northcote", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 600.241997, "SHAPE_Area": 15928.426339 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1752998.191299915313721, 5925805.088900089263916 ], [ 1753003.630849838256836, 5925795.463749885559082 ], [ 1753048.100100040435791, 5925730.242400169372559 ], [ 1753080.276800155639648, 5925731.007850170135498 ], [ 1753100.0413498878479, 5925680.423850059509277 ], [ 1753059.589799880981445, 5925676.070650100708008 ], [ 1753052.036849975585938, 5925669.532599925994873 ], [ 1752876.281400203704834, 5925651.150750160217285 ], [ 1752972.69950008392334, 5925772.999549865722656 ], [ 1752998.191299915313721, 5925805.088900089263916 ] ] ] } }
+]
+}
