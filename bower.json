@@ -1,0 +1,23 @@
+{
+  "name": "simplified_meshblock_geojson",
+  "version": "0.0.0",
+  "authors": [
+    "Caleb Tutty <caleb@prettymint.co.nz>"
+  ],
+  "description": "New Zealand Meshblock data as GeoJSON",
+  "keywords": [
+    "geojson",
+    "new",
+    "zealand"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
