@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0936700", "AU2014": "527210", "AU2014_NAM": "Waerenga", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "013", "TA2014_NAM": "Waikato District", "WARD2014": "01304", "WARD2014_N": "Hukanui-Waerenga Ward", "CB2014": "01399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0302", "CON2014_NA": "Waikato Constituency", "MCON2014": "0301", "MCON2014_N": "Nga Hau e Wha Maori Constituency", "GED2007": "054", "GED2007_NA": "Waikato", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 5131.910991, "SHAPE_Area": 1424601.014530 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.257512183594002, -37.336317400119356 ], [ 175.257452716872251, -37.336475033232063 ], [ 175.260870433246623, -37.341162133374375 ], [ 175.259536216521212, -37.341036616783335 ], [ 175.26252981657538, -37.347197816804304 ], [ 175.26257166680287, -37.347267916769702 ], [ 175.25701639980781, -37.349473983105284 ], [ 175.250427516713245, -37.352085266648032 ], [ 175.244928383284218, -37.344046883507644 ], [ 175.25505763338154, -37.339072566540999 ], [ 175.256505183411235, -37.337096216737429 ], [ 175.257512183594002, -37.336317400119356 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0938202", "AU2014": "526900", "AU2014_NAM": "Te Kauwhata", "UA2014": "304", "UA2014_NAM": "Te Kauwhata", "TA2014": "013", "TA2014_NAM": "Waikato District", "WARD2014": "01303", "WARD2014_N": "Whangamarino Ward", "CB2014": "01399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0302", "CON2014_NA": "Waikato Constituency", "MCON2014": "0301", "MCON2014_N": "Nga Hau e Wha Maori Constituency", "GED2007": "054", "GED2007_NA": "Waikato", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1181.378746, "SHAPE_Area": 81212.407388 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.146592633227499, -37.40246703334131 ], [ 175.146934333409547, -37.402367283183466 ], [ 175.147837583222469, -37.404332533105105 ], [ 175.146045049833589, -37.40483955009519 ], [ 175.144955633056441, -37.405150550047907 ], [ 175.143587200102388, -37.405201483328497 ], [ 175.142978666642307, -37.405147083129748 ], [ 175.14310743347761, -37.404829283415488 ], [ 175.144226033480436, -37.403158900008414 ], [ 175.144392333237676, -37.403104333217549 ], [ 175.145158216824456, -37.402899016611407 ], [ 175.146592633227499, -37.40246703334131 ] ] ] } }
+]
+}

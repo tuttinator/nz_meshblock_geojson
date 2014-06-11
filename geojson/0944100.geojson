@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0944100", "AU2014": "527402", "AU2014_NAM": "Huntly East", "UA2014": "217", "UA2014_NAM": "Huntly", "TA2014": "013", "TA2014_NAM": "Waikato District", "WARD2014": "01306", "WARD2014_N": "Huntly Ward", "CB2014": "01302", "CB2014_NAM": "Huntly Community", "TASUB2014": "01399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0302", "CON2014_NA": "Waikato Constituency", "MCON2014": "0301", "MCON2014_N": "Nga Hau e Wha Maori Constituency", "GED2007": "054", "GED2007_NA": "Waikato", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 658.082984, "SHAPE_Area": 20161.707048 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.160760266973483, -37.561909616778216 ], [ 175.160656083292878, -37.559668050075011 ], [ 175.161301883415632, -37.559651650001321 ], [ 175.161378166492398, -37.559756233452141 ], [ 175.16159766676364, -37.560225666546735 ], [ 175.161697900188443, -37.56201920009557 ], [ 175.160760266973483, -37.561909616778216 ] ] ] } }
+]
+}
