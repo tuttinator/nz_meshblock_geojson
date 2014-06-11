@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1052400", "AU2014": "533501", "AU2014_NAM": "Moanataiari", "UA2014": "226", "UA2014_NAM": "Thames", "TA2014": "011", "TA2014_NAM": "Thames-Coromandel District", "WARD2014": "01103", "WARD2014_N": "Thames Ward", "CB2014": "01103", "CB2014_NAM": "Thames Community", "TASUB2014": "01199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0301", "CON2014_NA": "Thames-Coromandel Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "007", "GED2007_NA": "Coromandel", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 810.443352, "SHAPE_Area": 39620.151734 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.545039266874653, -37.13759899982778 ], [ 175.546199716955527, -37.138797866489178 ], [ 175.54598213333486, -37.138864683423385 ], [ 175.545247966659502, -37.139094133305242 ], [ 175.543978550020029, -37.139491233284929 ], [ 175.543314716869759, -37.138117866495286 ], [ 175.543077033188098, -37.137625283101904 ], [ 175.543077016898224, -37.137625200095336 ], [ 175.544363649781644, -37.13723143337436 ], [ 175.544615349777871, -37.137157049823259 ], [ 175.545039266874653, -37.13759899982778 ] ] ] } }
+]
+}

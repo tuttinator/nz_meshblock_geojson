@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0998400", "AU2014": "531200", "AU2014_NAM": "Otorohanga", "UA2014": "218", "UA2014_NAM": "Otorohanga", "TA2014": "018", "TA2014_NAM": "Otorohanga District", "WARD2014": "01804", "WARD2014_N": "Otorohanga Ward", "CB2014": "01802", "CB2014_NAM": "Otorohanga Community", "TASUB2014": "01899", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0306", "CON2014_NA": "Waipa-King Country Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "049", "GED2007_NA": "Taranaki-King Country", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 668.274121, "SHAPE_Area": 23741.416958 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.212183400129305, -38.187356799990518 ], [ 175.211059599860448, -38.189060966851386 ], [ 175.21099046644585, -38.189198950156211 ], [ 175.210838399744574, -38.189144516553185 ], [ 175.210699299861915, -38.189093633487474 ], [ 175.210534333184683, -38.189035949813203 ], [ 175.210477283285684, -38.189018399939592 ], [ 175.209967633394598, -38.18884296675219 ], [ 175.211029850024261, -38.186949516572078 ], [ 175.211524083530492, -38.187123949944237 ], [ 175.21171246692353, -38.187194416460649 ], [ 175.212183400129305, -38.187356799990518 ] ] ] } }
+]
+}

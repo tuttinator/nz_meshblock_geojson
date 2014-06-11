@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0963600", "AU2014": "527502", "AU2014_NAM": "Cambridge West", "UA2014": "007", "UA2014_NAM": "Cambridge Zone", "TA2014": "017", "TA2014_NAM": "Waipa District", "WARD2014": "01702", "WARD2014_N": "Cambridge Ward", "CB2014": "01701", "CB2014_NAM": "Cambridge Community", "TASUB2014": "01701", "TASUB2014_": "Cambridge Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0306", "CON2014_NA": "Waipa-King Country Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "050", "GED2007_NA": "Taupo", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1020.379699, "SHAPE_Area": 64245.938155 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.458798749834699, -37.885056550180153 ], [ 175.461365000010943, -37.884918783226723 ], [ 175.46158686645802, -37.887459533342472 ], [ 175.45900981675058, -37.887609266611825 ], [ 175.45888356676241, -37.886055583506334 ], [ 175.458798749834699, -37.885056550180153 ] ] ] } }
+]
+}

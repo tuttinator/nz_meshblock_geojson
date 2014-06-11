@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0990200", "AU2014": "527700", "AU2014_NAM": "Kihikihi", "UA2014": "008", "UA2014_NAM": "Te Awamutu Zone", "TA2014": "017", "TA2014_NAM": "Waipa District", "WARD2014": "01704", "WARD2014_N": "Te Awamutu Ward", "CB2014": "01702", "CB2014_NAM": "Te Awamutu Community", "TASUB2014": "01703", "TASUB2014_": "Te Awamutu Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0306", "CON2014_NA": "Waipa-King Country Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "049", "GED2007_NA": "Taranaki-King Country", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1489.532014, "SHAPE_Area": 115967.935594 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.35273381670234, -38.035270266687412 ], [ 175.355229783523896, -38.035589783414153 ], [ 175.354671050084733, -38.038273616480851 ], [ 175.35424183310613, -38.040239216592788 ], [ 175.351757549826033, -38.03991933318887 ], [ 175.352180716579312, -38.037944633302672 ], [ 175.35273381670234, -38.035270266687412 ] ] ] } }
+]
+}

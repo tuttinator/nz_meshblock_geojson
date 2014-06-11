@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1041703", "AU2014": "532700", "AU2014_NAM": "Otangiwai-Heao", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "036", "TA2014_NAM": "Ruapehu District", "WARD2014": "03601", "WARD2014_N": "Ohura Ward", "CB2014": "03699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0801", "CON2014_NA": "Ruapehu Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "049", "GED2007_NA": "Taranaki-King Country", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 4103.148969, "SHAPE_Area": 816656.996608 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.127103849958189, -38.720797033091564 ], [ 175.127011350285102, -38.720876633404529 ], [ 175.117425383379299, -38.729229266528911 ], [ 175.117701133294815, -38.715116599900242 ], [ 175.117702900261861, -38.715028333101003 ], [ 175.119401400292531, -38.71378618336216 ], [ 175.119412349764559, -38.713777983075978 ], [ 175.125130449902514, -38.717248999895936 ], [ 175.125742566833935, -38.718778650027687 ], [ 175.12630771690263, -38.719521399830981 ], [ 175.126401833576296, -38.719995483498586 ], [ 175.127103849958189, -38.720797033091564 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0983003", "AU2014": "527922", "AU2014_NAM": "Pirongia", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "017", "TA2014_NAM": "Waipa District", "WARD2014": "01701", "WARD2014_N": "Pirongia Ward", "CB2014": "01799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0306", "CON2014_NA": "Waipa-King Country Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "049", "GED2007_NA": "Taranaki-King Country", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1343.401406, "SHAPE_Area": 99705.274513 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.201142750086035, -37.987487083374624 ], [ 175.201435483108611, -37.987514366693063 ], [ 175.203523133235507, -37.98768521648347 ], [ 175.203675616694198, -37.987698933212741 ], [ 175.20625256673901, -37.987937633145641 ], [ 175.206241833464759, -37.988059249914336 ], [ 175.205966416847474, -37.989912166588752 ], [ 175.205744249748221, -37.989891266803049 ], [ 175.203383866666655, -37.989673333284557 ], [ 175.203257249966185, -37.98966158341711 ], [ 175.20150636655805, -37.989524599949036 ], [ 175.200863733117217, -37.989455950018261 ], [ 175.201142750086035, -37.987487083374624 ] ] ] } }
+]
+}

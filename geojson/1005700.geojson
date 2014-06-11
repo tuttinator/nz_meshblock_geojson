@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1005700", "AU2014": "532000", "AU2014_NAM": "Te Kuiti", "UA2014": "219", "UA2014_NAM": "Te Kuiti", "TA2014": "020", "TA2014_NAM": "Waitomo District", "WARD2014": "02002", "WARD2014_N": "Te Kuiti Ward", "CB2014": "02099", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0306", "CON2014_NA": "Waipa-King Country Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "049", "GED2007_NA": "Taranaki-King Country", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 920.444479, "SHAPE_Area": 42380.153578 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.171063816615515, -38.334575533119803 ], [ 175.169778316441921, -38.333237116564717 ], [ 175.171078450071235, -38.332451499865385 ], [ 175.171159716900064, -38.332559783292965 ], [ 175.172635000190127, -38.334423416594539 ], [ 175.173094149738489, -38.334998583333238 ], [ 175.172074150150394, -38.335614683431075 ], [ 175.171063816615515, -38.334575533119803 ] ] ] } }
+]
+}

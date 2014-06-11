@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1037000", "AU2014": "532902", "AU2014_NAM": "Taumarunui Central", "UA2014": "220", "UA2014_NAM": "Taumarunui", "TA2014": "036", "TA2014_NAM": "Ruapehu District", "WARD2014": "03602", "WARD2014_N": "Taumarunui Ward", "CB2014": "03699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0801", "CON2014_NA": "Ruapehu Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "042", "GED2007_NA": "Rangitikei", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 570.475816, "SHAPE_Area": 19793.911546 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.259225050016539, -38.884390666827237 ], [ 175.259401883527573, -38.88438244998509 ], [ 175.260882000078453, -38.884336783509369 ], [ 175.261007716989894, -38.884331300092079 ], [ 175.261029650115205, -38.884421483266337 ], [ 175.261270683269174, -38.88541736665389 ], [ 175.261141899996375, -38.885421966879285 ], [ 175.259467500262645, -38.885467349952634 ], [ 175.25928285000785, -38.885473516631237 ], [ 175.259225050016539, -38.884390666827237 ] ] ] } }
+]
+}
