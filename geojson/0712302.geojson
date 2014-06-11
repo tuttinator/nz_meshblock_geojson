@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0712302", "AU2014": "523713", "AU2014_NAM": "Ormiston", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07610", "WARD2014_N": "Howick Ward", "CB2014": "07616", "CB2014_NAM": "Howick Local Board Area", "TASUB2014": "07613", "TASUB2014_": "Botany Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "003", "GED2007_NA": "Botany", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 2443.573363, "SHAPE_Area": 334491.790609 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.90866333319633, -36.95747309978502 ], [ 174.906655049830988, -36.964575100011075 ], [ 174.904019683023819, -36.96409818327534 ], [ 174.90196280013393, -36.963727550141641 ], [ 174.903089749792827, -36.960290916749756 ], [ 174.903427100075788, -36.959262183245059 ], [ 174.904267116864531, -36.956700733158812 ], [ 174.907651216909017, -36.957295233504411 ], [ 174.90866333319633, -36.95747309978502 ] ] ] } }
+]
+}

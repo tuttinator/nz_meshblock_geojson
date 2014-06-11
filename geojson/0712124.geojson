@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0712124", "AU2014": "523115", "AU2014_NAM": "Baverstock Oaks", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07610", "WARD2014_N": "Howick Ward", "CB2014": "07616", "CB2014_NAM": "Howick Local Board Area", "TASUB2014": "07613", "TASUB2014_": "Botany Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "003", "GED2007_NA": "Botany", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 626.134248, "SHAPE_Area": 23675.133048 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.920752400038793, -36.957360566795828 ], [ 174.92051493342214, -36.958258883092945 ], [ 174.920328700186104, -36.958961550133715 ], [ 174.920147983425295, -36.95891496653001 ], [ 174.918881033511553, -36.958687783199927 ], [ 174.919093533523466, -36.957891733138759 ], [ 174.919146316806092, -36.957693483404654 ], [ 174.919304916616454, -36.957103516859029 ], [ 174.919493750255782, -36.957156566788242 ], [ 174.920752400038793, -36.957360566795828 ] ] ] } }
+]
+}

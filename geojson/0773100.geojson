@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0773100", "AU2014": "524812", "AU2014_NAM": "Weymouth East", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07612", "WARD2014_N": "Manurewa-Papakura Ward", "CB2014": "07619", "CB2014_NAM": "Manurewa Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "024", "GED2007_NA": "Manurewa", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1351.921883, "SHAPE_Area": 102105.697339 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.866355449751381, -37.045073066665239 ], [ 174.86601849987369, -37.047132316576793 ], [ 174.865677050145678, -37.049086549778174 ], [ 174.864410599768348, -37.048942250157673 ], [ 174.863126933586642, -37.04879521686378 ], [ 174.863484449992171, -37.046830216796195 ], [ 174.863836533511318, -37.044804766820285 ], [ 174.866355449751381, -37.045073066665239 ] ] ] } }
+]
+}

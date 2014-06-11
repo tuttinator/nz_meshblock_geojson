@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0759734", "AU2014": "523816", "AU2014_NAM": "Randwick Park", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07612", "WARD2014_N": "Manurewa-Papakura Ward", "CB2014": "07619", "CB2014_NAM": "Manurewa Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "039", "GED2007_NA": "Papakura", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 864.238835, "SHAPE_Area": 29322.522333 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.90999286677669, -37.025470033114253 ], [ 174.909975899940747, -37.024390100156438 ], [ 174.910267450072666, -37.02437890003209 ], [ 174.910823049768254, -37.024374866572323 ], [ 174.910932550244439, -37.024347349843637 ], [ 174.910940366819688, -37.025261966535332 ], [ 174.910951650049299, -37.026801349825156 ], [ 174.910978466530082, -37.0271151334886 ], [ 174.911058916725295, -37.027290633256108 ], [ 174.910957233254976, -37.027325866869816 ], [ 174.91030521675421, -37.027554883499469 ], [ 174.91000006676677, -37.027546366536995 ], [ 174.90999286677669, -37.025470033114253 ] ] ] } }
+]
+}

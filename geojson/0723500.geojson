@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0723500", "AU2014": "524002", "AU2014_NAM": "Mangere Bridge", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07611", "WARD2014_N": "Manukau Ward", "CB2014": "07617", "CB2014_NAM": "Mangere-Otahuhu Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "022", "GED2007_NA": "Mangere", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 550.358119, "SHAPE_Area": 18185.459143 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.782603100263174, -36.945684650015487 ], [ 174.782782850159009, -36.946329016907583 ], [ 174.782874400204179, -36.946652433312934 ], [ 174.7827610997889, -36.946673833234414 ], [ 174.782320466717039, -36.946753333162377 ], [ 174.781912799848044, -36.946826916534981 ], [ 174.781637449769931, -36.946876649869729 ], [ 174.781275183168759, -36.946942016891697 ], [ 174.781071233379265, -36.946979000018871 ], [ 174.780940350275074, -36.94651203342201 ], [ 174.780937200159713, -36.94650066669557 ], [ 174.780823433588324, -36.946094633498831 ], [ 174.780796000114293, -36.946005200035565 ], [ 174.782603100263174, -36.945684650015487 ] ] ] } }
+]
+}

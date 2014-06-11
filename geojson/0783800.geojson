@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0783800", "AU2014": "521901", "AU2014_NAM": "Otahuhu West", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07611", "WARD2014_N": "Manukau Ward", "CB2014": "07617", "CB2014_NAM": "Mangere-Otahuhu Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "023", "GED2007_NA": "Manukau East", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 620.672464, "SHAPE_Area": 21102.444812 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.841734199856546, -36.942143800069502 ], [ 174.841457566427295, -36.941857999820158 ], [ 174.841962166653076, -36.941748066627667 ], [ 174.843507866907032, -36.941433983192795 ], [ 174.843875433425325, -36.941352499895068 ], [ 174.844170833253003, -36.942272516715569 ], [ 174.84262243345853, -36.942593466611413 ], [ 174.842217449792315, -36.94267408322046 ], [ 174.841734199856546, -36.942143800069502 ] ] ] } }
+]
+}

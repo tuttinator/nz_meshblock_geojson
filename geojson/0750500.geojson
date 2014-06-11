@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0750500", "AU2014": "525001", "AU2014_NAM": "Manurewa Central", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07612", "WARD2014_N": "Manurewa-Papakura Ward", "CB2014": "07619", "CB2014_NAM": "Manurewa Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "024", "GED2007_NA": "Manurewa", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1008.172740, "SHAPE_Area": 48451.714007 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.885181266843716, -37.013919216545233 ], [ 174.886806083559065, -37.013379616606798 ], [ 174.887827250256748, -37.013190616606458 ], [ 174.889072583053462, -37.012948050136522 ], [ 174.889371650179982, -37.0128951166852 ], [ 174.88970558341893, -37.014020183183092 ], [ 174.88752888344203, -37.014467183264081 ], [ 174.886422366621019, -37.014674400080999 ], [ 174.885707800177101, -37.014905966805344 ], [ 174.885183716977252, -37.013924150111094 ], [ 174.885181266843716, -37.013919216545233 ] ] ] } }
+]
+}

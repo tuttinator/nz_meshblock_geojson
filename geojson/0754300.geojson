@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0754300", "AU2014": "524901", "AU2014_NAM": "Hillpark", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07612", "WARD2014_N": "Manurewa-Papakura Ward", "CB2014": "07619", "CB2014_NAM": "Manurewa Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "024", "GED2007_NA": "Manurewa", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 839.523361, "SHAPE_Area": 43673.086348 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.892126383313666, -37.008664416916282 ], [ 174.89264979988917, -37.008482883155111 ], [ 174.894229733150468, -37.007950433495182 ], [ 174.89512498337632, -37.00962609998605 ], [ 174.895173483295736, -37.009712299814815 ], [ 174.893684566767291, -37.010211666584475 ], [ 174.89299486647252, -37.010444849976622 ], [ 174.89297195001393, -37.010340066698724 ], [ 174.892607866915284, -37.009668000165902 ], [ 174.892598800067049, -37.009647449936871 ], [ 174.892548400026868, -37.009411066503603 ], [ 174.892354700110047, -37.009108250069545 ], [ 174.89217188356281, -37.008764666741357 ], [ 174.892126383313666, -37.008664416916282 ] ] ] } }
+]
+}

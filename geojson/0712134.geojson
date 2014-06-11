@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0712134", "AU2014": "523114", "AU2014_NAM": "Point View", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07610", "WARD2014_N": "Howick Ward", "CB2014": "07616", "CB2014_NAM": "Howick Local Board Area", "TASUB2014": "07613", "TASUB2014_": "Botany Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "003", "GED2007_NA": "Botany", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 440.427872, "SHAPE_Area": 11254.575666 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.91231041679643, -36.947257566722591 ], [ 174.912456616540851, -36.947281833182103 ], [ 174.913006366522126, -36.947376166803693 ], [ 174.913159166519961, -36.9474118001636 ], [ 174.912965566570449, -36.948145883475398 ], [ 174.912802066451007, -36.948676416722208 ], [ 174.91259616645587, -36.948664949920058 ], [ 174.911975716543282, -36.948517333440343 ], [ 174.912242583151055, -36.947492216857029 ], [ 174.91231041679643, -36.947257566722591 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0780000", "AU2014": "524720", "AU2014_NAM": "Homai East", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07612", "WARD2014_N": "Manurewa-Papakura Ward", "CB2014": "07619", "CB2014_NAM": "Manurewa Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "024", "GED2007_NA": "Manurewa", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 534.713546, "SHAPE_Area": 18547.237839 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.882767000114484, -37.01565864989292 ], [ 174.882824066442538, -37.015582416740585 ], [ 174.883138266598053, -37.015163083516299 ], [ 174.883173216593576, -37.015116166500526 ], [ 174.88345169979408, -37.014743050074614 ], [ 174.883511216917128, -37.014663366695707 ], [ 174.883988266912723, -37.014791466503247 ], [ 174.884765983042541, -37.015510450004278 ], [ 174.884771833538906, -37.015534733306993 ], [ 174.88477843349952, -37.015558916826414 ], [ 174.884759716711443, -37.015600200127672 ], [ 174.884200016852645, -37.016345916609254 ], [ 174.883425549920901, -37.015975283382872 ], [ 174.882767000114484, -37.01565864989292 ] ] ] } }
+]
+}

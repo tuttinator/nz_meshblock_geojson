@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0715608", "AU2014": "523721", "AU2014_NAM": "Clover Park", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07611", "WARD2014_N": "Manukau Ward", "CB2014": "07618", "CB2014_NAM": "Otara-Papatoetoe Local Board Area", "TASUB2014": "07615", "TASUB2014_": "Otara Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "024", "GED2007_NA": "Manurewa", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 840.380980, "SHAPE_Area": 41952.301348 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.897561049918124, -36.981408483203758 ], [ 174.898745249952384, -36.981605233455937 ], [ 174.900344283410703, -36.98188400007362 ], [ 174.899910233113673, -36.983508616728422 ], [ 174.897209483216244, -36.982690100049446 ], [ 174.897561049918124, -36.981408483203758 ] ] ] } }
+]
+}

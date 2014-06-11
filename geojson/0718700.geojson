@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0718700", "AU2014": "523300", "AU2014_NAM": "Beachlands-Maraetai", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07613", "WARD2014_N": "Franklin Ward", "CB2014": "07621", "CB2014_NAM": "Franklin Local Board Area", "TASUB2014": "07618", "TASUB2014_": "Wairoa Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "016", "GED2007_NA": "Hunua", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1311.829790, "SHAPE_Area": 65404.170429 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.999377233350117, -36.88784344997439 ], [ 174.999568483290005, -36.887330816518777 ], [ 174.999769899867744, -36.8867909165509 ], [ 175.003240283315705, -36.887569383247886 ], [ 175.004759149931971, -36.887925783099114 ], [ 175.005521600075241, -36.888101733422296 ], [ 175.005484449802225, -36.888206149908214 ], [ 175.005332516624776, -36.888642566841391 ], [ 175.005180166833611, -36.889078883348525 ], [ 175.005151950034303, -36.889158933128023 ], [ 175.003077950229908, -36.88868059987702 ], [ 175.002843533407514, -36.88862851680728 ], [ 175.001154633052522, -36.888253749991939 ], [ 174.999377233350117, -36.88784344997439 ] ] ] } }
+]
+}

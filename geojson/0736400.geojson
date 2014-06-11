@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0736400", "AU2014": "524520", "AU2014_NAM": "Harania West", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07611", "WARD2014_N": "Manukau Ward", "CB2014": "07617", "CB2014_NAM": "Mangere-Otahuhu Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "022", "GED2007_NA": "Mangere", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 648.960944, "SHAPE_Area": 22674.314715 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.816538683106785, -36.970894466868224 ], [ 174.817594116770692, -36.971460266903129 ], [ 174.81857501689251, -36.972005650104698 ], [ 174.817523983201539, -36.972844983397884 ], [ 174.817377916847647, -36.972729549925965 ], [ 174.817119983283504, -36.972520699984713 ], [ 174.816922233324448, -36.972268866704866 ], [ 174.816783066731915, -36.972096166889685 ], [ 174.816720833095843, -36.972063799888787 ], [ 174.815921266627441, -36.971629050187907 ], [ 174.816538683106785, -36.970894466868224 ] ] ] } }
+]
+}

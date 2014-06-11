@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0711721", "AU2014": "523113", "AU2014_NAM": "Greenmount", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07610", "WARD2014_N": "Howick Ward", "CB2014": "07616", "CB2014_NAM": "Howick Local Board Area", "TASUB2014": "07613", "TASUB2014_": "Botany Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "003", "GED2007_NA": "Botany", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 391.106866, "SHAPE_Area": 8842.279879 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.907565400255066, -36.932968549908082 ], [ 174.907683083442862, -36.933056366854409 ], [ 174.907984383447513, -36.933217133230372 ], [ 174.908240300074084, -36.933359149940742 ], [ 174.908019866651159, -36.933590849912541 ], [ 174.907784666619733, -36.933870800139765 ], [ 174.907570233247469, -36.934132833465554 ], [ 174.907322916760819, -36.934085050067978 ], [ 174.906903033050014, -36.934010700041128 ], [ 174.90670576679716, -36.933934100052142 ], [ 174.907065650188287, -36.933517166894461 ], [ 174.907277333294729, -36.933301316856188 ], [ 174.907565400255066, -36.932968549908082 ] ] ] } }
+]
+}
