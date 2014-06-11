@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0797800", "AU2014": "525620", "AU2014_NAM": "Massey Park", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07612", "WARD2014_N": "Manurewa-Papakura Ward", "CB2014": "07620", "CB2014_NAM": "Papakura Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "039", "GED2007_NA": "Papakura", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 786.887109, "SHAPE_Area": 34372.702670 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.954185133545138, -37.061598199890284 ], [ 174.955703283594403, -37.061372966809834 ], [ 174.955729250069027, -37.061521633325526 ], [ 174.955818499951988, -37.061920949930176 ], [ 174.955778183068958, -37.062258749988153 ], [ 174.956099250131444, -37.063721300011679 ], [ 174.956100766781788, -37.063734700133253 ], [ 174.956016149733273, -37.063746866817482 ], [ 174.955459033364889, -37.063824533093452 ], [ 174.954929266972158, -37.063898366486242 ], [ 174.954767366488113, -37.0639221500196 ], [ 174.954559083047883, -37.06338389998416 ], [ 174.954198699975052, -37.061736966773466 ], [ 174.954185133545138, -37.061598199890284 ] ] ] } }
+]
+}

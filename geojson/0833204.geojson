@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0833204", "AU2014": "526106", "AU2014_NAM": "Pukeoware", "UA2014": "215", "UA2014_NAM": "Waiuku", "TA2014": "013", "TA2014_NAM": "Waikato District", "WARD2014": "01301", "WARD2014_N": "Awaroa ki Tuakau Ward", "CB2014": "01399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0302", "CON2014_NA": "Waikato Constituency", "MCON2014": "0301", "MCON2014_N": "Nga Hau e Wha Maori Constituency", "GED2007": "016", "GED2007_NA": "Hunua", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 4391.350697, "SHAPE_Area": 1180941.022720 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.769165133261993, -37.255233549989015 ], [ 174.772483866436659, -37.255972216485731 ], [ 174.779211766663622, -37.258299766539238 ], [ 174.779371416449322, -37.258362833350958 ], [ 174.77933154996532, -37.258451616786921 ], [ 174.774725316691502, -37.267266133235189 ], [ 174.763365149813552, -37.266349100019774 ], [ 174.769165133261993, -37.255233549989015 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0794300", "AU2014": "525630", "AU2014_NAM": "Papakura North East", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07612", "WARD2014_N": "Manurewa-Papakura Ward", "CB2014": "07620", "CB2014_NAM": "Papakura Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "039", "GED2007_NA": "Papakura", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 775.312056, "SHAPE_Area": 37933.741769 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.945490916902031, -37.055929250018629 ], [ 174.947691616461469, -37.055234366884314 ], [ 174.948314616824035, -37.056728850201715 ], [ 174.948245966538082, -37.056850833442944 ], [ 174.947301400013799, -37.057147583375887 ], [ 174.94625091651065, -37.057477466541926 ], [ 174.945490916902031, -37.055929250018629 ] ] ] } }
+]
+}

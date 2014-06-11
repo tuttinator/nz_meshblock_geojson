@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0808302", "AU2014": "521301", "AU2014_NAM": "Drury", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07613", "WARD2014_N": "Franklin Ward", "CB2014": "07621", "CB2014_NAM": "Franklin Local Board Area", "TASUB2014": "07618", "TASUB2014_": "Wairoa Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "039", "GED2007_NA": "Papakura", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1587.791594, "SHAPE_Area": 147961.945312 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.956912300206824, -37.083752816481159 ], [ 174.957379883477273, -37.083883966607964 ], [ 174.960383499834222, -37.084583949994872 ], [ 174.961746016696964, -37.086305300066336 ], [ 174.96182001693964, -37.086321450028947 ], [ 174.961590083032576, -37.087047199812503 ], [ 174.956881666692425, -37.087353683075754 ], [ 174.955755200214696, -37.087496216685693 ], [ 174.956016033584092, -37.086544233213644 ], [ 174.956852849895682, -37.083879816857312 ], [ 174.956912300206824, -37.083752816481159 ] ] ] } }
+]
+}

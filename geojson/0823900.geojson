@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0823900", "AU2014": "525922", "AU2014_NAM": "Bledisloe Park", "UA2014": "101", "UA2014_NAM": "Pukekohe", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07613", "WARD2014_N": "Franklin Ward", "CB2014": "07621", "CB2014_NAM": "Franklin Local Board Area", "TASUB2014": "07617", "TASUB2014_": "Pukekohe Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "016", "GED2007_NA": "Hunua", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1397.358652, "SHAPE_Area": 117437.698495 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.909477316538926, -37.207282983168604 ], [ 174.909529050283538, -37.207499433422917 ], [ 174.909548899979939, -37.207579633292937 ], [ 174.909812933433955, -37.208696933249826 ], [ 174.910091050240652, -37.20988335017212 ], [ 174.905543883561734, -37.210516983496206 ], [ 174.905509783584137, -37.210385216848756 ], [ 174.904967433448405, -37.208143383094907 ], [ 174.904912383438415, -37.208049016866454 ], [ 174.905061533230594, -37.20803593324834 ], [ 174.909477316538926, -37.207282983168604 ] ] ] } }
+]
+}

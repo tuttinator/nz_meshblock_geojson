@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0821900", "AU2014": "525921", "AU2014_NAM": "Pukekohe West", "UA2014": "101", "UA2014_NAM": "Pukekohe", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07613", "WARD2014_N": "Franklin Ward", "CB2014": "07621", "CB2014_NAM": "Franklin Local Board Area", "TASUB2014": "07617", "TASUB2014_": "Pukekohe Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "016", "GED2007_NA": "Hunua", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1021.149197, "SHAPE_Area": 63753.309636 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.897619199964538, -37.204123233309929 ], [ 174.898286983402016, -37.204157933245682 ], [ 174.900717533446624, -37.204284783312978 ], [ 174.90083684972862, -37.204283483256638 ], [ 174.900633583458614, -37.206322300194536 ], [ 174.899567399728141, -37.206265783170316 ], [ 174.899117833149205, -37.206167249818748 ], [ 174.898902966937158, -37.206118966745073 ], [ 174.897387483501404, -37.206060466671858 ], [ 174.897465016607242, -37.205159099942286 ], [ 174.897556983127174, -37.20419598326626 ], [ 174.897619199964538, -37.204123233309929 ] ] ] } }
+]
+}

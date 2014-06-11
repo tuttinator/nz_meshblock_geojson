@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0805200", "AU2014": "525530", "AU2014_NAM": "Rosehill", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07612", "WARD2014_N": "Manurewa-Papakura Ward", "CB2014": "07620", "CB2014_NAM": "Papakura Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "039", "GED2007_NA": "Papakura", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 490.743836, "SHAPE_Area": 14118.899402 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.939920050186799, -37.075789383397101 ], [ 174.941345966463899, -37.075848033365034 ], [ 174.941350983489116, -37.075984350013442 ], [ 174.941305866743875, -37.076684816888914 ], [ 174.941120099878731, -37.07670589994315 ], [ 174.939733200048124, -37.076841233482149 ], [ 174.93973471654445, -37.076772866633739 ], [ 174.939677533383076, -37.076394933166235 ], [ 174.939697883490652, -37.076392966655632 ], [ 174.939830816575039, -37.076380049798296 ], [ 174.939900433040322, -37.076150566516311 ], [ 174.939916033509434, -37.07587889979888 ], [ 174.939920050186799, -37.075789383397101 ] ] ] } }
+]
+}
