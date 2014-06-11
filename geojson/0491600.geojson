@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0491600", "AU2014": "516002", "AU2014_NAM": "Remuera South", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07608", "WARD2014_N": "Orakei Ward", "CB2014": "07614", "CB2014_NAM": "Orakei Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "012", "GED2007_NA": "Epsom", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 766.013798, "SHAPE_Area": 33945.457295 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.791718099986326, -36.880852016665706 ], [ 174.792416099790614, -36.879862433193033 ], [ 174.792521516622031, -36.879706733479779 ], [ 174.793186533224201, -36.879917683368966 ], [ 174.793237600029357, -36.879934083475071 ], [ 174.79440536655278, -36.880306816795681 ], [ 174.794868416780446, -36.880396099947902 ], [ 174.794319099924053, -36.881659199945183 ], [ 174.794159033264918, -36.881611583352949 ], [ 174.791718099986326, -36.880852016665706 ] ] ] } }
+]
+}

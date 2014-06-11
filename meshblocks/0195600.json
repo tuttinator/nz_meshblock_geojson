@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "MB2014": "0195600", "AU2014": "508510", "AU2014_NAM": "Forrest Hill", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07605", "CB2014_NAM": "Devonport-Takapuna Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "032", "GED2007_NA": "North Shore", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 883.507889, "SHAPE_Area": 39406.872748 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1755816.03534984588623, 5929113.637100219726562 ], [ 1756015.24590015411377, 5929177.514999866485596 ], [ 1756119.649350166320801, 5929208.932600021362305 ], [ 1756138.944849967956543, 5929153.969900131225586 ], [ 1756158.846250057220459, 5929092.120749950408936 ], [ 1755941.296249866485596, 5929024.254799842834473 ], [ 1755853.447549819946289, 5928997.257050037384033 ], [ 1755849.622350215911865, 5929011.227200031280518 ], [ 1755816.03534984588623, 5929113.637100219726562 ] ] ] } }
-]
-}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0384903", "AU2014": "514900", "AU2014_NAM": "Waterview", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07606", "WARD2014_N": "Whau Ward", "CB2014": "07611", "CB2014_NAM": "Whau Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "026", "GED2007_NA": "Mt Albert", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 268.540346, "SHAPE_Area": 2737.148452 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.700547399944668, -36.88617888336583 ], [ 174.701142666957452, -36.886152566503291 ], [ 174.701721549981357, -36.886415650064919 ], [ 174.701377700141762, -36.886425449961955 ], [ 174.70114965027804, -36.886431999827124 ], [ 174.70108580004117, -36.886433750121697 ], [ 174.700896549962721, -36.88643891648244 ], [ 174.700563333565384, -36.886448016908084 ], [ 174.700546583420959, -36.886448466695477 ], [ 174.700434316748044, -36.886456016726839 ], [ 174.700420966860122, -36.886185983136464 ], [ 174.700547399944668, -36.88617888336583 ] ] ] } }
+]
+}

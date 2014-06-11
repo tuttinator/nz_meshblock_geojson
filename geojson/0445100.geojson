@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0445100", "AU2014": "515700", "AU2014_NAM": "Epsom North", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07612", "CB2014_NAM": "Albert-Eden Local Board Area", "TASUB2014": "07608", "TASUB2014_": "Maungawhau Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "012", "GED2007_NA": "Epsom", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 785.485919, "SHAPE_Area": 34463.603733 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.765293550112887, -36.880037333435055 ], [ 174.766634699824465, -36.87968296675222 ], [ 174.766862866470746, -36.879626850202804 ], [ 174.766996049860325, -36.879576866734091 ], [ 174.766374216806355, -36.882012216524721 ], [ 174.765374249875464, -36.881799816688364 ], [ 174.764674650006981, -36.881659616904464 ], [ 174.764815383118162, -36.881230483491549 ], [ 174.765177833229899, -36.880070366730344 ], [ 174.765293550112887, -36.880037333435055 ] ] ] } }
+]
+}

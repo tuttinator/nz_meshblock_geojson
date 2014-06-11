@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0560200", "AU2014": "518500", "AU2014_NAM": "Three Kings", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07613", "CB2014_NAM": "Puketapapa Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "026", "GED2007_NA": "Mt Albert", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 886.217585, "SHAPE_Area": 49185.524658 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.743376433080243, -36.899594199999783 ], [ 174.743144033287081, -36.900300999936988 ], [ 174.743085999853577, -36.900515483296488 ], [ 174.742886749999087, -36.901123199916796 ], [ 174.741801083550484, -36.900898933293362 ], [ 174.740494483463124, -36.900630349837044 ], [ 174.740798933237897, -36.89965589980801 ], [ 174.740848450141129, -36.899483333421422 ], [ 174.741068083229806, -36.898839633461904 ], [ 174.7411209165017, -36.898683933360878 ], [ 174.743510733055388, -36.899175733174737 ], [ 174.743376433080243, -36.899594199999783 ] ] ] } }
+]
+}

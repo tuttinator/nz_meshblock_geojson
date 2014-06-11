@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0382101", "AU2014": "514401", "AU2014_NAM": "Roberton", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07606", "WARD2014_N": "Whau Ward", "CB2014": "07611", "CB2014_NAM": "Whau Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "026", "GED2007_NA": "Mt Albert", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 559.838830, "SHAPE_Area": 19190.173773 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.702065949781598, -36.891103433244453 ], [ 174.702102366842183, -36.891648183360829 ], [ 174.702160683176061, -36.892520483328646 ], [ 174.700812033212486, -36.892572266564564 ], [ 174.700723650169607, -36.891110483177108 ], [ 174.700833716450376, -36.891108399880359 ], [ 174.702065949781598, -36.891103433244453 ] ] ] } }
+]
+}

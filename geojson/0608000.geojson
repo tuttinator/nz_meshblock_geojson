@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0608000", "AU2014": "520000", "AU2014_NAM": "Te Papapa", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07609", "WARD2014_N": "Maungakiekie-Tamaki Ward", "CB2014": "07615", "CB2014_NAM": "Maungakiekie-Tamaki Local Board Area", "TASUB2014": "07609", "TASUB2014_": "Maungakiekie Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "025", "GED2007_NA": "Maungakiekie", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 962.140201, "SHAPE_Area": 60413.859707 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.805571799911178, -36.925559433179032 ], [ 174.806858349883299, -36.925400083324007 ], [ 174.808264983374016, -36.925501983358409 ], [ 174.808569383252149, -36.927623383253191 ], [ 174.806089283483317, -36.927860433167275 ], [ 174.805831749868616, -36.927307733256477 ], [ 174.805571799911178, -36.925559433179032 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0380600", "AU2014": "514402", "AU2014_NAM": "Glenavon", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07606", "WARD2014_N": "Whau Ward", "CB2014": "07611", "CB2014_NAM": "Whau Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "027", "GED2007_NA": "Mt Roskill", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 816.870525, "SHAPE_Area": 38971.413300 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.702616899724461, -36.903557166549 ], [ 174.702936383115087, -36.903567049947959 ], [ 174.702966416613236, -36.903567966860791 ], [ 174.703125349932918, -36.903918399899112 ], [ 174.703161233281776, -36.904067583085578 ], [ 174.703262816864651, -36.905921683275963 ], [ 174.701799400251161, -36.90599193336417 ], [ 174.701620366888903, -36.905997716653964 ], [ 174.701478083371995, -36.903536533353481 ], [ 174.701587550008128, -36.903534416741103 ], [ 174.702616899724461, -36.903557166549 ] ] ] } }
+]
+}

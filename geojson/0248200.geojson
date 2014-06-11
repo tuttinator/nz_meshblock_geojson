@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0248200", "AU2014": "512202", "AU2014_NAM": "Durham Green", "UA2014": "003", "UA2014_NAM": "Western Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07604", "WARD2014_N": "Waitakere Ward", "CB2014": "07606", "CB2014_NAM": "Henderson-Massey Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "052", "GED2007_NA": "Te Atatu", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 812.707995, "SHAPE_Area": 34436.733157 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.649460383555351, -36.833846383082907 ], [ 174.652670050070185, -36.833781050144104 ], [ 174.652670483586434, -36.833865266912667 ], [ 174.652686216673061, -36.834227600209267 ], [ 174.652690599844959, -36.83432756653071 ], [ 174.652694933555608, -36.834427500193947 ], [ 174.652710716872889, -36.834789833201846 ], [ 174.652714933496895, -36.834874083439807 ], [ 174.651316516795362, -36.83490505009096 ], [ 174.651067249808818, -36.834917216817736 ], [ 174.650887300054791, -36.834946633207551 ], [ 174.649893666572808, -36.835152833083036 ], [ 174.649460383555351, -36.833846383082907 ] ] ] } }
+]
+}

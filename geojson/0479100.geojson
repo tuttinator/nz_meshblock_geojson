@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0479100", "AU2014": "517100", "AU2014_NAM": "Point England", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07609", "WARD2014_N": "Maungakiekie-Tamaki Ward", "CB2014": "07615", "CB2014_NAM": "Maungakiekie-Tamaki Local Board Area", "TASUB2014": "07610", "TASUB2014_": "Tamaki Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "025", "GED2007_NA": "Maungakiekie", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 731.852365, "SHAPE_Area": 28117.449612 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.866961783574652, -36.885464866499611 ], [ 174.866996516851259, -36.885328216874228 ], [ 174.867521466847933, -36.883339766751625 ], [ 174.867558333308182, -36.883193666805617 ], [ 174.868619583552459, -36.883376266814281 ], [ 174.868750783336765, -36.883399049836278 ], [ 174.868715566557256, -36.883530849878262 ], [ 174.868509883332649, -36.884352816789928 ], [ 174.868478883376412, -36.884486683412902 ], [ 174.868159366879325, -36.885661800099143 ], [ 174.867996500104965, -36.885639266579417 ], [ 174.867142150069895, -36.88549508330054 ], [ 174.866961783574652, -36.885464866499611 ] ] ] } }
+]
+}

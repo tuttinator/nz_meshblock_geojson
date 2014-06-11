@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "MB2014": "0234700", "AU2014": "513301", "AU2014_NAM": "Kingdale", "UA2014": "003", "UA2014_NAM": "Western Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07604", "WARD2014_N": "Waitakere Ward", "CB2014": "07606", "CB2014_NAM": "Henderson-Massey Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "052", "GED2007_NA": "Te Atatu", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 769.864311, "SHAPE_Area": 32099.927926 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1744605.85414981842041, 5919529.178400039672852 ], [ 1744615.379499912261963, 5919526.02209997177124 ], [ 1744720.746600151062012, 5919512.641900062561035 ], [ 1744728.373300075531006, 5919513.731100082397461 ], [ 1744721.938250064849854, 5919464.804200172424316 ], [ 1744696.190199851989746, 5919255.049149990081787 ], [ 1744572.354050159454346, 5919270.962500095367432 ], [ 1744583.584400177001953, 5919358.749199867248535 ], [ 1744595.560699939727783, 5919450.629300117492676 ], [ 1744605.85414981842041, 5919529.178400039672852 ] ] ] } }
-]
-}

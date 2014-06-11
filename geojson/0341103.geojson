@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0341103", "AU2014": "510010", "AU2014_NAM": "Beachhaven North", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07604", "CB2014_NAM": "Kaipatiki Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "033", "GED2007_NA": "Northcote", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 441.398329, "SHAPE_Area": 7144.571595 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.687182533199206, -36.790691816613119 ], [ 174.68732666679611, -36.790065916773273 ], [ 174.688028966903289, -36.790170550192478 ], [ 174.688028966670373, -36.790182949799089 ], [ 174.688027399885613, -36.791269283255602 ], [ 174.688028483328623, -36.791363800135557 ], [ 174.687854166907726, -36.791415416826887 ], [ 174.687834666874437, -36.79132586691216 ], [ 174.687719333458972, -36.790780950132088 ], [ 174.687282066793472, -36.790909149913674 ], [ 174.687121650061442, -36.790956283222094 ], [ 174.687182533199206, -36.790691816613119 ] ] ] } }
+]
+}

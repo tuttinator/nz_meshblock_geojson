@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0421600", "AU2014": "515201", "AU2014_NAM": "Herne Bay", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07605", "WARD2014_N": "Waitemata and Gulf Ward", "CB2014": "07610", "CB2014_NAM": "Waitemata Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "001", "GED2007_NA": "Auckland Central", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 807.144752, "SHAPE_Area": 40992.268503 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.727974700149446, -36.846788316778984 ], [ 174.728230116816576, -36.848293500082718 ], [ 174.728131866556225, -36.848295200118216 ], [ 174.727187516765298, -36.848935683477819 ], [ 174.725487950045533, -36.848325283218308 ], [ 174.725867916869873, -36.847677083311183 ], [ 174.725783083218943, -36.847121799925233 ], [ 174.725736583506176, -36.847034166703722 ], [ 174.725752483262966, -36.847032449945075 ], [ 174.726855333451908, -36.846910299874715 ], [ 174.727974700149446, -36.846788316778984 ] ] ] } }
+]
+}

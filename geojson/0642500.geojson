@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0642500", "AU2014": "520402", "AU2014_NAM": "Hamlin", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07609", "WARD2014_N": "Maungakiekie-Tamaki Ward", "CB2014": "07615", "CB2014_NAM": "Maungakiekie-Tamaki Local Board Area", "TASUB2014": "07610", "TASUB2014_": "Tamaki Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "025", "GED2007_NA": "Maungakiekie", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1166.102454, "SHAPE_Area": 53803.573656 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.82750660014122, -36.913315299852336 ], [ 174.827752666510065, -36.913334266660677 ], [ 174.828913333232805, -36.913525849872563 ], [ 174.829386816929883, -36.91402683313418 ], [ 174.830931849896018, -36.915695949894776 ], [ 174.83115998332687, -36.915778849846014 ], [ 174.83113398358077, -36.915878316877439 ], [ 174.831126099912069, -36.915899799875021 ], [ 174.831122566880026, -36.915908766662412 ], [ 174.831029066729684, -36.916105199904202 ], [ 174.827349416669733, -36.915201100201166 ], [ 174.826530083475234, -36.914980733506965 ], [ 174.827082549978201, -36.914875900030204 ], [ 174.827747349824278, -36.9145288332004 ], [ 174.82750660014122, -36.913315299852336 ] ] ] } }
+]
+}

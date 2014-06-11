@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0091600", "AU2014": "502700", "AU2014_NAM": "Mairtown", "UA2014": "001", "UA2014_NAM": "Whangarei", "TA2014": "002", "TA2014_NAM": "Whangarei District", "WARD2014": "00205", "WARD2014_N": "Okara Ward", "CB2014": "00299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "00299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "01", "REGC2014_N": "Northland Region", "CON2014": "0105", "CON2014_NA": "Whangarei Urban Constituency", "MCON2014": "0199", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "062", "GED2007_NA": "Whangarei", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1072.598935, "SHAPE_Area": 50110.200274 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.323639766913573, -35.704942033286791 ], [ 174.323689316580499, -35.704792850112831 ], [ 174.32497140012569, -35.705074583214738 ], [ 174.324366716708994, -35.706886216549506 ], [ 174.323760349993847, -35.708690183380241 ], [ 174.322464466458399, -35.70839816679311 ], [ 174.323046983249128, -35.706686916688255 ], [ 174.323087466562356, -35.706600666865668 ], [ 174.323124366964976, -35.706494966919479 ], [ 174.323639766913573, -35.704942033286791 ] ] ] } }
+]
+}

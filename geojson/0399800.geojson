@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0399800", "AU2014": "515100", "AU2014_NAM": "Westmere", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07605", "WARD2014_N": "Waitemata and Gulf Ward", "CB2014": "07610", "CB2014_NAM": "Waitemata Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "001", "GED2007_NA": "Auckland Central", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 543.592428, "SHAPE_Area": 18099.678035 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.715352466441146, -36.853331899914451 ], [ 174.715353316566819, -36.853327933419486 ], [ 174.715549683524813, -36.853266233389441 ], [ 174.716261400001144, -36.853691383190608 ], [ 174.716541483035996, -36.853823633356072 ], [ 174.716998550003865, -36.854222100026391 ], [ 174.715849350105884, -36.855089833185986 ], [ 174.71580894985297, -36.854967916659128 ], [ 174.71534345018523, -36.854543750217729 ], [ 174.715158199853761, -36.854062066552558 ], [ 174.715352466441146, -36.853331899914451 ] ] ] } }
+]
+}

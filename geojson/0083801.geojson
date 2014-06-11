@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0083801", "AU2014": "502102", "AU2014_NAM": "Kamo East", "UA2014": "001", "UA2014_NAM": "Whangarei", "TA2014": "002", "TA2014_NAM": "Whangarei District", "WARD2014": "00204", "WARD2014_N": "Denby Ward", "CB2014": "00299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "00299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "01", "REGC2014_N": "Northland Region", "CON2014": "0105", "CON2014_NA": "Whangarei Urban Constituency", "MCON2014": "0199", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "062", "GED2007_NA": "Whangarei", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 679.644840, "SHAPE_Area": 26512.765903 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.299892783481454, -35.681182333196702 ], [ 174.29990414999105, -35.681177516891523 ], [ 174.301832283442849, -35.680354983181019 ], [ 174.301925233039981, -35.680315366512488 ], [ 174.302551233248892, -35.681293399915539 ], [ 174.300882233436369, -35.681989433334536 ], [ 174.300422516968155, -35.682187733079765 ], [ 174.30031676692991, -35.682228699938143 ], [ 174.299914233345447, -35.681282899972658 ], [ 174.299892783481454, -35.681182333196702 ] ] ] } }
+]
+}

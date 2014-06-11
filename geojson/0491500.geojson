@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0491500", "AU2014": "516001", "AU2014_NAM": "Mt Hobson", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07608", "WARD2014_N": "Orakei Ward", "CB2014": "07614", "CB2014_NAM": "Orakei Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "012", "GED2007_NA": "Epsom", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 692.013262, "SHAPE_Area": 29760.330671 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.791871083052712, -36.879494699985472 ], [ 174.792521516622031, -36.879706733479779 ], [ 174.792416099790614, -36.879862433193033 ], [ 174.791718099986326, -36.880852016665706 ], [ 174.791569183093429, -36.880808699910062 ], [ 174.790122833161348, -36.880340566897225 ], [ 174.789518583371915, -36.879743933400164 ], [ 174.790344283578122, -36.879229416750178 ], [ 174.790509550235441, -36.879080733276233 ], [ 174.790820649879521, -36.879162666779024 ], [ 174.791871083052712, -36.879494699985472 ] ] ] } }
+]
+}

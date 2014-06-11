@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0232900", "AU2014": "513302", "AU2014_NAM": "Fairdene", "UA2014": "003", "UA2014_NAM": "Western Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07604", "WARD2014_N": "Waitakere Ward", "CB2014": "07606", "CB2014_NAM": "Henderson-Massey Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "052", "GED2007_NA": "Te Atatu", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 776.380876, "SHAPE_Area": 31038.783194 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.616512416677125, -36.861790983466662 ], [ 174.616613450065358, -36.861721166766102 ], [ 174.617821900173652, -36.861383866656816 ], [ 174.618384816871043, -36.861371766865453 ], [ 174.618463366918974, -36.861973416835383 ], [ 174.618352933089284, -36.86252141678613 ], [ 174.617950766446882, -36.862481616887941 ], [ 174.615756050254845, -36.863111216752323 ], [ 174.615620099891288, -36.862999833368761 ], [ 174.615302550241779, -36.862287750120082 ], [ 174.616401583048741, -36.861970649937881 ], [ 174.616512416677125, -36.861790983466662 ] ] ] } }
+]
+}

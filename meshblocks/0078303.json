@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "MB2014": "0078303", "AU2014": "501811", "AU2014_NAM": "Waiotira-Springfield", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "002", "TA2014_NAM": "Whangarei District", "WARD2014": "00206", "WARD2014_N": "Bream Bay Ward", "CB2014": "00299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "00299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "01", "REGC2014_N": "Northland Region", "CON2014": "0107", "CON2014_NA": "Coastal South Constituency", "MCON2014": "0199", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "062", "GED2007_NA": "Whangarei", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 3616.423200, "SHAPE_Area": 800497.251660 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1725873.497399806976318, 6033715.644499778747559 ], [ 1725855.035799980163574, 6033679.608250141143799 ], [ 1725831.397749900817871, 6033630.254650115966797 ], [ 1725732.201849937438965, 6033431.376699924468994 ], [ 1725544.971700191497803, 6033454.653850078582764 ], [ 1724821.835949897766113, 6033602.330999851226807 ], [ 1724811.22700023651123, 6034370.336050033569336 ], [ 1725154.328050136566162, 6034637.466000080108643 ], [ 1725662.924600124359131, 6033971.542250156402588 ], [ 1725873.497399806976318, 6033715.644499778747559 ] ] ] } }
-]
-}

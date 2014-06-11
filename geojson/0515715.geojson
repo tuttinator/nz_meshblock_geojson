@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0515715", "AU2014": "520801", "AU2014_NAM": "Waiheke Island", "UA2014": "214", "UA2014_NAM": "Waiheke Island", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07605", "WARD2014_N": "Waitemata and Gulf Ward", "CB2014": "07609", "CB2014_NAM": "Waiheke Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "001", "GED2007_NA": "Auckland Central", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "11", "LAND20014_": "Island", "SHAPE_Leng": 797.837273, "SHAPE_Area": 41599.136899 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.077622983183772, -36.79371278343401 ], [ 175.079645450231595, -36.792407066869593 ], [ 175.080346849819165, -36.793005283504662 ], [ 175.08042096670863, -36.794004583409077 ], [ 175.080591516937091, -36.794108733438492 ], [ 175.08044143338455, -36.794217999922431 ], [ 175.079743750092632, -36.794666283379449 ], [ 175.078847333415922, -36.794685849970563 ], [ 175.078208083427484, -36.794406800024802 ], [ 175.077708016519182, -36.793911033495633 ], [ 175.077560183262591, -36.793854883302558 ], [ 175.077622983183772, -36.79371278343401 ] ] ] } }
+]
+}

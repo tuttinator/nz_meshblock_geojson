@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0225701", "AU2014": "513512", "AU2014_NAM": "Royal Road West", "UA2014": "003", "UA2014_NAM": "Western Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07604", "WARD2014_N": "Waitakere Ward", "CB2014": "07606", "CB2014_NAM": "Henderson-Massey Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "052", "GED2007_NA": "Te Atatu", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 614.896817, "SHAPE_Area": 20093.652468 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.618544216562555, -36.831897716811717 ], [ 174.618928450124884, -36.831884383283693 ], [ 174.618951600080607, -36.831883400074901 ], [ 174.619367116890544, -36.831870416479788 ], [ 174.619545516641693, -36.832988000201205 ], [ 174.619641216631436, -36.833540283318563 ], [ 174.619695466839289, -36.83398284988693 ], [ 174.619290983158322, -36.833850683488727 ], [ 174.61858228337303, -36.833592449930002 ], [ 174.618429133033089, -36.833516433243567 ], [ 174.618423116869025, -36.833034799788628 ], [ 174.618414966596163, -36.832399616496467 ], [ 174.618544216562555, -36.831897716811717 ] ] ] } }
+]
+}

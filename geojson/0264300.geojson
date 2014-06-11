@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0264300", "AU2014": "511401", "AU2014_NAM": "Fruitvale", "UA2014": "003", "UA2014_NAM": "Western Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07606", "WARD2014_N": "Whau Ward", "CB2014": "07611", "CB2014_NAM": "Whau Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "030", "GED2007_NA": "New Lynn", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1247.909866, "SHAPE_Area": 96660.850069 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.67392631663418, -36.91730076669652 ], [ 174.674059016607629, -36.917219316743129 ], [ 174.676708616870314, -36.915419766803119 ], [ 174.676796250076791, -36.915360700034704 ], [ 174.67691863310182, -36.915476816497311 ], [ 174.678881366496313, -36.917363433172298 ], [ 174.677770199774272, -36.918109099813798 ], [ 174.676097483496648, -36.919236433510754 ], [ 174.67599826667697, -36.919303016896976 ], [ 174.674206683419101, -36.917569666515519 ], [ 174.674041633523075, -36.917406549902047 ], [ 174.67392631663418, -36.91730076669652 ] ] ] } }
+]
+}

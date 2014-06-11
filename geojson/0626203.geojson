@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0626203", "AU2014": "520302", "AU2014_NAM": "Mt Wellington West", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07609", "WARD2014_N": "Maungakiekie-Tamaki Ward", "CB2014": "07615", "CB2014_NAM": "Maungakiekie-Tamaki Local Board Area", "TASUB2014": "07610", "TASUB2014_": "Tamaki Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "025", "GED2007_NA": "Maungakiekie", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 361.281192, "SHAPE_Area": 6769.039885 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.837402633142659, -36.895477300018996 ], [ 174.837573283350565, -36.895469600102224 ], [ 174.837617499820396, -36.896103050043521 ], [ 174.837629016487028, -36.896199583489171 ], [ 174.836510033426038, -36.896245199964547 ], [ 174.836475216425754, -36.895813316529683 ], [ 174.836583000185527, -36.89580644982734 ], [ 174.836924416540967, -36.895791066518726 ], [ 174.836904066510215, -36.895499733449803 ], [ 174.837205799862659, -36.895486200092193 ], [ 174.837245516765734, -36.895484350059178 ], [ 174.837402633142659, -36.895477300018996 ] ] ] } }
+]
+}

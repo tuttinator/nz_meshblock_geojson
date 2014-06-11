@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0316700", "AU2014": "508120", "AU2014_NAM": "Bayswater", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07605", "CB2014_NAM": "Devonport-Takapuna Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "032", "GED2007_NA": "North Shore", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 933.871241, "SHAPE_Area": 41742.469585 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.780617600220211, -36.812745833167924 ], [ 174.781298200091925, -36.813696300190053 ], [ 174.781184566521773, -36.813736749908266 ], [ 174.77796848320699, -36.815257466752193 ], [ 174.777265933515253, -36.814309033429439 ], [ 174.777827016578499, -36.814056016852923 ], [ 174.780617600220211, -36.812745833167924 ] ] ] } }
+]
+}

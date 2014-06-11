@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0382400", "AU2014": "514401", "AU2014_NAM": "Roberton", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07606", "WARD2014_N": "Whau Ward", "CB2014": "07611", "CB2014_NAM": "Whau Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "030", "GED2007_NA": "New Lynn", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 809.192478, "SHAPE_Area": 39670.550927 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.696560166743694, -36.894549633224401 ], [ 174.698843416700555, -36.894588366698478 ], [ 174.698867200152904, -36.89503703318735 ], [ 174.698903866765448, -36.895902649855955 ], [ 174.698955466700198, -36.89656163351119 ], [ 174.698099799724588, -36.896550783373065 ], [ 174.697180250064406, -36.896545183407319 ], [ 174.696864133044301, -36.895557716681438 ], [ 174.696560166743694, -36.894549633224401 ] ] ] } }
+]
+}

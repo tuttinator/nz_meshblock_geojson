@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0574700", "AU2014": "518801", "AU2014_NAM": "Walmsley", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07612", "CB2014_NAM": "Albert-Eden Local Board Area", "TASUB2014": "07607", "TASUB2014_": "Owairaka Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "027", "GED2007_NA": "Mt Roskill", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 682.884632, "SHAPE_Area": 26642.720550 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.726493866835284, -36.893991900010533 ], [ 174.727007450005175, -36.893881366631646 ], [ 174.727070216535367, -36.893809283081353 ], [ 174.727568666804757, -36.894055383384924 ], [ 174.729190766570753, -36.894852483241785 ], [ 174.72848958356434, -36.895780833140428 ], [ 174.726928633303942, -36.895001916875131 ], [ 174.72681816659636, -36.894873183093743 ], [ 174.726756500259171, -36.894800783157748 ], [ 174.726493866835284, -36.893991900010533 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0690800", "AU2014": "523000", "AU2014_NAM": "Pakuranga East", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07610", "WARD2014_N": "Howick Ward", "CB2014": "07616", "CB2014_NAM": "Howick Local Board Area", "TASUB2014": "07611", "TASUB2014_": "Pakuranga Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "037", "GED2007_NA": "Pakuranga", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 610.750949, "SHAPE_Area": 23874.938849 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.887381850042999, -36.907973516572909 ], [ 174.888090816708058, -36.907668883153924 ], [ 174.888514733563682, -36.907537416729831 ], [ 174.888952550079409, -36.907493033122911 ], [ 174.889647466611905, -36.907512950077162 ], [ 174.889657766460601, -36.908245666783571 ], [ 174.889663666755467, -36.908775533164388 ], [ 174.889080516478174, -36.908775450108159 ], [ 174.887922200173534, -36.908783583468747 ], [ 174.887879700034915, -36.908728449822625 ], [ 174.887420766661222, -36.908038233407986 ], [ 174.887381850042999, -36.907973516572909 ] ] ] } }
+]
+}

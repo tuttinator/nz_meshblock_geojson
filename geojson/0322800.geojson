@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0322800", "AU2014": "508020", "AU2014_NAM": "Hauraki", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07605", "CB2014_NAM": "Devonport-Takapuna Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "032", "GED2007_NA": "North Shore", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 647.992516, "SHAPE_Area": 24053.992448 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.772430133299963, -36.802143816527362 ], [ 174.772449749922941, -36.802153400191337 ], [ 174.774186166599435, -36.803049516623986 ], [ 174.774391266591437, -36.803166249796611 ], [ 174.773854866976336, -36.803833016574409 ], [ 174.773700616491794, -36.804026483297321 ], [ 174.773582349763103, -36.803961183092554 ], [ 174.771870333049378, -36.803099433428471 ], [ 174.771716916437299, -36.803028033379853 ], [ 174.772149733547735, -36.802489350145912 ], [ 174.772430133299963, -36.802143816527362 ] ] ] } }
+]
+}

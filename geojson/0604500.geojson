@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0604500", "AU2014": "519900", "AU2014_NAM": "Oranga", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07609", "WARD2014_N": "Maungakiekie-Tamaki Ward", "CB2014": "07615", "CB2014_NAM": "Maungakiekie-Tamaki Local Board Area", "TASUB2014": "07609", "TASUB2014_": "Maungakiekie Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "025", "GED2007_NA": "Maungakiekie", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 694.010971, "SHAPE_Area": 28018.344378 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.801277666527938, -36.908757699931073 ], [ 174.802161983241149, -36.908370533228094 ], [ 174.802170550192926, -36.908462583306665 ], [ 174.802194300247521, -36.908742683475445 ], [ 174.80220663309899, -36.908886350185334 ], [ 174.802232649910763, -36.909194700154558 ], [ 174.802329716623689, -36.909287266682703 ], [ 174.802396300078357, -36.910236933147139 ], [ 174.801591533331873, -36.910273083405265 ], [ 174.801595316969781, -36.910348183070504 ], [ 174.800715783114583, -36.910422016845828 ], [ 174.800613616940723, -36.910420149788415 ], [ 174.800504999748227, -36.909098416907113 ], [ 174.801277666527938, -36.908757699931073 ] ] ] } }
+]
+}

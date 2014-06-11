@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0174411", "AU2014": "505902", "AU2014_NAM": "Manly", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07602", "WARD2014_N": "Albany Ward", "CB2014": "07602", "CB2014_NAM": "Hibiscus and Bays Local Board Area", "TASUB2014": "07605", "TASUB2014_": "Hibiscus Coast Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "044", "GED2007_NA": "Rodney", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 719.862478, "SHAPE_Area": 30766.201251 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.767699566803316, -36.630824366681857 ], [ 174.76785221689039, -36.631035066515807 ], [ 174.767858916967953, -36.631709066592464 ], [ 174.766365566800147, -36.633051433342395 ], [ 174.766294366845784, -36.632971666620335 ], [ 174.765788416920145, -36.632403533449661 ], [ 174.765676933081778, -36.632278416899055 ], [ 174.765348716966656, -36.631910416817377 ], [ 174.765278916893834, -36.631842183424368 ], [ 174.766499683563637, -36.631133750113356 ], [ 174.767069133555424, -36.630958716892295 ], [ 174.767664366662871, -36.630775766890459 ], [ 174.767699566803316, -36.630824366681857 ] ] ] } }
+]
+}

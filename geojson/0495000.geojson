@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0495000", "AU2014": "516003", "AU2014_NAM": "Abbotts Park", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07612", "CB2014_NAM": "Albert-Eden Local Board Area", "TASUB2014": "07608", "TASUB2014_": "Maungawhau Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "025", "GED2007_NA": "Maungakiekie", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 930.616141, "SHAPE_Area": 37636.316396 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.799293466669496, -36.89081956652408 ], [ 174.799368966471235, -36.890760349936862 ], [ 174.800688516471922, -36.891633833106468 ], [ 174.800841899959835, -36.891743600037316 ], [ 174.800295549921884, -36.89223106672938 ], [ 174.799821799852168, -36.891888566894984 ], [ 174.798342416869986, -36.893175616631041 ], [ 174.79810329982368, -36.893383549974146 ], [ 174.798019550154464, -36.893316283395869 ], [ 174.797754833120337, -36.893128999860792 ], [ 174.797164183508556, -36.892708800048979 ], [ 174.797990783343892, -36.89196541690756 ], [ 174.799293466669496, -36.89081956652408 ] ] ] } }
+]
+}

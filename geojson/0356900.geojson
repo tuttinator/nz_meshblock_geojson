@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0356900", "AU2014": "510500", "AU2014_NAM": "Birkenhead East", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07604", "CB2014_NAM": "Kaipatiki Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "033", "GED2007_NA": "Northcote", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 851.459570, "SHAPE_Area": 40881.853315 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.73155729976213, -36.818600066508083 ], [ 174.732951650029634, -36.81789536671161 ], [ 174.733229366931596, -36.818288649889098 ], [ 174.733587216555321, -36.818782716790125 ], [ 174.733837883086466, -36.819155316549001 ], [ 174.734479449905535, -36.820144666569654 ], [ 174.733121166727045, -36.820784366736817 ], [ 174.73155729976213, -36.818600066508083 ] ] ] } }
+]
+}

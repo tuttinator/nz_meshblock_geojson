@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0644101", "AU2014": "520401", "AU2014_NAM": "Ferndale", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07609", "WARD2014_N": "Maungakiekie-Tamaki Ward", "CB2014": "07615", "CB2014_NAM": "Maungakiekie-Tamaki Local Board Area", "TASUB2014": "07610", "TASUB2014_": "Tamaki Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "025", "GED2007_NA": "Maungakiekie", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 630.851364, "SHAPE_Area": 25667.656495 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.824255500289894, -36.897927066885408 ], [ 174.824278666480325, -36.897921450025436 ], [ 174.825966066756621, -36.897556916866179 ], [ 174.82612179985864, -36.897515466765455 ], [ 174.82638598329595, -36.898203783291237 ], [ 174.826423566450444, -36.898435516754219 ], [ 174.826377783087764, -36.898670666899179 ], [ 174.826206116533058, -36.898852550156136 ], [ 174.825664816605979, -36.899243733133304 ], [ 174.825590249785336, -36.899177533246458 ], [ 174.824862650091887, -36.899279966909141 ], [ 174.824562799848394, -36.898594099828372 ], [ 174.82451079987419, -36.898475150177582 ], [ 174.824355799775617, -36.898051233075002 ], [ 174.824255500289894, -36.897927066885408 ] ] ] } }
+]
+}

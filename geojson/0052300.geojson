@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0052300", "AU2014": "501500", "AU2014_NAM": "Moerewa", "UA2014": "207", "UA2014_NAM": "Moerewa", "TA2014": "001", "TA2014_NAM": "Far North District", "WARD2014": "00102", "WARD2014_N": "Bay of Islands-Whangaroa Ward", "CB2014": "00102", "CB2014_NAM": "Bay of Islands-Whangaroa Community", "TASUB2014": "00112", "TASUB2014_": "Kawakawa-Moerewa Subdivision", "REGC2014": "01", "REGC2014_N": "Northland Region", "CON2014": "0104", "CON2014_NA": "Coastal North Constituency", "MCON2014": "0199", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "034", "GED2007_NA": "Northland", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 891.648005, "SHAPE_Area": 44028.449392 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.02324880012182, -35.385631283416288 ], [ 174.023220749924775, -35.385825866546739 ], [ 174.02200613318692, -35.386509916633081 ], [ 174.020740750212354, -35.387214716864285 ], [ 174.019664433114031, -35.385915216560072 ], [ 174.019873066617976, -35.385840683232594 ], [ 174.022737283078953, -35.384813783158322 ], [ 174.022838633309192, -35.384763250213858 ], [ 174.023263633260001, -35.385318450026453 ], [ 174.023257949846197, -35.385397599846669 ], [ 174.02324880012182, -35.385631283416288 ] ] ] } }
+]
+}

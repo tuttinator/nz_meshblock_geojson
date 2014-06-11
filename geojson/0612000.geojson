@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0612000", "AU2014": "520202", "AU2014_NAM": "Ellerslie South", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07608", "WARD2014_N": "Orakei Ward", "CB2014": "07614", "CB2014_NAM": "Orakei Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "025", "GED2007_NA": "Maungakiekie", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 689.117751, "SHAPE_Area": 26893.639845 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.810910400115631, -36.898459933251637 ], [ 174.812764366677555, -36.899090883379436 ], [ 174.813322066612017, -36.899293616517895 ], [ 174.813261449774274, -36.899391316480127 ], [ 174.812617366477099, -36.900138799885887 ], [ 174.81253338331129, -36.900237916485622 ], [ 174.812413650077104, -36.900187749801546 ], [ 174.810487016531738, -36.899422933247081 ], [ 174.81035631692265, -36.899365666874452 ], [ 174.810356916476536, -36.899364633374425 ], [ 174.810652150280049, -36.89888126656291 ], [ 174.810910400115631, -36.898459933251637 ] ] ] } }
+]
+}

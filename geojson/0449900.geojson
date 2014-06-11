@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0449900", "AU2014": "517400", "AU2014_NAM": "Newmarket", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07605", "WARD2014_N": "Waitemata and Gulf Ward", "CB2014": "07610", "CB2014_NAM": "Waitemata Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "012", "GED2007_NA": "Epsom", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 601.578561, "SHAPE_Area": 17009.823883 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.769055833538005, -36.863637016572945 ], [ 174.769512666813256, -36.863734666771748 ], [ 174.768934183199178, -36.865696749834854 ], [ 174.768090633050491, -36.865500633192376 ], [ 174.768557133392505, -36.864076149843534 ], [ 174.7685391330659, -36.864034516614289 ], [ 174.768651266561534, -36.863660533294201 ], [ 174.768682783196283, -36.863556216924387 ], [ 174.769055833538005, -36.863637016572945 ] ] ] } }
+]
+}

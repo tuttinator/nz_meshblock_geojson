@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0573300", "AU2014": "518701", "AU2014_NAM": "Hillsborough West", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07613", "CB2014_NAM": "Puketapapa Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "027", "GED2007_NA": "Mt Roskill", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 871.801533, "SHAPE_Area": 46197.322976 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.745815350017665, -36.921399966608654 ], [ 174.74576738303017, -36.92090120011369 ], [ 174.746472483296998, -36.920864916542065 ], [ 174.747178166442154, -36.920816650000802 ], [ 174.748589950183913, -36.920723333109336 ], [ 174.748666033076745, -36.921543016776759 ], [ 174.74870563325257, -36.921974166857751 ], [ 174.748742283108754, -36.922371649884752 ], [ 174.747316600279362, -36.922463899833026 ], [ 174.745918500162389, -36.92255270002677 ], [ 174.745909749952546, -36.922425950129266 ], [ 174.745815350017665, -36.921399966608654 ] ] ] } }
+]
+}

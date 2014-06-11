@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0652700", "AU2014": "521501", "AU2014_NAM": "Mellons Bay", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07610", "WARD2014_N": "Howick Ward", "CB2014": "07616", "CB2014_NAM": "Howick Local Board Area", "TASUB2014": "07612", "TASUB2014_": "Howick Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "037", "GED2007_NA": "Pakuranga", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 667.555973, "SHAPE_Area": 24912.956749 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.936069216949818, -36.897391116566681 ], [ 174.93619899992342, -36.897377166745301 ], [ 174.935465933582037, -36.898663549922965 ], [ 174.935335583068479, -36.898896333180687 ], [ 174.935259016946077, -36.89902943346469 ], [ 174.934225433075369, -36.89917306671699 ], [ 174.934207016489495, -36.899089449820863 ], [ 174.933897650024392, -36.897720283476581 ], [ 174.934007916704701, -36.897704099931197 ], [ 174.934562233389158, -36.897619849962844 ], [ 174.934617650028571, -36.897611516908825 ], [ 174.935322883376784, -36.897504433218451 ], [ 174.936069216949818, -36.897391116566681 ] ] ] } }
+]
+}

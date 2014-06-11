@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0364200", "AU2014": "509702", "AU2014_NAM": "Tuff Crater", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07604", "CB2014_NAM": "Kaipatiki Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "033", "GED2007_NA": "Northcote", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 634.395928, "SHAPE_Area": 22747.916326 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.74527525016839, -36.794904200156054 ], [ 174.745540099927723, -36.794932449838612 ], [ 174.746344799932842, -36.795011849930674 ], [ 174.746325349945437, -36.795094650107849 ], [ 174.746268483164158, -36.795504116701387 ], [ 174.746254783094457, -36.795603233465755 ], [ 174.746442633547673, -36.79589943315051 ], [ 174.746475366447811, -36.79609840006723 ], [ 174.746381433162441, -36.796760016536929 ], [ 174.746350183064692, -36.796884066539413 ], [ 174.745242633092772, -36.796789899883969 ], [ 174.745027750042311, -36.796748783189976 ], [ 174.74527525016839, -36.794904200156054 ] ] ] } }
+]
+}

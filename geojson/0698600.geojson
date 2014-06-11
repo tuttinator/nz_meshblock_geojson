@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0698600", "AU2014": "523402", "AU2014_NAM": "Otara West", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07611", "WARD2014_N": "Manukau Ward", "CB2014": "07618", "CB2014_NAM": "Otara-Papatoetoe Local Board Area", "TASUB2014": "07615", "TASUB2014_": "Otara Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "023", "GED2007_NA": "Manukau East", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 745.791104, "SHAPE_Area": 29030.201496 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.867924933154285, -36.957781683276949 ], [ 174.869542566515037, -36.958066183210931 ], [ 174.87076426670248, -36.958290133291797 ], [ 174.870474850004314, -36.959257816682907 ], [ 174.868700716935564, -36.958941050201105 ], [ 174.86857104987169, -36.958930283260159 ], [ 174.868406749826391, -36.958932900081017 ], [ 174.868244783370784, -36.958971400064847 ], [ 174.868100733466122, -36.959036650122876 ], [ 174.867648116797312, -36.958556449940168 ], [ 174.867732166844348, -36.958506116685314 ], [ 174.867911199931086, -36.957872199921852 ], [ 174.867924933154285, -36.957781683276949 ] ] ] } }
+]
+}

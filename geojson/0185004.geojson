@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0185004", "AU2014": "508411", "AU2014_NAM": "Glendhu", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07602", "WARD2014_N": "Albany Ward", "CB2014": "07603", "CB2014_NAM": "Upper Harbour Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "015", "GED2007_NA": "Helensville", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 273.717544, "SHAPE_Area": 4804.871726 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.703355166870011, -36.770676249955791 ], [ 174.70365048342137, -36.771058233484368 ], [ 174.703691900076194, -36.771146433126795 ], [ 174.703237666730416, -36.771376616788579 ], [ 174.703026916968952, -36.771389199916463 ], [ 174.702819649904711, -36.771423333098554 ], [ 174.702765450070956, -36.771323300072183 ], [ 174.702586516899544, -36.771024283282294 ], [ 174.703355166870011, -36.770676249955791 ] ] ] } }
+]
+}

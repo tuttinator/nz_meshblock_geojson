@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0394600", "AU2014": "515001", "AU2014_NAM": "Point Chevalier West", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07612", "CB2014_NAM": "Albert-Eden Local Board Area", "TASUB2014": "07607", "TASUB2014_": "Owairaka Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "026", "GED2007_NA": "Mt Albert", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 786.220949, "SHAPE_Area": 30458.346948 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.701442500269138, -36.857514800164864 ], [ 174.702978650089676, -36.857887716820883 ], [ 174.702530816723765, -36.859096000042534 ], [ 174.702377500188987, -36.859491316636273 ], [ 174.701712200261483, -36.859371033210437 ], [ 174.700575500014878, -36.859922333495021 ], [ 174.701442500269138, -36.857514800164864 ] ] ] } }
+]
+}

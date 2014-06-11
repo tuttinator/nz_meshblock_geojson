@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0624500", "AU2014": "519300", "AU2014_NAM": "One Tree Hill Central", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07612", "CB2014_NAM": "Albert-Eden Local Board Area", "TASUB2014": "07608", "TASUB2014_": "Maungawhau Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "012", "GED2007_NA": "Epsom", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1033.140810, "SHAPE_Area": 60444.112293 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.773919899962777, -36.902853666883054 ], [ 174.77570818352325, -36.902544366651107 ], [ 174.777293400266899, -36.902255666568657 ], [ 174.776895766592304, -36.904034233108327 ], [ 174.775770066813891, -36.904615416896192 ], [ 174.774501849732587, -36.905258400077514 ], [ 174.774431616578568, -36.904970233242196 ], [ 174.774284833346172, -36.904371083147545 ], [ 174.774053066854236, -36.903409750119351 ], [ 174.773919899962777, -36.902853666883054 ] ] ] } }
+]
+}

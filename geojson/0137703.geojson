@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0137703", "AU2014": "506616", "AU2014_NAM": "Matheson Bay", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07601", "WARD2014_N": "Rodney Ward", "CB2014": "07601", "CB2014_NAM": "Rodney Local Board Area", "TASUB2014": "07602", "TASUB2014_": "Warkworth Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "044", "GED2007_NA": "Rodney", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 842.581891, "SHAPE_Area": 40707.502199 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.796822050079186, -36.295850050151664 ], [ 174.79806818334319, -36.295293499875484 ], [ 174.798348316488699, -36.295180499982926 ], [ 174.798728250238298, -36.295695483314923 ], [ 174.799622450096223, -36.29720941675555 ], [ 174.799596716843183, -36.297383483499708 ], [ 174.799142750091818, -36.297644483344207 ], [ 174.798414749750549, -36.298060083202181 ], [ 174.797825016749073, -36.297122283370605 ], [ 174.797163199735508, -36.296349199972767 ], [ 174.796822050079186, -36.295850050151664 ] ] ] } }
+]
+}

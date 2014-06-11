@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0696600", "AU2014": "523403", "AU2014_NAM": "Wymondley", "UA2014": "005", "UA2014_NAM": "Southern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07611", "WARD2014_N": "Manukau Ward", "CB2014": "07618", "CB2014_NAM": "Otara-Papatoetoe Local Board Area", "TASUB2014": "07615", "TASUB2014_": "Otara Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "023", "GED2007_NA": "Manukau East", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 558.423609, "SHAPE_Area": 16954.327685 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.861237966905151, -36.956542483420542 ], [ 174.861572916506702, -36.957172183483841 ], [ 174.861329550252009, -36.957256783349251 ], [ 174.85957516648341, -36.957898450209356 ], [ 174.859763016666193, -36.957282250127832 ], [ 174.860030199926143, -36.956343499884888 ], [ 174.860928483047275, -36.956507399901007 ], [ 174.861237966905151, -36.956542483420542 ] ] ] } }
+]
+}

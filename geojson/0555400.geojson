@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0555400", "AU2014": "518301", "AU2014_NAM": "Maungawhau", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07612", "CB2014_NAM": "Albert-Eden Local Board Area", "TASUB2014": "07608", "TASUB2014_": "Maungawhau Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "027", "GED2007_NA": "Mt Roskill", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 550.142726, "SHAPE_Area": 17437.122660 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.751339599851576, -36.889267216669893 ], [ 174.751131966619738, -36.889906716771705 ], [ 174.751068316478438, -36.890123516741099 ], [ 174.750539199941102, -36.890010949978333 ], [ 174.750222833536611, -36.88996270014448 ], [ 174.749147166435051, -36.889727783216742 ], [ 174.749171566880364, -36.889652000140899 ], [ 174.749278149808219, -36.889322666482641 ], [ 174.749394599813854, -36.888960000033613 ], [ 174.74942476645046, -36.88886536650817 ], [ 174.751339599851576, -36.889267216669893 ] ] ] } }
+]
+}

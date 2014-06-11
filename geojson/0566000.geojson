@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0566000", "AU2014": "518600", "AU2014_NAM": "Royal Oak", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07613", "CB2014_NAM": "Puketapapa Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "025", "GED2007_NA": "Maungakiekie", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 816.074832, "SHAPE_Area": 33347.959830 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.768923550106223, -36.902054300133059 ], [ 174.770085183317377, -36.902293850222968 ], [ 174.77206403332309, -36.902720200002534 ], [ 174.771748966616798, -36.903713249792006 ], [ 174.768705899746379, -36.903085150154936 ], [ 174.768581816436551, -36.903113383114253 ], [ 174.768626916465308, -36.902973766881317 ], [ 174.768643683453348, -36.902921899904442 ], [ 174.768705583294093, -36.902730416622859 ], [ 174.768762966620756, -36.90255288340488 ], [ 174.768768816507162, -36.902534816872979 ], [ 174.7688977998273, -36.902135933290424 ], [ 174.768923550106223, -36.902054300133059 ] ] ] } }
+]
+}

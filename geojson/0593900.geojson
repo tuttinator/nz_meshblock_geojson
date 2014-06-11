@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0593900", "AU2014": "519720", "AU2014_NAM": "Onehunga North East", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07609", "WARD2014_N": "Maungakiekie-Tamaki Ward", "CB2014": "07615", "CB2014_NAM": "Maungakiekie-Tamaki Local Board Area", "TASUB2014": "07609", "TASUB2014_": "Maungakiekie Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "025", "GED2007_NA": "Maungakiekie", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 685.899463, "SHAPE_Area": 27764.824520 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.7883737331627, -36.911961383124748 ], [ 174.788399766613139, -36.912190116685416 ], [ 174.788558316821479, -36.913334033280954 ], [ 174.788612733450236, -36.913758199774236 ], [ 174.787645000044307, -36.913529366750382 ], [ 174.786651900046564, -36.913295533177781 ], [ 174.786653116916995, -36.913292266469831 ], [ 174.786699816624065, -36.913214733390504 ], [ 174.78654820009271, -36.912046050087909 ], [ 174.787443316431393, -36.912012399921657 ], [ 174.7883737331627, -36.911961383124748 ] ] ] } }
+]
+}

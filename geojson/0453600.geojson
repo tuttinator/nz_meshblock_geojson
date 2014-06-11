@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0453600", "AU2014": "515902", "AU2014_NAM": "Parnell West", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07605", "WARD2014_N": "Waitemata and Gulf Ward", "CB2014": "07610", "CB2014_NAM": "Waitemata Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "012", "GED2007_NA": "Epsom", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 585.670497, "SHAPE_Area": 21797.672707 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.779252283451427, -36.853486266740354 ], [ 174.778875533158214, -36.852886633152266 ], [ 174.778998316799601, -36.852855816503087 ], [ 174.779651266961594, -36.85261614982501 ], [ 174.779715399821299, -36.852596883108902 ], [ 174.780447233090001, -36.852403516561203 ], [ 174.780483499740143, -36.852449049806488 ], [ 174.780693716930898, -36.852872816637387 ], [ 174.780718516800903, -36.852938166830114 ], [ 174.780995600248048, -36.853654683367957 ], [ 174.780448833470558, -36.853860900097125 ], [ 174.779672483322685, -36.854154016657624 ], [ 174.779252283451427, -36.853486266740354 ] ] ] } }
+]
+}

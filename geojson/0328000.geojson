@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0328000", "AU2014": "509400", "AU2014_NAM": "Mt Victoria", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07605", "CB2014_NAM": "Devonport-Takapuna Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "032", "GED2007_NA": "North Shore", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 618.179689, "SHAPE_Area": 21826.221776 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.806912549809141, -36.822921733094056 ], [ 174.808111216882224, -36.824134499801872 ], [ 174.808055200052706, -36.824324000077141 ], [ 174.807643316716479, -36.825093283400619 ], [ 174.807567850194971, -36.825180716494174 ], [ 174.806757666706346, -36.824380716677915 ], [ 174.806397983426308, -36.824028416493768 ], [ 174.806332083320285, -36.823805799816512 ], [ 174.806205683443523, -36.823382416632199 ], [ 174.806912549809141, -36.822921733094056 ] ] ] } }
+]
+}

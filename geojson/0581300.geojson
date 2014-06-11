@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0581300", "AU2014": "518803", "AU2014_NAM": "Akarana", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07613", "CB2014_NAM": "Puketapapa Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "027", "GED2007_NA": "Mt Roskill", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 941.383437, "SHAPE_Area": 41164.520092 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.743358133515244, -36.908154849901493 ], [ 174.743397449829047, -36.908248550212555 ], [ 174.743529550064892, -36.908563299879248 ], [ 174.744136349877436, -36.909934599791178 ], [ 174.744077199824403, -36.910257899972258 ], [ 174.744060866813726, -36.910347166891256 ], [ 174.743938750273799, -36.910329983260738 ], [ 174.743469933349161, -36.91027520019847 ], [ 174.743334166588653, -36.9102467499333 ], [ 174.741494116746708, -36.909867400109604 ], [ 174.742254799726112, -36.907443516711979 ], [ 174.742658883223186, -36.908354050034639 ], [ 174.74327723356464, -36.908179533470545 ], [ 174.743358133515244, -36.908154849901493 ] ] ] } }
+]
+}

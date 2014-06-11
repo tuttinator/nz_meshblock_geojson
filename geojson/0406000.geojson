@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0406000", "AU2014": "515431", "AU2014_NAM": "Surrey Crescent", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07605", "WARD2014_N": "Waitemata and Gulf Ward", "CB2014": "07610", "CB2014_NAM": "Waitemata Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "001", "GED2007_NA": "Auckland Central", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 605.353653, "SHAPE_Area": 19734.343009 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.733192316590987, -36.865748533436154 ], [ 174.733153050049225, -36.865959866758409 ], [ 174.732250866521696, -36.866723016759138 ], [ 174.730594400008243, -36.866472816715905 ], [ 174.732556516559185, -36.865157883270321 ], [ 174.732641799935209, -36.865245466560012 ], [ 174.732921850141366, -36.865513300034152 ], [ 174.733095166579176, -36.865679083430393 ], [ 174.733192316590987, -36.865748533436154 ] ] ] } }
+]
+}

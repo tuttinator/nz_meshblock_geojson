@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0410400", "AU2014": "515420", "AU2014_NAM": "Grey Lynn East", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07605", "WARD2014_N": "Waitemata and Gulf Ward", "CB2014": "07610", "CB2014_NAM": "Waitemata Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "001", "GED2007_NA": "Auckland Central", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 568.575212, "SHAPE_Area": 18562.721823 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.745721550222612, -36.858355116528045 ], [ 174.745765916801247, -36.858689349964337 ], [ 174.745925783300692, -36.859015983497471 ], [ 174.746078883116922, -36.85933678310073 ], [ 174.746356916479584, -36.859625000210649 ], [ 174.746110266441889, -36.85977601650994 ], [ 174.745473833454071, -36.86017998324246 ], [ 174.745390883467877, -36.860084383148241 ], [ 174.745127233238975, -36.85984984988329 ], [ 174.745069749732352, -36.859770149794862 ], [ 174.744866283359073, -36.859347599996632 ], [ 174.744651266571623, -36.858906649847818 ], [ 174.744599483042236, -36.858437583395336 ], [ 174.745721550222612, -36.858355116528045 ] ] ] } }
+]
+}

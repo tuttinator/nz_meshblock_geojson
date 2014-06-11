@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0535700", "AU2014": "517701", "AU2014_NAM": "Sandringham North", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07612", "CB2014_NAM": "Albert-Eden Local Board Area", "TASUB2014": "07607", "TASUB2014_": "Owairaka Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "026", "GED2007_NA": "Mt Albert", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 908.326648, "SHAPE_Area": 35685.367384 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.736330600019642, -36.877852283320827 ], [ 174.736993366562075, -36.877687883157186 ], [ 174.737900650027655, -36.877877466637344 ], [ 174.7392523665022, -36.87815913310834 ], [ 174.740499900240195, -36.878415699989027 ], [ 174.740611316534739, -36.878418833107425 ], [ 174.74032088354042, -36.879300849991914 ], [ 174.740217799916991, -36.879293633156884 ], [ 174.736959533395833, -36.878616666720468 ], [ 174.736785750223589, -36.878499300103456 ], [ 174.736725766792773, -36.878458650214107 ], [ 174.736548033066441, -36.878211650113037 ], [ 174.736330600019642, -36.877852283320827 ] ] ] } }
+]
+}

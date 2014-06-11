@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0336300", "AU2014": "509500", "AU2014_NAM": "Stanley Bay", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07605", "CB2014_NAM": "Devonport-Takapuna Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "032", "GED2007_NA": "North Shore", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 670.558168, "SHAPE_Area": 21634.077219 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.790199100137727, -36.82563249991194 ], [ 174.790203433324251, -36.825719816848469 ], [ 174.790205516727184, -36.825817833271621 ], [ 174.790317233076394, -36.827796066654109 ], [ 174.790311116654777, -36.827909016534292 ], [ 174.789069833143486, -36.827722750132132 ], [ 174.789078700263303, -36.827678266469086 ], [ 174.789148250110117, -36.827392783282725 ], [ 174.789250066750299, -36.826774766714649 ], [ 174.789408750276493, -36.825750433126956 ], [ 174.789377016926892, -36.825657733427434 ], [ 174.790199100137727, -36.82563249991194 ] ] ] } }
+]
+}

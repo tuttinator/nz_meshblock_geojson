@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "MB2014": "0168702", "AU2014": "506903", "AU2014_NAM": "Torbay", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07602", "WARD2014_N": "Albany Ward", "CB2014": "07602", "CB2014_NAM": "Hibiscus and Bays Local Board Area", "TASUB2014": "07606", "TASUB2014_": "East Coast Bays Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "011", "GED2007_NA": "East Coast Bays", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 377.193027, "SHAPE_Area": 6018.994514 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1755972.763400077819824, 5937071.758950233459473 ], [ 1755975.497350215911865, 5937036.23829984664917 ], [ 1755979.947299957275391, 5936993.291500091552734 ], [ 1755959.297500133514404, 5936990.985650062561035 ], [ 1755927.288350105285645, 5937026.003699779510498 ], [ 1755871.395199775695801, 5937019.761600017547607 ], [ 1755845.301000118255615, 5937057.196400165557861 ], [ 1755963.142749786376953, 5937070.352749824523926 ], [ 1755972.763400077819824, 5937071.758950233459473 ] ] ] } }
-]
-}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0185700", "AU2014": "508411", "AU2014_NAM": "Glendhu", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07604", "CB2014_NAM": "Kaipatiki Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "015", "GED2007_NA": "Helensville", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 813.564370, "SHAPE_Area": 29524.810922 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.709753300023436, -36.77515073344739 ], [ 174.710748033342071, -36.775074333367172 ], [ 174.711241966434557, -36.775428183414014 ], [ 174.712359716786409, -36.775518416536507 ], [ 174.711565266821225, -36.775986549925392 ], [ 174.711146883335118, -36.776910366884934 ], [ 174.710719016687449, -36.777505616835903 ], [ 174.710129383268196, -36.777090349859023 ], [ 174.710143883085522, -36.776403683293395 ], [ 174.710149749827252, -36.776075783389757 ], [ 174.709860066742493, -36.775561099980578 ], [ 174.709753300023436, -36.77515073344739 ] ] ] } }
+]
+}

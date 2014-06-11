@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0622700", "AU2014": "519500", "AU2014_NAM": "Penrose", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07609", "WARD2014_N": "Maungakiekie-Tamaki Ward", "CB2014": "07615", "CB2014_NAM": "Maungakiekie-Tamaki Local Board Area", "TASUB2014": "07609", "TASUB2014_": "Maungakiekie Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "025", "GED2007_NA": "Maungakiekie", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1399.886264, "SHAPE_Area": 91667.610340 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.824245950018963, -36.919013033326436 ], [ 174.826295800064145, -36.918817799992006 ], [ 174.826627099744769, -36.91916719992647 ], [ 174.826663683512123, -36.919198716767831 ], [ 174.829303650108187, -36.922336633381398 ], [ 174.827505916697362, -36.923250349948717 ], [ 174.824245950018963, -36.919013033326436 ] ] ] } }
+]
+}

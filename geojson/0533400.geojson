@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0533400", "AU2014": "517600", "AU2014_NAM": "St Lukes", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07612", "CB2014_NAM": "Albert-Eden Local Board Area", "TASUB2014": "07607", "TASUB2014_": "Owairaka Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "026", "GED2007_NA": "Mt Albert", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 877.659190, "SHAPE_Area": 37495.244730 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.733192816592663, -36.871759049929842 ], [ 174.733747033099348, -36.870919083516732 ], [ 174.733852233452694, -36.8709650002099 ], [ 174.734277033027666, -36.871006883188642 ], [ 174.734310366553672, -36.871010466663002 ], [ 174.734701816982721, -36.871048800022699 ], [ 174.73482034992108, -36.871060900089837 ], [ 174.733762566701415, -36.873619983413278 ], [ 174.733701083570281, -36.873603816761474 ], [ 174.732273783400615, -36.873574566799583 ], [ 174.732038750005103, -36.873514250144645 ], [ 174.732611416944479, -36.872641133494163 ], [ 174.733192816592663, -36.871759049929842 ] ] ] } }
+]
+}

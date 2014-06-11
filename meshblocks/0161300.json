@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "MB2014": "0161300", "AU2014": "507101", "AU2014_NAM": "Browns Bay", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07602", "WARD2014_N": "Albany Ward", "CB2014": "07602", "CB2014_NAM": "Hibiscus and Bays Local Board Area", "TASUB2014": "07606", "TASUB2014_": "East Coast Bays Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "011", "GED2007_NA": "East Coast Bays", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 718.448953, "SHAPE_Area": 30013.595683 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1755672.46999979019165, 5935395.463250160217285 ], [ 1755900.557600021362305, 5935389.559100151062012 ], [ 1755894.379499912261963, 5935257.006700038909912 ], [ 1755668.672299861907959, 5935263.736849784851074 ], [ 1755672.46999979019165, 5935395.463250160217285 ] ] ] } }
-]
-}

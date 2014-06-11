@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0176304", "AU2014": "505804", "AU2014_NAM": "Hatfields Beach", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07602", "WARD2014_N": "Albany Ward", "CB2014": "07602", "CB2014_NAM": "Hibiscus and Bays Local Board Area", "TASUB2014": "07605", "TASUB2014_": "Hibiscus Coast Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "044", "GED2007_NA": "Rodney", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 388.290138, "SHAPE_Area": 6012.192729 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.68559025011669, -36.571815549798892 ], [ 174.685643766633802, -36.571727033202805 ], [ 174.685952700089302, -36.572050133075322 ], [ 174.686629233161398, -36.572297916518188 ], [ 174.686457966649186, -36.572347300006719 ], [ 174.686011666545397, -36.572470766755742 ], [ 174.685031499784117, -36.572742250157788 ], [ 174.685272533196297, -36.572342366748771 ], [ 174.685533266569081, -36.571909833393669 ], [ 174.68559025011669, -36.571815549798892 ] ] ] } }
+]
+}

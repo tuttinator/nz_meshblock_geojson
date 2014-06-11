@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0142600", "AU2014": "505300", "AU2014_NAM": "Wellsford", "UA2014": "210", "UA2014_NAM": "Wellsford", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07601", "WARD2014_N": "Rodney Ward", "CB2014": "07601", "CB2014_NAM": "Rodney Local Board Area", "TASUB2014": "07601", "TASUB2014_": "Wellsford Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "034", "GED2007_NA": "Northland", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 871.622026, "SHAPE_Area": 44885.997940 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.521649533419037, -36.288013116762691 ], [ 174.523176350246615, -36.287313799967542 ], [ 174.524619233293151, -36.289393850071086 ], [ 174.524564383107617, -36.289421050076143 ], [ 174.524550433239028, -36.289427749993678 ], [ 174.52430550000912, -36.289797116594947 ], [ 174.52356113316182, -36.290164433187137 ], [ 174.523288649732848, -36.289932666925758 ], [ 174.522543766946995, -36.289276699939492 ], [ 174.522121216761434, -36.288896866557621 ], [ 174.521456533083466, -36.288106566894413 ], [ 174.521649533419037, -36.288013116762691 ] ] ] } }
+]
+}

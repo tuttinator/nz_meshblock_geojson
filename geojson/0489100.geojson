@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0489100", "AU2014": "516202", "AU2014_NAM": "Waiata", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07608", "WARD2014_N": "Orakei Ward", "CB2014": "07614", "CB2014_NAM": "Orakei Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "012", "GED2007_NA": "Epsom", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1004.932280, "SHAPE_Area": 58496.439681 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.806152750019237, -36.874887583169041 ], [ 174.806007649795305, -36.874963333407436 ], [ 174.805845100208273, -36.875945583400259 ], [ 174.806305233279176, -36.875984399819686 ], [ 174.806130216653941, -36.877080033310968 ], [ 174.803650033057551, -36.876841016652975 ], [ 174.803527316673268, -36.876845483116639 ], [ 174.803250766911617, -36.875716333281567 ], [ 174.803223566880803, -36.875615750086887 ], [ 174.80360021661906, -36.874636783414608 ], [ 174.806020816496726, -36.8748703002044 ], [ 174.806152750019237, -36.874887583169041 ] ] ] } }
+]
+}

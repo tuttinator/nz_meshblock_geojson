@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0618801", "AU2014": "519400", "AU2014_NAM": "One Tree Hill East", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07609", "WARD2014_N": "Maungakiekie-Tamaki Ward", "CB2014": "07615", "CB2014_NAM": "Maungakiekie-Tamaki Local Board Area", "TASUB2014": "07609", "TASUB2014_": "Maungakiekie Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "025", "GED2007_NA": "Maungakiekie", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 364.209856, "SHAPE_Area": 7026.952950 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.798833099770548, -36.900880333239868 ], [ 174.798884116985818, -36.900807050159329 ], [ 174.799654899987388, -36.901112533339592 ], [ 174.799826916809735, -36.901160116707707 ], [ 174.799800183390232, -36.901238466803754 ], [ 174.799515999931799, -36.90191171660225 ], [ 174.79932829974581, -36.901814799793662 ], [ 174.799023800188593, -36.901657499965474 ], [ 174.799086950149984, -36.901490183101544 ], [ 174.798918899792881, -36.901422383434792 ], [ 174.798747733103227, -36.901353316579311 ], [ 174.798564016542116, -36.901279200057459 ], [ 174.798618016831938, -36.901224133371905 ], [ 174.798721649932446, -36.901058533144905 ], [ 174.798833099770548, -36.900880333239868 ] ] ] } }
+]
+}

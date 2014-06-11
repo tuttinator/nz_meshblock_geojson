@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0501200", "AU2014": "516500", "AU2014_NAM": "Mission Bay", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07608", "WARD2014_N": "Orakei Ward", "CB2014": "07614", "CB2014_NAM": "Orakei Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "048", "GED2007_NA": "Tamaki", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 747.447059, "SHAPE_Area": 30888.315779 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.840035699825023, -36.85108088347436 ], [ 174.840011749797185, -36.851210450173703 ], [ 174.839684749930512, -36.851636183519624 ], [ 174.838179016542909, -36.852118733507858 ], [ 174.8379802168445, -36.852210316783776 ], [ 174.838607316849703, -36.850003666515143 ], [ 174.838769233370272, -36.849854983320171 ], [ 174.839059249740956, -36.849785983408118 ], [ 174.839511966835971, -36.849678716588748 ], [ 174.83963363319242, -36.849697200208595 ], [ 174.839899883204737, -36.850678500109957 ], [ 174.840056666981496, -36.850962799982241 ], [ 174.840035699825023, -36.85108088347436 ] ] ] } }
+]
+}

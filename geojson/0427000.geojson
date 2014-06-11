@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0427000", "AU2014": "515301", "AU2014_NAM": "Ponsonby West", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07605", "WARD2014_N": "Waitemata and Gulf Ward", "CB2014": "07610", "CB2014_NAM": "Waitemata Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "001", "GED2007_NA": "Auckland Central", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 530.075986, "SHAPE_Area": 15529.296946 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.73666726644035, -36.853741233296368 ], [ 174.736379516473107, -36.854252083115675 ], [ 174.736225633117527, -36.854308250134103 ], [ 174.735407566975113, -36.8540200835102 ], [ 174.735054983290325, -36.853900316762818 ], [ 174.734491966515435, -36.853701800211283 ], [ 174.7343833001039, -36.853665416467521 ], [ 174.734762950089447, -36.852991316549783 ], [ 174.734925600052179, -36.853025699992585 ], [ 174.736584066958073, -36.853634299999136 ], [ 174.73666726644035, -36.853741233296368 ] ] ] } }
+]
+}

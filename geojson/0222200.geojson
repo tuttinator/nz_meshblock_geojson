@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0222200", "AU2014": "513431", "AU2014_NAM": "Hobsonville East", "UA2014": "003", "UA2014_NAM": "Western Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07602", "WARD2014_N": "Albany Ward", "CB2014": "07603", "CB2014_NAM": "Upper Harbour Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "015", "GED2007_NA": "Helensville", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 870.826553, "SHAPE_Area": 33931.778424 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.659151549970829, -36.795526649957857 ], [ 174.659028616949257, -36.795706616686672 ], [ 174.658494833540431, -36.79634999979335 ], [ 174.656939433078691, -36.797920866705304 ], [ 174.656188000150479, -36.797484866525153 ], [ 174.656975699761631, -36.796428449908461 ], [ 174.657493133378068, -36.795921483444197 ], [ 174.657559383025983, -36.795815633241006 ], [ 174.657597383306523, -36.795636999815244 ], [ 174.657462983500295, -36.7952205166075 ], [ 174.657980983580529, -36.795093050175645 ], [ 174.658183116642249, -36.795085800062829 ], [ 174.658427083455479, -36.79515083308037 ], [ 174.659151549970829, -36.795526649957857 ] ] ] } }
+]
+}

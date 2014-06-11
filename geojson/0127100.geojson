@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0127100", "AU2014": "504800", "AU2014_NAM": "Ruawai", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "003", "TA2014_NAM": "Kaipara District", "WARD2014": "00302", "WARD2014_N": "West Coast-Central Ward", "CB2014": "00399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "00399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "01", "REGC2014_N": "Northland Region", "CON2014": "0103", "CON2014_NA": "Kaipara Constituency", "MCON2014": "0199", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "034", "GED2007_NA": "Northland", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 596.168393, "SHAPE_Area": 20860.616053 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.022643916846192, -36.134987766675103 ], [ 174.022716899909426, -36.135078316546441 ], [ 174.023769233087734, -36.136290416700824 ], [ 174.023804433310801, -36.136437000218329 ], [ 174.022955200213772, -36.136985033109816 ], [ 174.021644566969911, -36.135645800166785 ], [ 174.022643916846192, -36.134987766675103 ] ] ] } }
+]
+}

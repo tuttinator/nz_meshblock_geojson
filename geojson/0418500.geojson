@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0418500", "AU2014": "515500", "AU2014_NAM": "Arch Hill", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07605", "WARD2014_N": "Waitemata and Gulf Ward", "CB2014": "07610", "CB2014_NAM": "Waitemata Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "001", "GED2007_NA": "Auckland Central", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 645.847212, "SHAPE_Area": 18102.579664 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.74913845016701, -36.865758233365817 ], [ 174.74964939992114, -36.866164533304008 ], [ 174.749603666511206, -36.866194566670302 ], [ 174.749595466490405, -36.866200233387566 ], [ 174.748632450269781, -36.866973800054694 ], [ 174.748427333382637, -36.867120466698317 ], [ 174.747776766937051, -36.867542750157313 ], [ 174.747454733447512, -36.867746333223451 ], [ 174.74738863307752, -36.867389433210803 ], [ 174.747266633159626, -36.866767433221206 ], [ 174.747241649967179, -36.866722950137273 ], [ 174.74733748324681, -36.866688083408519 ], [ 174.748508083080537, -36.866261466535022 ], [ 174.74913845016701, -36.865758233365817 ] ] ] } }
+]
+}

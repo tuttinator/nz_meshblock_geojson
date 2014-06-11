@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0360700", "AU2014": "509800", "AU2014_NAM": "Northcote South", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07604", "CB2014_NAM": "Kaipatiki Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "033", "GED2007_NA": "Northcote", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 934.178485, "SHAPE_Area": 38965.931567 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.74487013342781, -36.812899833369983 ], [ 174.745318699949934, -36.813024900019741 ], [ 174.745537983405143, -36.813096833079641 ], [ 174.746648316520435, -36.813435566585824 ], [ 174.746371866450744, -36.814061999841442 ], [ 174.746762400094354, -36.815908849797118 ], [ 174.746777900060891, -36.815992833098484 ], [ 174.746767883213607, -36.816099950010852 ], [ 174.746630799893097, -36.816107416880826 ], [ 174.745608616983134, -36.816054083390902 ], [ 174.745487016844351, -36.815924349887858 ], [ 174.745456266475315, -36.815781583305011 ], [ 174.74487013342781, -36.812899833369983 ] ] ] } }
+]
+}

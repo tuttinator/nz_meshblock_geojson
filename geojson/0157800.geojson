@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0157800", "AU2014": "507200", "AU2014_NAM": "Rothesay Bay", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07602", "WARD2014_N": "Albany Ward", "CB2014": "07602", "CB2014_NAM": "Hibiscus and Bays Local Board Area", "TASUB2014": "07606", "TASUB2014_": "East Coast Bays Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "011", "GED2007_NA": "East Coast Bays", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1358.603583, "SHAPE_Area": 77043.815759 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.747552349831238, -36.721575616560543 ], [ 174.745736783568532, -36.721823733452339 ], [ 174.743604316751885, -36.722109416479931 ], [ 174.745336750114603, -36.720350949936083 ], [ 174.7453449999052, -36.720264599832063 ], [ 174.745382566924349, -36.719550766507297 ], [ 174.745809849987722, -36.719155883125282 ], [ 174.748271049842458, -36.718929366672199 ], [ 174.748440899946047, -36.720019833367118 ], [ 174.74735634991336, -36.720102299862717 ], [ 174.747552349831238, -36.721575616560543 ] ] ] } }
+]
+}

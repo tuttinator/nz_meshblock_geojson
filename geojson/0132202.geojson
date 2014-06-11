@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0132202", "AU2014": "504700", "AU2014_NAM": "Maungaturoto", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "003", "TA2014_NAM": "Kaipara District", "WARD2014": "00303", "WARD2014_N": "Otamatea Ward", "CB2014": "00399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "00399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "01", "REGC2014_N": "Northland Region", "CON2014": "0103", "CON2014_NA": "Kaipara Constituency", "MCON2014": "0199", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "034", "GED2007_NA": "Northland", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 224.730366, "SHAPE_Area": 3117.103870 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.350221866610838, -36.104596816840399 ], [ 174.350324616852902, -36.104581683182289 ], [ 174.350299649769369, -36.104940800041312 ], [ 174.350285699876281, -36.104981650148567 ], [ 174.350095166835104, -36.105165633126809 ], [ 174.350003183541048, -36.105114333520675 ], [ 174.349539366523629, -36.104784633148959 ], [ 174.349669699938744, -36.104684949859958 ], [ 174.349708533171992, -36.104655350125633 ], [ 174.349777600268169, -36.104516499780672 ], [ 174.350221866610838, -36.104596816840399 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0413001", "AU2014": "514000", "AU2014_NAM": "Freemans Bay", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07605", "WARD2014_N": "Waitemata and Gulf Ward", "CB2014": "07610", "CB2014_NAM": "Waitemata Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "001", "GED2007_NA": "Auckland Central", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 482.889852, "SHAPE_Area": 8824.591393 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.751821366877493, -36.852248716807587 ], [ 174.752633133164551, -36.852460066803872 ], [ 174.752500966946485, -36.852782516554143 ], [ 174.752802516512361, -36.852926650196679 ], [ 174.753455749840583, -36.853150900022641 ], [ 174.75345273319752, -36.853150649793243 ], [ 174.753376450204087, -36.853374099941419 ], [ 174.753135683316884, -36.853300450046056 ], [ 174.752911350099197, -36.853365383434976 ], [ 174.751638183518736, -36.852928416749378 ], [ 174.751888749897802, -36.852414133146794 ], [ 174.751871983309115, -36.852330183324035 ], [ 174.751821366877493, -36.852248716807587 ] ] ] } }
+]
+}

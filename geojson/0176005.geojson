@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0176005", "AU2014": "506300", "AU2014_NAM": "Dairy Flat-Redvale", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07602", "WARD2014_N": "Albany Ward", "CB2014": "07602", "CB2014_NAM": "Hibiscus and Bays Local Board Area", "TASUB2014": "07606", "TASUB2014_": "East Coast Bays Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "044", "GED2007_NA": "Rodney", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 702.125891, "SHAPE_Area": 28396.851294 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.70000451691709, -36.682953783440865 ], [ 174.700179049983518, -36.683073616725864 ], [ 174.701678516833454, -36.684323299800589 ], [ 174.701762250123522, -36.684403233445686 ], [ 174.700700533431842, -36.685301250194321 ], [ 174.699136266568701, -36.683692599949389 ], [ 174.70000451691709, -36.682953783440865 ] ] ] } }
+]
+}

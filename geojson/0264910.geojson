@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0264910", "AU2014": "511303", "AU2014_NAM": "Lynnmall", "UA2014": "003", "UA2014_NAM": "Western Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07606", "WARD2014_N": "Whau Ward", "CB2014": "07611", "CB2014_NAM": "Whau Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "030", "GED2007_NA": "New Lynn", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 385.485873, "SHAPE_Area": 9050.242717 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.68056308312083, -36.911644316909438 ], [ 174.680786650224405, -36.911718949909272 ], [ 174.681273816734375, -36.911881683277358 ], [ 174.681262583423035, -36.911908516766019 ], [ 174.681258866762875, -36.911928833466526 ], [ 174.681259283052441, -36.911945699893664 ], [ 174.681272216840853, -36.911959000060975 ], [ 174.681314566832526, -36.911971850006026 ], [ 174.681589933473077, -36.912058716761443 ], [ 174.681602633405276, -36.912061899873287 ], [ 174.681249416652122, -36.912756116889057 ], [ 174.680194299917815, -36.912414683379836 ], [ 174.68056308312083, -36.911644316909438 ] ] ] } }
+]
+}

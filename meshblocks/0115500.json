@@ -1,7 +1,0 @@
-{
-"type": "FeatureCollection",
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "MB2014": "0115500", "AU2014": "504600", "AU2014_NAM": "Dargaville", "UA2014": "209", "UA2014_NAM": "Dargaville", "TA2014": "003", "TA2014_NAM": "Kaipara District", "WARD2014": "00301", "WARD2014_N": "Dargaville Ward", "CB2014": "00399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "00399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "01", "REGC2014_N": "Northland Region", "CON2014": "0103", "CON2014_NA": "Kaipara Constituency", "MCON2014": "0199", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "034", "GED2007_NA": "Northland", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 828.593401, "SHAPE_Area": 34453.324276 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1678161.20359992980957, 6022367.424449920654297 ], [ 1678245.068900108337402, 6022296.259799957275391 ], [ 1678215.874750137329102, 6022270.636449813842773 ], [ 1677936.177599906921387, 6022323.203750133514404 ], [ 1677957.0135498046875, 6022437.129000186920166 ], [ 1678007.772950172424316, 6022497.023250102996826 ], [ 1678161.20359992980957, 6022367.424449920654297 ] ] ] } }
-]
-}

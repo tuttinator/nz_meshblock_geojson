@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0513600", "AU2014": "516800", "AU2014_NAM": "Glendowie", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07608", "WARD2014_N": "Orakei Ward", "CB2014": "07614", "CB2014_NAM": "Orakei Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "048", "GED2007_NA": "Tamaki", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 906.648834, "SHAPE_Area": 30861.602839 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.869562316434752, -36.857297099837659 ], [ 174.869630716777721, -36.857203199827353 ], [ 174.870127900027825, -36.857039400170912 ], [ 174.87142726673008, -36.856817316889618 ], [ 174.872116616846114, -36.856700849936971 ], [ 174.873954383558299, -36.858182799825656 ], [ 174.874020966580872, -36.85834276660227 ], [ 174.872009200136574, -36.857946683415918 ], [ 174.871816733145408, -36.857900083338357 ], [ 174.871661066548143, -36.857861099980504 ], [ 174.869562316434752, -36.857297099837659 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0242900", "AU2014": "510800", "AU2014_NAM": "Henderson South", "UA2014": "003", "UA2014_NAM": "Western Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07604", "WARD2014_N": "Waitakere Ward", "CB2014": "07606", "CB2014_NAM": "Henderson-Massey Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "057", "GED2007_NA": "Waitakere", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 572.480482, "SHAPE_Area": 20452.969688 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.632858449925948, -36.881809283510044 ], [ 174.632908766821856, -36.882704633333439 ], [ 174.632920616449297, -36.882806766885366 ], [ 174.632798466631613, -36.882838633519277 ], [ 174.632480916862249, -36.88286091676018 ], [ 174.631593183258019, -36.88289595018761 ], [ 174.631336766909698, -36.882900499802091 ], [ 174.631008833428183, -36.882844483288409 ], [ 174.630911416678146, -36.882424000051941 ], [ 174.630878950257284, -36.881831400028744 ], [ 174.631278933103658, -36.881833733424948 ], [ 174.632737316660865, -36.881800533092878 ], [ 174.632858449925948, -36.881809283510044 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0125100", "AU2014": "504400", "AU2014_NAM": "Te Kopuru", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "003", "TA2014_NAM": "Kaipara District", "WARD2014": "00302", "WARD2014_N": "West Coast-Central Ward", "CB2014": "00399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "00399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "01", "REGC2014_N": "Northland Region", "CON2014": "0103", "CON2014_NA": "Kaipara Constituency", "MCON2014": "0199", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "034", "GED2007_NA": "Northland", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1731.929862, "SHAPE_Area": 125828.575961 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.912185800248949, -36.025121649997551 ], [ 173.913480833201845, -36.025351533315749 ], [ 173.913996249959894, -36.025475050157084 ], [ 173.916620550030473, -36.026565733332269 ], [ 173.917491416743388, -36.026926183516728 ], [ 173.918230850143459, -36.027314199928803 ], [ 173.919525116923893, -36.027988016696987 ], [ 173.916525733289973, -36.029837299812627 ], [ 173.915754133093003, -36.028911483425041 ], [ 173.914683000033165, -36.027773583495332 ], [ 173.912185800248949, -36.025121649997551 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0584200", "AU2014": "518901", "AU2014_NAM": "Lynfield North", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07613", "CB2014_NAM": "Puketapapa Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "027", "GED2007_NA": "Mt Roskill", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 659.547348, "SHAPE_Area": 25688.080056 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.723224750008484, -36.913033349988929 ], [ 174.723948050023239, -36.913802466606079 ], [ 174.723948449908278, -36.913914366837979 ], [ 174.722478299995402, -36.914803049821188 ], [ 174.722162766784692, -36.915019283212906 ], [ 174.722048316463543, -36.914905300211132 ], [ 174.721387350216105, -36.914225983225172 ], [ 174.721309749858449, -36.914140066729885 ], [ 174.72316341647948, -36.912993033251723 ], [ 174.723224750008484, -36.913033349988929 ] ] ] } }
+]
+}

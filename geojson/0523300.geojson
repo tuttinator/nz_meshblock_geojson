@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0523300", "AU2014": "517901", "AU2014_NAM": "Springleigh", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07607", "WARD2014_N": "Albert-Eden-Roskill Ward", "CB2014": "07612", "CB2014_NAM": "Albert-Eden Local Board Area", "TASUB2014": "07607", "TASUB2014_": "Owairaka Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "026", "GED2007_NA": "Mt Albert", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 687.861677, "SHAPE_Area": 24113.105048 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.70501283317131, -36.886149316744735 ], [ 174.706022116602242, -36.885753166782948 ], [ 174.706117850252127, -36.885715883166966 ], [ 174.706085849789844, -36.885827083208298 ], [ 174.706626600244107, -36.886728999814963 ], [ 174.707201100277018, -36.887658966689926 ], [ 174.706673783061802, -36.887868200095767 ], [ 174.70616551680331, -36.8880683500552 ], [ 174.705891866933626, -36.887610850009331 ], [ 174.705683666587021, -36.887263766538069 ], [ 174.70501283317131, -36.886149316744735 ] ] ] } }
+]
+}

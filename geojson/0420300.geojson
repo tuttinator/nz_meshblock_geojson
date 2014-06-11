@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0420300", "AU2014": "515600", "AU2014_NAM": "Eden Terrace", "UA2014": "004", "UA2014_NAM": "Central Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07605", "WARD2014_N": "Waitemata and Gulf Ward", "CB2014": "07610", "CB2014_NAM": "Waitemata Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "001", "GED2007_NA": "Auckland Central", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 408.098144, "SHAPE_Area": 9642.633220 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.756602200061479, -36.862820216907409 ], [ 174.757399999921773, -36.862998866525231 ], [ 174.757999666844881, -36.863129933223064 ], [ 174.757784699940316, -36.86378798343253 ], [ 174.75639886694978, -36.863475949835895 ], [ 174.756456183156104, -36.8633012833713 ], [ 174.756581266476758, -36.86292005007266 ], [ 174.756602200061479, -36.862820216907409 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0291301", "AU2014": "511902", "AU2014_NAM": "Crum Park", "UA2014": "003", "UA2014_NAM": "Western Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07606", "WARD2014_N": "Whau Ward", "CB2014": "07611", "CB2014_NAM": "Whau Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "030", "GED2007_NA": "New Lynn", "MED2007": "3", "MED2007_NA": "Tamaki Makaurau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 483.759647, "SHAPE_Area": 12355.261413 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.673709350080117, -36.920830366834828 ], [ 174.674045849973481, -36.92060513329622 ], [ 174.674351949875955, -36.921689783443831 ], [ 174.674236000144816, -36.921697349914282 ], [ 174.673628083322825, -36.921798716883373 ], [ 174.673387316862716, -36.921838833293855 ], [ 174.673146583270693, -36.921878950104819 ], [ 174.672828883499818, -36.921931966813588 ], [ 174.672735016519226, -36.921947099883688 ], [ 174.67261108349112, -36.921492433068757 ], [ 174.672945399949953, -36.921340333506144 ], [ 174.673278649916483, -36.921117233159052 ], [ 174.673709350080117, -36.920830366834828 ] ] ] } }
+]
+}

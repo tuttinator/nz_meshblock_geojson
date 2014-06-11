@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0198600", "AU2014": "508320", "AU2014_NAM": "Glenfield North", "UA2014": "002", "UA2014_NAM": "Northern Auckland Zone", "TA2014": "076", "TA2014_NAM": "Auckland", "WARD2014": "07603", "WARD2014_N": "North Shore Ward", "CB2014": "07604", "CB2014_NAM": "Kaipatiki Local Board Area", "TASUB2014": "07699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "02", "REGC2014_N": "Auckland Region", "CON2014": "0299", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "033", "GED2007_NA": "Northcote", "MED2007": "5", "MED2007_NA": "Te Tai Tokerau", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1680.636090, "SHAPE_Area": 157436.702429 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.740483016673579, -36.776606166789549 ], [ 174.738930316547055, -36.775302733300883 ], [ 174.738210083245633, -36.774701150172035 ], [ 174.741163683149551, -36.772453083497552 ], [ 174.741440266899303, -36.7728607998719 ], [ 174.742515833345607, -36.774375249868612 ], [ 174.743109816439272, -36.775287283344838 ], [ 174.744023333393756, -36.777115466890585 ], [ 174.743866750189255, -36.77723964998183 ], [ 174.743104116495601, -36.777835033409005 ], [ 174.742470200002174, -36.778281983465071 ], [ 174.740483016673579, -36.776606166789549 ] ] ] } }
+]
+}
