@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0856600", "AU2014": "528200", "AU2014_NAM": "Ngaruawahia", "UA2014": "006", "UA2014_NAM": "Hamilton Zone", "TA2014": "013", "TA2014_NAM": "Waikato District", "WARD2014": "01307", "WARD2014_N": "Ngaruawahia Ward", "CB2014": "01303", "CB2014_NAM": "Ngaruawahia Community", "TASUB2014": "01399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0302", "CON2014_NA": "Waikato Constituency", "MCON2014": "0301", "MCON2014_N": "Nga Hau e Wha Maori Constituency", "GED2007": "054", "GED2007_NA": "Waikato", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 899.192578, "SHAPE_Area": 42345.422980 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.148093366701204, -37.673430149867471 ], [ 175.149851850063698, -37.672786150157272 ], [ 175.150572433289824, -37.674012366478287 ], [ 175.148828600062131, -37.674648400050692 ], [ 175.148353883589465, -37.674789383277925 ], [ 175.147470149924459, -37.674526783176496 ], [ 175.146711083343718, -37.674312783226846 ], [ 175.146359116695692, -37.674066633406753 ], [ 175.146751216795451, -37.673919966764565 ], [ 175.148093366701204, -37.673430149867471 ] ] ] } }
+]
+}

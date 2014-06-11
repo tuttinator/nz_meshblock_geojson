@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0839100", "AU2014": "526200", "AU2014_NAM": "Tuakau", "UA2014": "101", "UA2014_NAM": "Pukekohe", "TA2014": "013", "TA2014_NAM": "Waikato District", "WARD2014": "01301", "WARD2014_N": "Awaroa ki Tuakau Ward", "CB2014": "01305", "CB2014_NAM": "Onewhero-Tuakau Community", "TASUB2014": "01399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0302", "CON2014_NA": "Waikato Constituency", "MCON2014": "0301", "MCON2014_N": "Nga Hau e Wha Maori Constituency", "GED2007": "016", "GED2007_NA": "Hunua", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 574.415607, "SHAPE_Area": 16570.393701 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.945456849841719, -37.259008966551654 ], [ 174.946193633149932, -37.259218483512527 ], [ 174.946256616545554, -37.259341933459211 ], [ 174.945977249834129, -37.260003283133003 ], [ 174.945766383088511, -37.260501850008062 ], [ 174.945559850017361, -37.260965366785989 ], [ 174.945526733367586, -37.261050033281236 ], [ 174.944703616669784, -37.260831166789451 ], [ 174.944821433455814, -37.260538033089205 ], [ 174.945138633094274, -37.259772383384856 ], [ 174.945456849841719, -37.259008966551654 ] ] ] } }
+]
+}

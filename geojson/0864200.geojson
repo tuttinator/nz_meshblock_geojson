@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0864200", "AU2014": "529900", "AU2014_NAM": "Claudelands", "UA2014": "006", "UA2014_NAM": "Hamilton Zone", "TA2014": "016", "TA2014_NAM": "Hamilton City", "WARD2014": "01602", "WARD2014_N": "East Ward", "CB2014": "01699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0305", "CON2014_NA": "Hamilton Constituency", "MCON2014": "0301", "MCON2014_N": "Nga Hau e Wha Maori Constituency", "GED2007": "013", "GED2007_NA": "Hamilton East", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1048.003998, "SHAPE_Area": 51216.897751 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.284584083183262, -37.777310966906597 ], [ 175.283453499936684, -37.777767650031286 ], [ 175.281900866889259, -37.778394883169184 ], [ 175.281806750035173, -37.778312183429776 ], [ 175.281793916874705, -37.778308149829087 ], [ 175.281400383467769, -37.778179083206972 ], [ 175.281696983309502, -37.777166883143252 ], [ 175.285302866925804, -37.775728500206277 ], [ 175.285930650073936, -37.776761583417951 ], [ 175.284584083183262, -37.777310966906597 ] ] ] } }
+]
+}

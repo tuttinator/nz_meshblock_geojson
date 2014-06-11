@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0894000", "AU2014": "530200", "AU2014_NAM": "Hamilton East", "UA2014": "006", "UA2014_NAM": "Hamilton Zone", "TA2014": "016", "TA2014_NAM": "Hamilton City", "WARD2014": "01602", "WARD2014_N": "East Ward", "CB2014": "01699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0305", "CON2014_NA": "Hamilton Constituency", "MCON2014": "0301", "MCON2014_N": "Nga Hau e Wha Maori Constituency", "GED2007": "013", "GED2007_NA": "Hamilton East", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 491.167365, "SHAPE_Area": 11941.273424 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.303799466893935, -37.789062816699285 ], [ 175.303465116892369, -37.789140433291379 ], [ 175.302074150007826, -37.789457916475634 ], [ 175.303068983478113, -37.788040083430957 ], [ 175.303759850063415, -37.788344566819411 ], [ 175.30374165002587, -37.788392283146074 ], [ 175.30364493326897, -37.788686283092346 ], [ 175.303799466893935, -37.789062816699285 ] ] ] } }
+]
+}

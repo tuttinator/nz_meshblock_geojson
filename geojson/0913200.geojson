@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0913200", "AU2014": "528900", "AU2014_NAM": "Frankton Junction", "UA2014": "006", "UA2014_NAM": "Hamilton Zone", "TA2014": "016", "TA2014_NAM": "Hamilton City", "WARD2014": "01601", "WARD2014_N": "West Ward", "CB2014": "01699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0305", "CON2014_NA": "Hamilton Constituency", "MCON2014": "0301", "MCON2014_N": "Nga Hau e Wha Maori Constituency", "GED2007": "014", "GED2007_NA": "Hamilton West", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1247.548031, "SHAPE_Area": 77364.468522 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.271515950156186, -37.785288033474146 ], [ 175.270999499894259, -37.785410133219791 ], [ 175.269873116785277, -37.786337516468883 ], [ 175.269853549990671, -37.786352683201684 ], [ 175.267935233385856, -37.787979299994845 ], [ 175.267739399897891, -37.788147966858858 ], [ 175.266090816556442, -37.78691584983099 ], [ 175.268403183097718, -37.784938449914293 ], [ 175.268490000100769, -37.78488883308669 ], [ 175.268728783237663, -37.784819283205316 ], [ 175.271007083099619, -37.785171833307565 ], [ 175.271515950156186, -37.785288033474146 ] ] ] } }
+]
+}

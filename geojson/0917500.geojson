@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0917500", "AU2014": "529000", "AU2014_NAM": "Swarbrick", "UA2014": "006", "UA2014_NAM": "Hamilton Zone", "TA2014": "016", "TA2014_NAM": "Hamilton City", "WARD2014": "01601", "WARD2014_N": "West Ward", "CB2014": "01699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0305", "CON2014_NA": "Hamilton Constituency", "MCON2014": "0301", "MCON2014_N": "Nga Hau e Wha Maori Constituency", "GED2007": "014", "GED2007_NA": "Hamilton West", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 646.262958, "SHAPE_Area": 22170.929306 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.254821450242133, -37.789903933345109 ], [ 175.255159916576218, -37.789042466540955 ], [ 175.256393900112755, -37.789342866749692 ], [ 175.257621049754221, -37.789643383076942 ], [ 175.257812033284722, -37.789914016564005 ], [ 175.257435716657454, -37.790080833467144 ], [ 175.256762950069117, -37.790379150105757 ], [ 175.254821450242133, -37.789903933345109 ] ] ] } }
+]
+}

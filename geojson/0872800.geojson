@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0872800", "AU2014": "529503", "AU2014_NAM": "Fairview Downs", "UA2014": "006", "UA2014_NAM": "Hamilton Zone", "TA2014": "016", "TA2014_NAM": "Hamilton City", "WARD2014": "01602", "WARD2014_N": "East Ward", "CB2014": "01699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0305", "CON2014_NA": "Hamilton Constituency", "MCON2014": "0301", "MCON2014_N": "Nga Hau e Wha Maori Constituency", "GED2007": "013", "GED2007_NA": "Hamilton East", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 930.735947, "SHAPE_Area": 51192.362122 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.302757266605028, -37.762987500175086 ], [ 175.305797950199008, -37.762140200058582 ], [ 175.306276233162123, -37.763211933082857 ], [ 175.306454433499709, -37.763621166872298 ], [ 175.305497083231643, -37.763909866905188 ], [ 175.303294233543198, -37.764520066858481 ], [ 175.303234549736146, -37.764389383291125 ], [ 175.303014333559872, -37.763749899939505 ], [ 175.302757266605028, -37.762987500175086 ] ] ] } }
+]
+}

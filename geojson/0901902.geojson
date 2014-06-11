@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "0901902", "AU2014": "528700", "AU2014_NAM": "Beerescourt", "UA2014": "006", "UA2014_NAM": "Hamilton Zone", "TA2014": "016", "TA2014_NAM": "Hamilton City", "WARD2014": "01601", "WARD2014_N": "West Ward", "CB2014": "01699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0305", "CON2014_NA": "Hamilton Constituency", "MCON2014": "0301", "MCON2014_N": "Nga Hau e Wha Maori Constituency", "GED2007": "014", "GED2007_NA": "Hamilton West", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 843.581185, "SHAPE_Area": 31743.202679 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.262509833032794, -37.769303233151632 ], [ 175.262646533583109, -37.76944023334498 ], [ 175.2628354500564, -37.769914083286352 ], [ 175.263590433485973, -37.772082666465117 ], [ 175.263592566427377, -37.772087833205013 ], [ 175.263004700182449, -37.772210916765687 ], [ 175.262682466944995, -37.772393316771087 ], [ 175.262502716637471, -37.772498583334219 ], [ 175.262524300206849, -37.772364900206817 ], [ 175.261584416474591, -37.769810166901287 ], [ 175.262248133371941, -37.769377683450507 ], [ 175.262509833032794, -37.769303233151632 ] ] ] } }
+]
+}
