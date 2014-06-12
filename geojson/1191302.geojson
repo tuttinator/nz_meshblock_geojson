@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1191302", "AU2014": "536514", "AU2014_NAM": "Bethlehem", "UA2014": "009", "UA2014_NAM": "Tauranga", "TA2014": "023", "TA2014_NAM": "Tauranga City", "WARD2014": "02302", "WARD2014_N": "Otumoetai-Pyes Pa Ward", "CB2014": "02399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0402", "CON2014_NA": "Tauranga Constituency", "MCON2014": "0401", "MCON2014_N": "Mauao Maori Constituency", "GED2007": "002", "GED2007_NA": "Bay of Plenty", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 381.208948, "SHAPE_Area": 8657.587963 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.092562316945305, -37.743333816776257 ], [ 176.093037950028162, -37.743511066578868 ], [ 176.093111833407534, -37.743538683130296 ], [ 176.093265299964429, -37.743584433382736 ], [ 176.093186717027265, -37.74397925009346 ], [ 176.093133533618328, -37.744550366735531 ], [ 176.092972583144189, -37.744503183464865 ], [ 176.092070016605675, -37.744166916675155 ], [ 176.092247983205681, -37.743865833203138 ], [ 176.092562316945305, -37.743333816776257 ] ] ] } }
+]
+}

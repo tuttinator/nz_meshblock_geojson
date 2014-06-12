@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1736000", "AU2014": "559500", "AU2014_NAM": "Marton", "UA2014": "259", "UA2014_NAM": "Marton", "TA2014": "038", "TA2014_NAM": "Rangitikei District", "WARD2014": "03804", "WARD2014_N": "Marton Ward", "CB2014": "03899", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03899", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0803", "CON2014_NA": "Manawatu-Rangitikei Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "042", "GED2007_NA": "Rangitikei", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 555.979330, "SHAPE_Area": 17332.467660 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.376346533209812, -40.06693859987881 ], [ 175.376503466883491, -40.06695986683669 ], [ 175.377409600013408, -40.067171799779068 ], [ 175.377083850298362, -40.068786100123809 ], [ 175.375999900157694, -40.068582850006884 ], [ 175.376346533209812, -40.06693859987881 ] ] ] } }
+]
+}

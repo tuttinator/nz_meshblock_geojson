@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1474109", "AU2014": "548612", "AU2014_NAM": "Lochain", "UA2014": "013", "UA2014_NAM": "Hastings Zone", "TA2014": "030", "TA2014_NAM": "Hastings District", "WARD2014": "03004", "WARD2014_N": "Flaxmere Ward", "CB2014": "03099", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "06", "REGC2014_N": "Hawke's Bay Region", "CON2014": "0605", "CON2014_NA": "Hastings Constituency", "MCON2014": "0699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "053", "GED2007_NA": "Tukituki", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 521.334396, "SHAPE_Area": 15151.287158 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.779180217089731, -39.617652549609851 ], [ 176.779381583425078, -39.617705016471412 ], [ 176.780148316780895, -39.617902116298708 ], [ 176.780021833367186, -39.618194166359388 ], [ 176.779830016663226, -39.618636999826848 ], [ 176.779632333424189, -39.619090683114941 ], [ 176.779571116919243, -39.619231183172616 ], [ 176.779506583411433, -39.619381133027709 ], [ 176.778738366918162, -39.619183249779141 ], [ 176.778545717040743, -39.619131316665637 ], [ 176.778830933349269, -39.618466866700714 ], [ 176.779180217089731, -39.617652549609851 ] ] ] } }
+]
+}

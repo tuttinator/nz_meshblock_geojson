@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1568800", "AU2014": "552500", "AU2014_NAM": "Struan Park", "UA2014": "014", "UA2014_NAM": "New Plymouth", "TA2014": "033", "TA2014_NAM": "New Plymouth District", "WARD2014": "03301", "WARD2014_N": "New Plymouth City Ward", "CB2014": "03399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "07", "REGC2014_N": "Taranaki Region", "CON2014": "0702", "CON2014_NA": "New Plymouth Constituency", "MCON2014": "0799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "031", "GED2007_NA": "New Plymouth", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 778.564760, "SHAPE_Area": 37836.725014 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.08277493343283, -39.074405249849598 ], [ 174.082715116812977, -39.074286766711197 ], [ 174.082285966924331, -39.073414549943294 ], [ 174.084286200270213, -39.072820749862785 ], [ 174.084711733306023, -39.073686566768288 ], [ 174.085135466706504, -39.074534499875774 ], [ 174.084441816772539, -39.074746500160657 ], [ 174.083140583172707, -39.075133183470498 ], [ 174.08277493343283, -39.074405249849598 ] ] ] } }
+]
+}

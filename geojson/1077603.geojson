@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1077603", "AU2014": "534400", "AU2014_NAM": "Waihi", "UA2014": "229", "UA2014_NAM": "Waihi", "TA2014": "012", "TA2014_NAM": "Hauraki District", "WARD2014": "01203", "WARD2014_N": "Waihi Ward", "CB2014": "01299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0301", "CON2014_NA": "Thames-Coromandel Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "007", "GED2007_NA": "Coromandel", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 600.207247, "SHAPE_Area": 20823.922310 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.831100100152184, -37.391413216505683 ], [ 175.830750400129944, -37.392950700078437 ], [ 175.830636416863967, -37.392856599964709 ], [ 175.829407949993822, -37.392840133419071 ], [ 175.82942726694688, -37.392750550113909 ], [ 175.829771500129937, -37.391212699903136 ], [ 175.830984749770522, -37.391388783130289 ], [ 175.831100100152184, -37.391413216505683 ] ] ] } }
+]
+}

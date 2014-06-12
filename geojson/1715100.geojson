@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1715100", "AU2014": "555800", "AU2014_NAM": "Castlecliff South", "UA2014": "015", "UA2014_NAM": "Wanganui", "TA2014": "037", "TA2014_NAM": "Wanganui District", "WARD2014": "03799", "WARD2014_N": "Area Outside Ward", "CB2014": "03799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0802", "CON2014_NA": "Wanganui Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "061", "GED2007_NA": "Whanganui", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1167.928378, "SHAPE_Area": 56139.439380 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.997269883343506, -39.942936749795834 ], [ 174.997733083143686, -39.941892583301808 ], [ 175.000413300191155, -39.942588166550266 ], [ 175.002864083098757, -39.943228616717093 ], [ 175.002407550271045, -39.944249533116263 ], [ 174.997269883343506, -39.942936749795834 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1151500", "AU2014": "535212", "AU2014_NAM": "Kinleith", "UA2014": "102", "UA2014_NAM": "Tokoroa", "TA2014": "019", "TA2014_NAM": "South Waikato District", "WARD2014": "01903", "WARD2014_N": "Tokoroa Ward", "CB2014": "01999", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0303", "CON2014_NA": "Waihou Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "050", "GED2007_NA": "Taupo", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1514.655981, "SHAPE_Area": 140197.612319 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.88030534990844, -38.277368983113448 ], [ 175.882317783473383, -38.27746958344715 ], [ 175.88261523357005, -38.277729033379494 ], [ 175.884685366501287, -38.277863550061177 ], [ 175.88473988338643, -38.280638649933763 ], [ 175.879961066573202, -38.280872416591109 ], [ 175.88030534990844, -38.277368983113448 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1307000", "AU2014": "542410", "AU2014_NAM": "Whakatane North", "UA2014": "104", "UA2014_NAM": "Whakatane", "TA2014": "025", "TA2014_NAM": "Whakatane District", "WARD2014": "02502", "WARD2014_N": "Whakatane-Ohope Ward", "CB2014": "02505", "CB2014_NAM": "Whakatane Community", "TASUB2014": "02599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0404", "CON2014_NA": "Eastern Bay of Plenty Constituency", "MCON2014": "0403", "MCON2014_N": "Kohi Maori Constituency", "GED2007": "010", "GED2007_NA": "East Coast", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 983.388615, "SHAPE_Area": 45380.374171 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.990958650121343, -37.953365466561351 ], [ 176.990775616712824, -37.953462332896947 ], [ 176.990635967169567, -37.953509716269288 ], [ 176.990471300314709, -37.953555183142669 ], [ 176.990292100013392, -37.953595549765105 ], [ 176.990136933319718, -37.953620932988876 ], [ 176.989979499955325, -37.953633866564502 ], [ 176.986803983675856, -37.953617133128397 ], [ 176.986609916691719, -37.95361661636813 ], [ 176.986615067119772, -37.952695833007489 ], [ 176.986616183331648, -37.952534049696183 ], [ 176.990967133633148, -37.952542566565981 ], [ 176.990958650121343, -37.953365466561351 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1662700", "AU2014": "554700", "AU2014_NAM": "Patea", "UA2014": "253", "UA2014_NAM": "Patea", "TA2014": "035", "TA2014_NAM": "South Taranaki District", "WARD2014": "03505", "WARD2014_N": "Patea Ward", "CB2014": "03504", "CB2014_NAM": "Patea Community", "TASUB2014": "03599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "07", "REGC2014_N": "Taranaki Region", "CON2014": "0704", "CON2014_NA": "South Taranaki Constituency", "MCON2014": "0799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "061", "GED2007_NA": "Whanganui", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 787.701519, "SHAPE_Area": 33263.898600 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.475977000272565, -39.758155000041455 ], [ 174.476696983440007, -39.758162749906369 ], [ 174.478733416771831, -39.7581684498237 ], [ 174.478725633421817, -39.759119516875934 ], [ 174.478711633564444, -39.760055499797197 ], [ 174.47775961683169, -39.760055866532412 ], [ 174.476907749804951, -39.759142350082797 ], [ 174.476702450288315, -39.758922183431245 ], [ 174.475977000272565, -39.758155000041455 ] ] ] } }
+]
+}

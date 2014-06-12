@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1531700", "AU2014": "550102", "AU2014_NAM": "Dannevirke East", "UA2014": "245", "UA2014_NAM": "Dannevirke", "TA2014": "041", "TA2014_NAM": "Tararua District", "WARD2014": "04101", "WARD2014_N": "North Tararua Ward", "CB2014": "04101", "CB2014_NAM": "Dannevirke Community", "TASUB2014": "04199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0806", "CON2014_NA": "Tararua Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "056", "GED2007_NA": "Wairarapa", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 2101.998037, "SHAPE_Area": 196354.313051 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.111999683277162, -40.193415016516944 ], [ 176.111392833465374, -40.195120166536839 ], [ 176.111055149938608, -40.196083116765443 ], [ 176.110626083398927, -40.197387033339147 ], [ 176.109809383451477, -40.199822816785826 ], [ 176.109702766564538, -40.200136199811965 ], [ 176.109675916454449, -40.200217566449481 ], [ 176.108244383097855, -40.199956516625058 ], [ 176.105539533632225, -40.199434350043795 ], [ 176.105542016474914, -40.199431049763042 ], [ 176.108175350294317, -40.196000933333202 ], [ 176.110379383625059, -40.193101099918621 ], [ 176.111999683277162, -40.193415016516944 ] ] ] } }
+]
+}

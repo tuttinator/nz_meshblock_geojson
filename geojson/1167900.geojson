@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1167900", "AU2014": "538101", "AU2014_NAM": "Tauranga Hospital", "UA2014": "009", "UA2014_NAM": "Tauranga", "TA2014": "023", "TA2014_NAM": "Tauranga City", "WARD2014": "02303", "WARD2014_N": "Te Papa-Welcome Bay Ward", "CB2014": "02399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0402", "CON2014_NA": "Tauranga Constituency", "MCON2014": "0401", "MCON2014_N": "Mauao Maori Constituency", "GED2007": "051", "GED2007_NA": "Tauranga", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 854.742585, "SHAPE_Area": 45306.204437 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.153109833287573, -37.701075616518054 ], [ 176.15397973310786, -37.701608649822333 ], [ 176.154152966525317, -37.701715799774369 ], [ 176.155228116485688, -37.702381049864258 ], [ 176.154241883397447, -37.703374683112465 ], [ 176.153876349795439, -37.703725716529739 ], [ 176.15279401662076, -37.703059533395312 ], [ 176.152415583286938, -37.702826483314183 ], [ 176.151762900033134, -37.702421549912728 ], [ 176.151862366896523, -37.702318483162593 ], [ 176.153109833287573, -37.701075616518054 ] ] ] } }
+]
+}

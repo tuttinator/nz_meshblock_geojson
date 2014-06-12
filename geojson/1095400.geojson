@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1095400", "AU2014": "534603", "AU2014_NAM": "Springdale", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "015", "TA2014_NAM": "Matamata-Piako District", "WARD2014": "01501", "WARD2014_N": "Morrinsville Ward", "CB2014": "01599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0303", "CON2014_NA": "Waihou Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "007", "GED2007_NA": "Coromandel", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 10119.405305, "SHAPE_Area": 5903967.844160 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.557353450262156, -37.572530066572661 ], [ 175.562647533050125, -37.569410966759449 ], [ 175.573884816592653, -37.562712150052661 ], [ 175.573975433465989, -37.562654516753618 ], [ 175.5740519498585, -37.562735483428824 ], [ 175.583711916586651, -37.572940916892854 ], [ 175.59596138344051, -37.585829533081501 ], [ 175.58726381662143, -37.591015449816098 ], [ 175.579274350210113, -37.595736899776803 ], [ 175.579164016782812, -37.595564766640472 ], [ 175.570737499781245, -37.586666900099083 ], [ 175.558406483583468, -37.573558833260314 ], [ 175.557353450262156, -37.572530066572661 ] ] ] } }
+]
+}

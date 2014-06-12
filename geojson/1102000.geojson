@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1102000", "AU2014": "534800", "AU2014_NAM": "Te Aroha", "UA2014": "230", "UA2014_NAM": "Te Aroha", "TA2014": "015", "TA2014_NAM": "Matamata-Piako District", "WARD2014": "01502", "WARD2014_N": "Te Aroha Ward", "CB2014": "01599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0303", "CON2014_NA": "Waihou Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "007", "GED2007_NA": "Coromandel", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1036.524712, "SHAPE_Area": 66754.782665 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.70592184993879, -37.52924294989522 ], [ 175.70583483357305, -37.529014116826261 ], [ 175.708830750311904, -37.528286916864253 ], [ 175.708971649777311, -37.528652100199388 ], [ 175.709231950243321, -37.529324416662043 ], [ 175.709636900237683, -37.530370283239023 ], [ 175.708475766959623, -37.530638983145145 ], [ 175.706624583450207, -37.531080466647815 ], [ 175.706574900189906, -37.530954633430802 ], [ 175.706232283063144, -37.530059749805005 ], [ 175.706102733187208, -37.529712383422677 ], [ 175.70592184993879, -37.52924294989522 ] ] ] } }
+]
+}

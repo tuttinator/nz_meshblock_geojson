@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1089300", "AU2014": "534902", "AU2014_NAM": "Morrinsville East", "UA2014": "231", "UA2014_NAM": "Morrinsville", "TA2014": "015", "TA2014_NAM": "Matamata-Piako District", "WARD2014": "01501", "WARD2014_N": "Morrinsville Ward", "CB2014": "01599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0303", "CON2014_NA": "Waihou Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "054", "GED2007_NA": "Waikato", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 961.451844, "SHAPE_Area": 56559.045075 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.535158883308355, -37.654457049913511 ], [ 175.536221566490156, -37.655676983302143 ], [ 175.535711766674467, -37.656100249802812 ], [ 175.534940749886601, -37.656740416826317 ], [ 175.53372288331559, -37.657425983097028 ], [ 175.533642816992227, -37.657357316776391 ], [ 175.532872433346597, -37.656495866562132 ], [ 175.532430366606405, -37.656002883115839 ], [ 175.53235901693813, -37.655928566492683 ], [ 175.533790533535011, -37.655175649791033 ], [ 175.5347179165976, -37.654687833304152 ], [ 175.534839683345666, -37.65462374991975 ], [ 175.535158883308355, -37.654457049913511 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1690900", "AU2014": "557500", "AU2014_NAM": "Williams Domain", "UA2014": "015", "UA2014_NAM": "Wanganui", "TA2014": "037", "TA2014_NAM": "Wanganui District", "WARD2014": "03799", "WARD2014_N": "Area Outside Ward", "CB2014": "03799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0802", "CON2014_NA": "Wanganui Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "061", "GED2007_NA": "Whanganui", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 794.188628, "SHAPE_Area": 31464.262018 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.062119200206354, -39.916143200072874 ], [ 175.063089650181411, -39.91702691684268 ], [ 175.063341333080558, -39.917169833499067 ], [ 175.063125966798282, -39.91721814986316 ], [ 175.05988188357847, -39.917335383350441 ], [ 175.05976321664923, -39.917349183474165 ], [ 175.059686983250117, -39.916237083100704 ], [ 175.06062803329533, -39.916198783466534 ], [ 175.062119200206354, -39.916143200072874 ] ] ] } }
+]
+}

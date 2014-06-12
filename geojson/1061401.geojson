@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1061401", "AU2014": "533300", "AU2014_NAM": "Whangamata", "UA2014": "223", "UA2014_NAM": "Whangamata", "TA2014": "011", "TA2014_NAM": "Thames-Coromandel District", "WARD2014": "01104", "WARD2014_N": "South Eastern Ward", "CB2014": "01105", "CB2014_NAM": "Whangamata Community", "TASUB2014": "01199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0301", "CON2014_NA": "Thames-Coromandel Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "007", "GED2007_NA": "Coromandel", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1297.925958, "SHAPE_Area": 105556.185900 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.874969466845869, -37.212191433430313 ], [ 175.875070433570102, -37.212297883173818 ], [ 175.875803916801431, -37.213075266715357 ], [ 175.877165716694634, -37.214523533352093 ], [ 175.876225149852161, -37.215090166698097 ], [ 175.875252933092355, -37.215684899803549 ], [ 175.874234833172835, -37.216278966542319 ], [ 175.872861166843904, -37.214829866852973 ], [ 175.872040766499396, -37.213965583446473 ], [ 175.872768366483314, -37.213521033402344 ], [ 175.873865116775704, -37.21285718333921 ], [ 175.874969466845869, -37.212191433430313 ] ] ] } }
+]
+}

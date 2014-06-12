@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1269300", "AU2014": "541720", "AU2014_NAM": "Taupo Central", "UA2014": "103", "UA2014_NAM": "Taupo", "TA2014": "021", "TA2014_NAM": "Taupo District", "WARD2014": "02102", "WARD2014_N": "Taupo-Kaingaroa Ward", "CB2014": "02199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0304", "CON2014_NA": "Taupo-Rotorua Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "050", "GED2007_NA": "Taupo", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 818.677430, "SHAPE_Area": 35585.182451 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.088306783494147, -38.689763999719773 ], [ 176.088427417003118, -38.689670616452162 ], [ 176.089897133136333, -38.688885650048576 ], [ 176.090031800025542, -38.688832533402362 ], [ 176.091408183194034, -38.690972549786402 ], [ 176.091488749889919, -38.691099149931439 ], [ 176.090781699874611, -38.691366966834039 ], [ 176.090704633074608, -38.691410299894237 ], [ 176.09060508307644, -38.691337566764112 ], [ 176.088306783494147, -38.689763999719773 ] ] ] } }
+]
+}

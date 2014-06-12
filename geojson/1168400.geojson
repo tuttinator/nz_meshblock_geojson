@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1168400", "AU2014": "538102", "AU2014_NAM": "Tauranga South", "UA2014": "009", "UA2014_NAM": "Tauranga", "TA2014": "023", "TA2014_NAM": "Tauranga City", "WARD2014": "02303", "WARD2014_N": "Te Papa-Welcome Bay Ward", "CB2014": "02399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0402", "CON2014_NA": "Tauranga Constituency", "MCON2014": "0401", "MCON2014_N": "Mauao Maori Constituency", "GED2007": "051", "GED2007_NA": "Tauranga", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 944.639066, "SHAPE_Area": 53544.408676 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.160328316858397, -37.705515466422085 ], [ 176.161680683170573, -37.704179149864039 ], [ 176.161692333495438, -37.704186300031289 ], [ 176.162200166575815, -37.704506899978483 ], [ 176.164205233246435, -37.705751983378434 ], [ 176.162851683456978, -37.707073333126708 ], [ 176.162734849896623, -37.706999599889201 ], [ 176.160328316858397, -37.705515466422085 ] ] ] } }
+]
+}

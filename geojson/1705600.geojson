@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1705600", "AU2014": "557200", "AU2014_NAM": "St Johns Hill", "UA2014": "015", "UA2014_NAM": "Wanganui", "TA2014": "037", "TA2014_NAM": "Wanganui District", "WARD2014": "03799", "WARD2014_N": "Area Outside Ward", "CB2014": "03799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0802", "CON2014_NA": "Wanganui Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "061", "GED2007_NA": "Whanganui", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 772.244300, "SHAPE_Area": 31813.151297 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.035608416512815, -39.918755716649429 ], [ 175.036316050282409, -39.919301633290488 ], [ 175.035058549848259, -39.920261450097328 ], [ 175.034103249883231, -39.919520583099789 ], [ 175.033230900269302, -39.918795183385598 ], [ 175.032766783318436, -39.9184584664836 ], [ 175.03309601682713, -39.918349149880228 ], [ 175.033953549978975, -39.918335283181861 ], [ 175.03546633314869, -39.918646149951272 ], [ 175.035608416512815, -39.918755716649429 ] ] ] } }
+]
+}

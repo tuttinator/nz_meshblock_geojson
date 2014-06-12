@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1376100", "AU2014": "544900", "AU2014_NAM": "Riverdale", "UA2014": "011", "UA2014_NAM": "Gisborne", "TA2014": "028", "TA2014_NAM": "Gisborne District", "WARD2014": "02805", "WARD2014_N": "Gisborne Ward", "CB2014": "02899", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02899", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "05", "REGC2014_N": "Gisborne Region", "CON2014": "0599", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "010", "GED2007_NA": "East Coast", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1072.462701, "SHAPE_Area": 65032.176528 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 178.006085033674339, -38.643207198864417 ], [ 178.006017000792639, -38.643269798954556 ], [ 178.005978833692893, -38.644442149201936 ], [ 178.005860067496371, -38.644531332306812 ], [ 178.005728550727895, -38.64451346571974 ], [ 178.003962017066556, -38.644302565584205 ], [ 178.00153770055212, -38.64401026557546 ], [ 178.002249483819526, -38.642443182225342 ], [ 178.004351733839741, -38.642699148992307 ], [ 178.005154083868348, -38.642799565893519 ], [ 178.005481300575298, -38.64283871565808 ], [ 178.006085033674339, -38.643207198864417 ] ] ] } }
+]
+}

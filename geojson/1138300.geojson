@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1138300", "AU2014": "535340", "AU2014_NAM": "Stanley Park", "UA2014": "102", "UA2014_NAM": "Tokoroa", "TA2014": "019", "TA2014_NAM": "South Waikato District", "WARD2014": "01903", "WARD2014_N": "Tokoroa Ward", "CB2014": "01999", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0303", "CON2014_NA": "Waihou Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "050", "GED2007_NA": "Taupo", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 856.415354, "SHAPE_Area": 35111.227808 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.859643283110614, -38.218068700148443 ], [ 175.860185200245468, -38.217908033279777 ], [ 175.8604623168751, -38.218472283318143 ], [ 175.86103978306096, -38.219649183228988 ], [ 175.861489583439266, -38.220585283394804 ], [ 175.860319866686609, -38.220924983085297 ], [ 175.858998899965172, -38.218260716869885 ], [ 175.859643283110614, -38.218068700148443 ] ] ] } }
+]
+}

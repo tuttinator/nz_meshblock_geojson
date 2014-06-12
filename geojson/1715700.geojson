@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1715700", "AU2014": "555900", "AU2014_NAM": "Mosston", "UA2014": "015", "UA2014_NAM": "Wanganui", "TA2014": "037", "TA2014_NAM": "Wanganui District", "WARD2014": "03799", "WARD2014_N": "Area Outside Ward", "CB2014": "03799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0802", "CON2014_NA": "Wanganui Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "061", "GED2007_NA": "Whanganui", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 667.634344, "SHAPE_Area": 26078.867144 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.999225783051031, -39.938861366772969 ], [ 174.999300766838815, -39.938738050115724 ], [ 174.99969373315912, -39.938131800086381 ], [ 174.999920566439982, -39.937997183260059 ], [ 175.000127966951027, -39.937937516869773 ], [ 175.000309600292411, -39.937942550081772 ], [ 175.0010153502582, -39.938135083204372 ], [ 175.002201783295732, -39.938465233088905 ], [ 175.00179538331048, -39.939378250181193 ], [ 175.001751050093048, -39.939484316668498 ], [ 175.000765166509865, -39.939227166711426 ], [ 174.999407900283956, -39.938875300159538 ], [ 174.999225783051031, -39.938861366772969 ] ] ] } }
+]
+}

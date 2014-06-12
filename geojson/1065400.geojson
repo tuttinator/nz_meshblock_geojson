@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1065400", "AU2014": "533903", "AU2014_NAM": "Kerepehi", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "012", "TA2014_NAM": "Hauraki District", "WARD2014": "01201", "WARD2014_N": "Plains Ward", "CB2014": "01299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0303", "CON2014_NA": "Waihou Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "007", "GED2007_NA": "Coromandel", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 964.136121, "SHAPE_Area": 57927.035958 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.54376538355956, -37.298371833285138 ], [ 175.54486494991292, -37.298263566681044 ], [ 175.546666583297736, -37.298439583429776 ], [ 175.546893766711122, -37.299028733336804 ], [ 175.547254733040518, -37.299919116481853 ], [ 175.547310800259481, -37.300057583152096 ], [ 175.544738333316218, -37.300735566609418 ], [ 175.544312550292773, -37.299702200032705 ], [ 175.54376538355956, -37.298371833285138 ] ] ] } }
+]
+}

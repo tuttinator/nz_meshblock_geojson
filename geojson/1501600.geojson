@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1501600", "AU2014": "548300", "AU2014_NAM": "Akina", "UA2014": "013", "UA2014_NAM": "Hastings Zone", "TA2014": "030", "TA2014_NAM": "Hastings District", "WARD2014": "03003", "WARD2014_N": "Hastings-Havelock North Ward", "CB2014": "03099", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "06", "REGC2014_N": "Hawke's Bay Region", "CON2014": "0605", "CON2014_NA": "Hastings Constituency", "MCON2014": "0699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "053", "GED2007_NA": "Tukituki", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1106.094564, "SHAPE_Area": 47219.205907 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.846097483522271, -39.64805473297622 ], [ 176.846439533525768, -39.647833382900963 ], [ 176.847442200367226, -39.648772182859517 ], [ 176.849158717123373, -39.647684166278523 ], [ 176.849198450384421, -39.647566782939514 ], [ 176.850077217029366, -39.648413116410062 ], [ 176.849005366828862, -39.649093599582272 ], [ 176.847905316772625, -39.649784949668025 ], [ 176.847367950351497, -39.650125332927161 ], [ 176.845558949897253, -39.648392166699857 ], [ 176.846097483522271, -39.64805473297622 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1265305", "AU2014": "535261", "AU2014_NAM": "Lichfield", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "019", "TA2014_NAM": "South Waikato District", "WARD2014": "01903", "WARD2014_N": "Tokoroa Ward", "CB2014": "01999", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0303", "CON2014_NA": "Waihou Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "050", "GED2007_NA": "Taupo", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 5787.511108, "SHAPE_Area": 950474.981740 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.024294383114523, -38.160642383149394 ], [ 176.030817933270356, -38.144728033094879 ], [ 176.030886450120477, -38.144562299796398 ], [ 176.030811349825711, -38.156885633286407 ], [ 176.030810317008815, -38.157230033126673 ], [ 176.030806666793637, -38.157651883084185 ], [ 176.030712516894511, -38.16658064987471 ], [ 176.022178033208576, -38.166562283244382 ], [ 176.021876366656727, -38.166561216832285 ], [ 176.024294383114523, -38.160642383149394 ] ] ] } }
+]
+}

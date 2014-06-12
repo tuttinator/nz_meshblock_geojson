@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1781300", "AU2014": "561700", "AU2014_NAM": "Foxton", "UA2014": "260", "UA2014_NAM": "Foxton Community", "TA2014": "042", "TA2014_NAM": "Horowhenua District", "WARD2014": "04201", "WARD2014_N": "Kere Kere Ward", "CB2014": "04201", "CB2014_NAM": "Foxton Community", "TASUB2014": "04299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0805", "CON2014_NA": "Horowhenua-Kairanga Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "036", "GED2007_NA": "Otaki", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 977.080277, "SHAPE_Area": 59398.741700 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.288540099947539, -40.474447333201361 ], [ 175.2885966667655, -40.474343683117041 ], [ 175.289079616498043, -40.473511183162486 ], [ 175.289571866505639, -40.472687149864164 ], [ 175.289641300130739, -40.472536949859212 ], [ 175.290537399795966, -40.472834499783225 ], [ 175.290542350189838, -40.472836300050012 ], [ 175.292269416986841, -40.47345025007472 ], [ 175.292416816682021, -40.473499566630842 ], [ 175.291324449722651, -40.475299283330827 ], [ 175.291287166985143, -40.475392866472468 ], [ 175.288540099947539, -40.474447333201361 ] ] ] } }
+]
+}

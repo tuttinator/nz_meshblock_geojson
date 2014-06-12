@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1366800", "AU2014": "544300", "AU2014_NAM": "Te Hapara", "UA2014": "011", "UA2014_NAM": "Gisborne", "TA2014": "028", "TA2014_NAM": "Gisborne District", "WARD2014": "02805", "WARD2014_N": "Gisborne Ward", "CB2014": "02899", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02899", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "05", "REGC2014_N": "Gisborne Region", "CON2014": "0599", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "010", "GED2007_NA": "East Coast", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1052.392753, "SHAPE_Area": 43283.190477 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 178.008141950371879, -38.651194932387348 ], [ 178.008186117370144, -38.651211399162044 ], [ 178.00914121751336, -38.651571565548522 ], [ 178.007143900427877, -38.654918148911591 ], [ 178.00705391746402, -38.655043599058246 ], [ 178.007043717432367, -38.655039632314612 ], [ 178.006014817216993, -38.654656149064991 ], [ 178.008048683941865, -38.651254132242784 ], [ 178.008141950371879, -38.651194932387348 ] ] ] } }
+]
+}

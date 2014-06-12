@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1215600", "AU2014": "538502", "AU2014_NAM": "Te Puke East", "UA2014": "235", "UA2014_NAM": "Te Puke Community", "TA2014": "022", "TA2014_NAM": "Western Bay of Plenty District", "WARD2014": "02202", "WARD2014_N": "Maketu-Te Puke Ward", "CB2014": "02203", "CB2014_NAM": "Te Puke Community", "TASUB2014": "02299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0401", "CON2014_NA": "Western Bay of Plenty Constituency", "MCON2014": "0401", "MCON2014_N": "Mauao Maori Constituency", "GED2007": "002", "GED2007_NA": "Bay of Plenty", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 678.404108, "SHAPE_Area": 26730.537174 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.326581866904462, -37.78420344992918 ], [ 176.328694600264498, -37.785162249836262 ], [ 176.328590816659215, -37.785315999877994 ], [ 176.328244316882319, -37.785787633074101 ], [ 176.327992033242822, -37.786140133404118 ], [ 176.327305167046347, -37.785822333221844 ], [ 176.326341867018954, -37.785388916552549 ], [ 176.325885966534798, -37.785183533027116 ], [ 176.326581866904462, -37.78420344992918 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1809300", "AU2014": "563000", "AU2014_NAM": "West End", "UA2014": "016", "UA2014_NAM": "Palmerston North", "TA2014": "040", "TA2014_NAM": "Palmerston North City", "WARD2014": "04099", "WARD2014_N": "Area Outside Ward", "CB2014": "04099", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0804", "CON2014_NA": "Palmerston North Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "038", "GED2007_NA": "Palmerston North", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 974.575140, "SHAPE_Area": 45317.201025 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.605864416739905, -40.364156783410529 ], [ 175.605160800263775, -40.363210883451806 ], [ 175.606410783565394, -40.362656350191877 ], [ 175.608580266641184, -40.36546563306586 ], [ 175.608475533122089, -40.365513766895091 ], [ 175.607300850279131, -40.366042466564586 ], [ 175.607241816509287, -40.365965533464291 ], [ 175.605864416739905, -40.364156783410529 ] ] ] } }
+]
+}

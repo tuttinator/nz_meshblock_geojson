@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1281300", "AU2014": "541503", "AU2014_NAM": "Taharua", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "021", "TA2014_NAM": "Taupo District", "WARD2014": "02102", "WARD2014_N": "Taupo-Kaingaroa Ward", "CB2014": "02199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "06", "REGC2014_N": "Hawke's Bay Region", "CON2014": "0603", "CON2014_NA": "Ngaruroro Constituency", "MCON2014": "0699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "050", "GED2007_NA": "Taupo", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 4479.238095, "SHAPE_Area": 869580.017910 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.439121483313613, -39.109743233302325 ], [ 176.439300050172193, -39.110093833084022 ], [ 176.443493483598928, -39.12080546655352 ], [ 176.430537449863664, -39.11860373326666 ], [ 176.437841883254833, -39.105622399701602 ], [ 176.438984766508071, -39.10927114967641 ], [ 176.439121483313613, -39.109743233302325 ] ] ] } }
+]
+}

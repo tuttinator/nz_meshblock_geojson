@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1881500", "AU2014": "564400", "AU2014_NAM": "Otaki", "UA2014": "262", "UA2014_NAM": "Otaki", "TA2014": "043", "TA2014_NAM": "Kapiti Coast District", "WARD2014": "04301", "WARD2014_N": "Otaki Ward", "CB2014": "04301", "CB2014_NAM": "Otaki Community", "TASUB2014": "04399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0901", "CON2014_NA": "Kapiti Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "036", "GED2007_NA": "Otaki", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 569.189531, "SHAPE_Area": 18075.033069 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.138476233534561, -40.752329583297133 ], [ 175.140523516771168, -40.753007866615278 ], [ 175.140079350098375, -40.75379936689076 ], [ 175.138023799936775, -40.753120616581107 ], [ 175.138476233534561, -40.752329583297133 ] ] ] } }
+]
+}

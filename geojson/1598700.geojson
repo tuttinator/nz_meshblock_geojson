@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1598700", "AU2014": "552100", "AU2014_NAM": "Fitzroy", "UA2014": "014", "UA2014_NAM": "New Plymouth", "TA2014": "033", "TA2014_NAM": "New Plymouth District", "WARD2014": "03301", "WARD2014_N": "New Plymouth City Ward", "CB2014": "03399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "07", "REGC2014_N": "Taranaki Region", "CON2014": "0702", "CON2014_NA": "New Plymouth Constituency", "MCON2014": "0799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "031", "GED2007_NA": "New Plymouth", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 716.199580, "SHAPE_Area": 32017.899862 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.100736166636949, -39.056504266816439 ], [ 174.101762716463213, -39.056185383483744 ], [ 174.1024980169326, -39.057662750055314 ], [ 174.102455566598309, -39.057679949991858 ], [ 174.100554916880895, -39.058265566841847 ], [ 174.10051298334173, -39.058180099778603 ], [ 174.100344800232108, -39.057842299968286 ], [ 174.100286033470667, -39.057724083312728 ], [ 174.100254816468748, -39.057673716647159 ], [ 174.10018548339238, -39.057545316815883 ], [ 174.099799399947955, -39.056784866649963 ], [ 174.100736166636949, -39.056504266816439 ] ] ] } }
+]
+}

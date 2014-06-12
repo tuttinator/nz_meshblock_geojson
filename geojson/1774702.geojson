@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1774702", "AU2014": "559700", "AU2014_NAM": "Kiwitea", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "039", "TA2014_NAM": "Manawatu District", "WARD2014": "03901", "WARD2014_N": "Northern Manawatu Rural Ward", "CB2014": "03999", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0803", "CON2014_NA": "Manawatu-Rangitikei Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "042", "GED2007_NA": "Rangitikei", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 4488.810630, "SHAPE_Area": 1129355.481170 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.848061949956502, -39.849008299990253 ], [ 175.847906183399829, -39.849009600003782 ], [ 175.843881550269032, -39.849043383042684 ], [ 175.843831400135059, -39.837871233215218 ], [ 175.85934893348724, -39.844178066672214 ], [ 175.858368199872928, -39.845820616501435 ], [ 175.857740416458597, -39.849013283149539 ], [ 175.857467516453909, -39.849012766797941 ], [ 175.856472716705866, -39.849012216726642 ], [ 175.848173766931552, -39.849007350044324 ], [ 175.848061949956502, -39.849008299990253 ] ] ] } }
+]
+}

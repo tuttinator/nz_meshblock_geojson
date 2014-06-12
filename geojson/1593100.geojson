@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1593100", "AU2014": "551800", "AU2014_NAM": "New Plymouth Central", "UA2014": "014", "UA2014_NAM": "New Plymouth", "TA2014": "033", "TA2014_NAM": "New Plymouth District", "WARD2014": "03301", "WARD2014_N": "New Plymouth City Ward", "CB2014": "03399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "07", "REGC2014_N": "Taranaki Region", "CON2014": "0702", "CON2014_NA": "New Plymouth Constituency", "MCON2014": "0799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "031", "GED2007_NA": "New Plymouth", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 744.812923, "SHAPE_Area": 27249.238809 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.075744383579973, -39.055328666617697 ], [ 174.078126166650122, -39.054600700036659 ], [ 174.078553616795347, -39.055445550001124 ], [ 174.077778450271751, -39.055678216864756 ], [ 174.076253233582861, -39.056138150026932 ], [ 174.075614866688596, -39.056330533376808 ], [ 174.075200166875703, -39.05549468314701 ], [ 174.075744383579973, -39.055328666617697 ] ] ] } }
+]
+}

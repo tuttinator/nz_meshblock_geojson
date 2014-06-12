@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1743600", "AU2014": "558900", "AU2014_NAM": "Bulls", "UA2014": "257", "UA2014_NAM": "Bulls", "TA2014": "038", "TA2014_NAM": "Rangitikei District", "WARD2014": "03803", "WARD2014_N": "Bulls Ward", "CB2014": "03899", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03899", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0803", "CON2014_NA": "Manawatu-Rangitikei Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "042", "GED2007_NA": "Rangitikei", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 960.170524, "SHAPE_Area": 41965.421742 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.383040433380074, -40.171740566771959 ], [ 175.384408149896558, -40.171615883457719 ], [ 175.384649066522684, -40.173148383082683 ], [ 175.38484233341029, -40.174457250052306 ], [ 175.384859983350538, -40.174556416621279 ], [ 175.384109083246216, -40.174921133501741 ], [ 175.383594133052128, -40.175185449781956 ], [ 175.383566216497144, -40.175061566531284 ], [ 175.383424533457315, -40.174202216507403 ], [ 175.383401049782236, -40.174098383341999 ], [ 175.383374800219826, -40.174004183318701 ], [ 175.38326468356675, -40.173233416733829 ], [ 175.383040433380074, -40.171740566771959 ] ] ] } }
+]
+}

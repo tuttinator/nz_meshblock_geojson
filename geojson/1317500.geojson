@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1317500", "AU2014": "542600", "AU2014_NAM": "Kawerau", "UA2014": "239", "UA2014_NAM": "Kawerau", "TA2014": "026", "TA2014_NAM": "Kawerau District", "WARD2014": "02699", "WARD2014_N": "Area Outside Ward", "CB2014": "02699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0404", "CON2014_NA": "Eastern Bay of Plenty Constituency", "MCON2014": "0403", "MCON2014_N": "Kohi Maori Constituency", "GED2007": "046", "GED2007_NA": "Rotorua", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 651.233935, "SHAPE_Area": 23670.153582 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.705014916606643, -38.0922409163487 ], [ 176.704873766994325, -38.092121549661499 ], [ 176.705796216979564, -38.091450533119151 ], [ 176.706471100296653, -38.092051566670015 ], [ 176.706624250343708, -38.092183883155073 ], [ 176.706833416743848, -38.092215633220654 ], [ 176.707493683471313, -38.092783233302335 ], [ 176.706775183302284, -38.093303199895821 ], [ 176.706510333416503, -38.093500899957114 ], [ 176.705833133255936, -38.092932899897853 ], [ 176.705680500326395, -38.09280381667584 ], [ 176.705014916606643, -38.0922409163487 ] ] ] } }
+]
+}

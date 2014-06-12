@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1603800", "AU2014": "552300", "AU2014_NAM": "Merrilands", "UA2014": "014", "UA2014_NAM": "New Plymouth", "TA2014": "033", "TA2014_NAM": "New Plymouth District", "WARD2014": "03301", "WARD2014_N": "New Plymouth City Ward", "CB2014": "03399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "07", "REGC2014_N": "Taranaki Region", "CON2014": "0702", "CON2014_NA": "New Plymouth Constituency", "MCON2014": "0799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "031", "GED2007_NA": "New Plymouth", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 588.198244, "SHAPE_Area": 19497.179267 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.105552166578633, -39.067221816563837 ], [ 174.104639916630731, -39.06750601654538 ], [ 174.103413166807087, -39.067890650095812 ], [ 174.103174599786797, -39.067402816867151 ], [ 174.103121333172112, -39.067274249937533 ], [ 174.10311991684506, -39.067008066762185 ], [ 174.103236199746135, -39.06697623313525 ], [ 174.10409911693435, -39.066715349838859 ], [ 174.104231966789172, -39.066687966532839 ], [ 174.104809866437648, -39.066493249976126 ], [ 174.105123683257887, -39.066388183106838 ], [ 174.105552166578633, -39.067221816563837 ] ] ] } }
+]
+}

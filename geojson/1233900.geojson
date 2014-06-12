@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1233900", "AU2014": "540410", "AU2014_NAM": "Kuirau", "UA2014": "010", "UA2014_NAM": "Rotorua", "TA2014": "024", "TA2014_NAM": "Rotorua District", "WARD2014": "02499", "WARD2014_N": "Area Outside Ward", "CB2014": "02499", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0403", "CON2014_NA": "Rotorua Constituency", "MCON2014": "0402", "MCON2014_N": "Okurei Maori Constituency", "GED2007": "046", "GED2007_NA": "Rotorua", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 521.500893, "SHAPE_Area": 13843.814903 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.255551333489223, -38.136338866732068 ], [ 176.255550233172642, -38.136857999846463 ], [ 176.253834499834198, -38.13687225013566 ], [ 176.253827650069752, -38.135877416508144 ], [ 176.25485996655911, -38.135877766466521 ], [ 176.254952233491935, -38.135876699984316 ], [ 176.254951866890366, -38.135995283100719 ], [ 176.254951850094642, -38.136013349736004 ], [ 176.25495091673605, -38.136340466782812 ], [ 176.255375133557322, -38.136341133355153 ], [ 176.255551333489223, -38.136338866732068 ] ] ] } }
+]
+}

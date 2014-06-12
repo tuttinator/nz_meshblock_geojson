@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1518300", "AU2014": "549000", "AU2014_NAM": "Takapau", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "032", "TA2014_NAM": "Central Hawke's Bay District", "WARD2014": "03201", "WARD2014_N": "Aramoana-Ruahine Ward", "CB2014": "03299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "06", "REGC2014_N": "Hawke's Bay Region", "CON2014": "0604", "CON2014_NA": "Central Hawke's Bay Constituency", "MCON2014": "0699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "056", "GED2007_NA": "Wairarapa", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1816.706196, "SHAPE_Area": 146234.938338 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.356126967037994, -40.016275999833162 ], [ 176.3566878831503, -40.016143716513525 ], [ 176.359717799837142, -40.015423550018753 ], [ 176.359687550164693, -40.015527050076201 ], [ 176.357991583509374, -40.018843633080365 ], [ 176.357455749851908, -40.018866366551322 ], [ 176.357026866517714, -40.019704483093626 ], [ 176.356589900141728, -40.020558916406038 ], [ 176.356158316660782, -40.021402816795046 ], [ 176.354957933127054, -40.021026383273458 ], [ 176.353967150075391, -40.020720016656554 ], [ 176.353854049877953, -40.020684699726367 ], [ 176.356126967037994, -40.016275999833162 ] ] ] } }
+]
+}

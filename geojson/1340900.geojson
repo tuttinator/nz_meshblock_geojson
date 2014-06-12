@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1340900", "AU2014": "542800", "AU2014_NAM": "Opotiki", "UA2014": "241", "UA2014_NAM": "Opotiki", "TA2014": "027", "TA2014_NAM": "Opotiki District", "WARD2014": "02703", "WARD2014_N": "Opotiki Ward", "CB2014": "02799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0404", "CON2014_NA": "Eastern Bay of Plenty Constituency", "MCON2014": "0403", "MCON2014_N": "Kohi Maori Constituency", "GED2007": "010", "GED2007_NA": "East Coast", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 880.495819, "SHAPE_Area": 48462.084770 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 177.284001867157627, -38.006278432729431 ], [ 177.284536483862951, -38.006277766357272 ], [ 177.284524067201119, -38.008256149424923 ], [ 177.282032066807403, -38.008271216230717 ], [ 177.282029500508429, -38.006283032826865 ], [ 177.283379883745909, -38.006279516150997 ], [ 177.284001867157627, -38.006278432729431 ] ] ] } }
+]
+}

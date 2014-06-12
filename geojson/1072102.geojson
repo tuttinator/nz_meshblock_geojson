@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1072102", "AU2014": "534300", "AU2014_NAM": "Paeroa", "UA2014": "228", "UA2014_NAM": "Paeroa", "TA2014": "012", "TA2014_NAM": "Hauraki District", "WARD2014": "01202", "WARD2014_N": "Paeroa Ward", "CB2014": "01299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0303", "CON2014_NA": "Waihou Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "007", "GED2007_NA": "Coromandel", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 443.728285, "SHAPE_Area": 11594.546030 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.6697222832791, -37.367234300097067 ], [ 175.669787083120553, -37.367326333284495 ], [ 175.669909116912834, -37.367499616805873 ], [ 175.669947633424982, -37.367481283338122 ], [ 175.669949716803956, -37.367480416699792 ], [ 175.670209550187195, -37.367848100010534 ], [ 175.669049649801906, -37.368385916559248 ], [ 175.668943366750426, -37.368435350071337 ], [ 175.668724183092621, -37.367249483104999 ], [ 175.668828166603959, -37.367237000199523 ], [ 175.669650699837035, -37.367132650068967 ], [ 175.6697222832791, -37.367234300097067 ] ] ] } }
+]
+}

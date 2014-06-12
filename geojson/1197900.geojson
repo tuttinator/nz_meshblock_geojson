@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1197900", "AU2014": "536821", "AU2014_NAM": "Omanu", "UA2014": "009", "UA2014_NAM": "Tauranga", "TA2014": "023", "TA2014_NAM": "Tauranga City", "WARD2014": "02301", "WARD2014_N": "Mount Maunganui-Papamoa Ward", "CB2014": "02399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0402", "CON2014_NA": "Tauranga Constituency", "MCON2014": "0401", "MCON2014_N": "Mauao Maori Constituency", "GED2007": "051", "GED2007_NA": "Tauranga", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 719.168426, "SHAPE_Area": 24936.829841 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.200471633358376, -37.653678933048482 ], [ 176.201851533489048, -37.653224483440674 ], [ 176.201862200010339, -37.653230550066532 ], [ 176.203636850159768, -37.654507116839881 ], [ 176.202861066634341, -37.655202266500105 ], [ 176.20174441666768, -37.654381066545525 ], [ 176.201354383413957, -37.654103500102565 ], [ 176.200471633358376, -37.653678933048482 ] ] ] } }
+]
+}

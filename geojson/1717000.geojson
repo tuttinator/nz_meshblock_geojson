@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1717000", "AU2014": "556400", "AU2014_NAM": "Gonville West", "UA2014": "015", "UA2014_NAM": "Wanganui", "TA2014": "037", "TA2014_NAM": "Wanganui District", "WARD2014": "03799", "WARD2014_N": "Area Outside Ward", "CB2014": "03799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0802", "CON2014_NA": "Wanganui Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "061", "GED2007_NA": "Whanganui", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 881.110041, "SHAPE_Area": 40312.226511 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.016803900157697, -39.943399616888151 ], [ 175.018840249994696, -39.943021833491777 ], [ 175.019098150230036, -39.942970550194161 ], [ 175.019261966437824, -39.943448300012982 ], [ 175.01989316688929, -39.943851349839342 ], [ 175.020399533084031, -39.943762083253525 ], [ 175.02066949990305, -39.944688633139727 ], [ 175.019067083481559, -39.944692616846574 ], [ 175.018218783158318, -39.944691049819134 ], [ 175.017815616798657, -39.944432200028629 ], [ 175.016956150210518, -39.943871016904247 ], [ 175.016803900157697, -39.943399616888151 ] ] ] } }
+]
+}

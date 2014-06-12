@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1382300", "AU2014": "544701", "AU2014_NAM": "Kaiti North", "UA2014": "011", "UA2014_NAM": "Gisborne", "TA2014": "028", "TA2014_NAM": "Gisborne District", "WARD2014": "02805", "WARD2014_N": "Gisborne Ward", "CB2014": "02899", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02899", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "05", "REGC2014_N": "Gisborne Region", "CON2014": "0599", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "010", "GED2007_NA": "East Coast", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1238.823760, "SHAPE_Area": 78915.100938 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 178.034660350554105, -38.666434782146794 ], [ 178.036261834127629, -38.667110865566883 ], [ 178.039181817432961, -38.668336198941653 ], [ 178.038210350736136, -38.66976913207818 ], [ 178.037101433941388, -38.66930214886127 ], [ 178.033998333943316, -38.668006698978019 ], [ 178.033891700340718, -38.667984715589441 ], [ 178.03393815064365, -38.667889765749308 ], [ 178.034660350554105, -38.666434782146794 ] ] ] } }
+]
+}

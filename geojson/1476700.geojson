@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1476700", "AU2014": "547800", "AU2014_NAM": "Frimley", "UA2014": "013", "UA2014_NAM": "Hastings Zone", "TA2014": "030", "TA2014_NAM": "Hastings District", "WARD2014": "03003", "WARD2014_N": "Hastings-Havelock North Ward", "CB2014": "03099", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "06", "REGC2014_N": "Hawke's Bay Region", "CON2014": "0605", "CON2014_NA": "Hastings Constituency", "MCON2014": "0699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "053", "GED2007_NA": "Tukituki", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 900.321921, "SHAPE_Area": 38969.436738 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.823436133742433, -39.624073699819512 ], [ 176.822587616810523, -39.624614416393726 ], [ 176.820386350053838, -39.62310069964623 ], [ 176.819688950347512, -39.622616616362819 ], [ 176.819867950122813, -39.622581666354343 ], [ 176.821039767118549, -39.621817049880264 ], [ 176.821652900414307, -39.622386216310488 ], [ 176.823436133742433, -39.624073699819512 ] ] ] } }
+]
+}

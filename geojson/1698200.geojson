@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1698200", "AU2014": "557100", "AU2014_NAM": "Cooks Gardens", "UA2014": "015", "UA2014_NAM": "Wanganui", "TA2014": "037", "TA2014_NAM": "Wanganui District", "WARD2014": "03799", "WARD2014_N": "Area Outside Ward", "CB2014": "03799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0802", "CON2014_NA": "Wanganui Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "061", "GED2007_NA": "Whanganui", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 879.581457, "SHAPE_Area": 38990.799708 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.057626850175296, -39.934810399932864 ], [ 175.057560816717512, -39.93489231652687 ], [ 175.056828966913002, -39.935741000091802 ], [ 175.055977783323186, -39.935239483485034 ], [ 175.055840533341581, -39.935157666763253 ], [ 175.055385500093081, -39.934886466514868 ], [ 175.053860516797869, -39.933977300086831 ], [ 175.054735866783204, -39.933094933276145 ], [ 175.055388350256152, -39.933485350043895 ], [ 175.055510366638941, -39.9335583664908 ], [ 175.056259266664966, -39.934006400198129 ], [ 175.056723249896294, -39.934279166593164 ], [ 175.057626850175296, -39.934810399932864 ] ] ] } }
+]
+}

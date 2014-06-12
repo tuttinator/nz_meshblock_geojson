@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1548300", "AU2014": "551301", "AU2014_NAM": "Waitara West", "UA2014": "247", "UA2014_NAM": "Waitara", "TA2014": "033", "TA2014_NAM": "New Plymouth District", "WARD2014": "03302", "WARD2014_N": "North Ward", "CB2014": "03302", "CB2014_NAM": "Waitara Community", "TASUB2014": "03399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "07", "REGC2014_N": "Taranaki Region", "CON2014": "0701", "CON2014_NA": "North Taranaki Constituency", "MCON2014": "0799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "031", "GED2007_NA": "New Plymouth", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 978.130009, "SHAPE_Area": 55159.713830 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.227730533572696, -38.994686683177292 ], [ 174.228750116652662, -38.994190633308634 ], [ 174.229831750026307, -38.99553885000315 ], [ 174.228813733494633, -38.996031566850249 ], [ 174.22783628314869, -38.996512933422892 ], [ 174.226769466436991, -38.997031783091352 ], [ 174.225690799769325, -38.995684933386251 ], [ 174.226753516858167, -38.995165016590477 ], [ 174.227730533572696, -38.994686683177292 ] ] ] } }
+]
+}

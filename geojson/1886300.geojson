@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1886300", "AU2014": "567400", "AU2014_NAM": "Elderslea", "UA2014": "017", "UA2014_NAM": "Upper Hutt Zone", "TA2014": "045", "TA2014_NAM": "Upper Hutt City", "WARD2014": "04599", "WARD2014_N": "Area Outside Ward", "CB2014": "04599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0903", "CON2014_NA": "Upper Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "043", "GED2007_NA": "Rimutaka", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 673.971133, "SHAPE_Area": 26166.928899 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.062627466806731, -41.124124149971166 ], [ 175.06265229991493, -41.124262283457767 ], [ 175.062723683039309, -41.124661316577821 ], [ 175.062821366868945, -41.12520603320425 ], [ 175.06228493306287, -41.125260166660887 ], [ 175.060563183528387, -41.12543661679819 ], [ 175.060555983505935, -41.125436983419348 ], [ 175.060545883020467, -41.125438399948635 ], [ 175.06027480002038, -41.125466216887233 ], [ 175.060173600043413, -41.124912550056848 ], [ 175.060082799954728, -41.124383466520726 ], [ 175.061316600260454, -41.124257783202026 ], [ 175.062627466806731, -41.124124149971166 ] ] ] } }
+]
+}

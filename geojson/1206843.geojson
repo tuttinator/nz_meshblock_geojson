@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1206843", "AU2014": "536203", "AU2014_NAM": "Doncaster", "UA2014": "009", "UA2014_NAM": "Tauranga", "TA2014": "023", "TA2014_NAM": "Tauranga City", "WARD2014": "02301", "WARD2014_N": "Mount Maunganui-Papamoa Ward", "CB2014": "02399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0402", "CON2014_NA": "Tauranga Constituency", "MCON2014": "0401", "MCON2014_N": "Mauao Maori Constituency", "GED2007": "002", "GED2007_NA": "Bay of Plenty", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 463.823227, "SHAPE_Area": 14609.837302 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.291692116976179, -37.70682274998299 ], [ 176.292000750118973, -37.706009750005151 ], [ 176.292119683108496, -37.705944149750479 ], [ 176.292325100190709, -37.705920766701936 ], [ 176.292466450074585, -37.705934033206809 ], [ 176.293317566960241, -37.706229250101188 ], [ 176.293439733149825, -37.706300216656317 ], [ 176.29344155010719, -37.706407033332312 ], [ 176.293292866812493, -37.70691330009867 ], [ 176.293223216684481, -37.707089599926739 ], [ 176.292965383598442, -37.707126933309944 ], [ 176.291692116976179, -37.70682274998299 ] ] ] } }
+]
+}

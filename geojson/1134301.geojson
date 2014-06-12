@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1134301", "AU2014": "535211", "AU2014_NAM": "Mangakaretu", "UA2014": "102", "UA2014_NAM": "Tokoroa", "TA2014": "019", "TA2014_NAM": "South Waikato District", "WARD2014": "01903", "WARD2014_N": "Tokoroa Ward", "CB2014": "01999", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0303", "CON2014_NA": "Waihou Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "050", "GED2007_NA": "Taupo", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1281.150713, "SHAPE_Area": 100146.821863 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.87107496684925, -38.195733950155052 ], [ 175.87247528356221, -38.198211899812001 ], [ 175.870306416904157, -38.199055066547274 ], [ 175.869080316685654, -38.199561766712037 ], [ 175.868972733577891, -38.199582900152315 ], [ 175.868472500145799, -38.198157100054779 ], [ 175.867747149862083, -38.196895183181091 ], [ 175.867847666534459, -38.196856416455539 ], [ 175.868836799915357, -38.196512400003158 ], [ 175.87107496684925, -38.195733950155052 ] ] ] } }
+]
+}

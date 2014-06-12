@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1242400", "AU2014": "540510", "AU2014_NAM": "Glenholme East", "UA2014": "010", "UA2014_NAM": "Rotorua", "TA2014": "024", "TA2014_NAM": "Rotorua District", "WARD2014": "02499", "WARD2014_N": "Area Outside Ward", "CB2014": "02499", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0403", "CON2014_NA": "Rotorua Constituency", "MCON2014": "0402", "MCON2014_N": "Okurei Maori Constituency", "GED2007": "046", "GED2007_NA": "Rotorua", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 723.786540, "SHAPE_Area": 27214.847508 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.253822617004175, -38.151058749806602 ], [ 176.253823549889773, -38.151141883343506 ], [ 176.253815833136798, -38.152010149830389 ], [ 176.250896549798597, -38.152012666841912 ], [ 176.250919600097546, -38.151045199973218 ], [ 176.253822617004175, -38.151058749806602 ] ] ] } }
+]
+}

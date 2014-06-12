@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1635300", "AU2014": "553601", "AU2014_NAM": "Eltham", "UA2014": "251", "UA2014_NAM": "Eltham", "TA2014": "035", "TA2014_NAM": "South Taranaki District", "WARD2014": "03502", "WARD2014_N": "Eltham Ward", "CB2014": "03502", "CB2014_NAM": "Eltham Community", "TASUB2014": "03599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "07", "REGC2014_N": "Taranaki Region", "CON2014": "0704", "CON2014_NA": "South Taranaki Constituency", "MCON2014": "0799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "061", "GED2007_NA": "Whanganui", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 973.258704, "SHAPE_Area": 54071.928252 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.293689016647363, -39.431689733149334 ], [ 174.293038049912155, -39.434654800173341 ], [ 174.292921533580824, -39.434604783161497 ], [ 174.292640266833473, -39.434529983301871 ], [ 174.291785783122435, -39.434246250098333 ], [ 174.291354283527568, -39.434163133244802 ], [ 174.291355650120892, -39.431619233102076 ], [ 174.29323448311635, -39.431615099874179 ], [ 174.293689016647363, -39.431689733149334 ] ] ] } }
+]
+}

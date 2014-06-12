@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1892600", "AU2014": "567300", "AU2014_NAM": "Wallaceville", "UA2014": "017", "UA2014_NAM": "Upper Hutt Zone", "TA2014": "045", "TA2014_NAM": "Upper Hutt City", "WARD2014": "04599", "WARD2014_N": "Area Outside Ward", "CB2014": "04599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0903", "CON2014_NA": "Upper Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "043", "GED2007_NA": "Rimutaka", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 719.584383, "SHAPE_Area": 28915.753775 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.062821366868945, -41.12520603320425 ], [ 175.063391516562149, -41.125149016547915 ], [ 175.063582199870751, -41.126225366881592 ], [ 175.062062716579078, -41.126383833390506 ], [ 175.060781183049698, -41.126512733146924 ], [ 175.060768300034169, -41.12651408329446 ], [ 175.060563183528387, -41.12543661679819 ], [ 175.06228493306287, -41.125260166660887 ], [ 175.062821366868945, -41.12520603320425 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1351501", "AU2014": "543602", "AU2014_NAM": "Te Karaka", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "028", "TA2014_NAM": "Gisborne District", "WARD2014": "02802", "WARD2014_N": "Waipaoa Ward", "CB2014": "02899", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02899", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "05", "REGC2014_N": "Gisborne Region", "CON2014": "0599", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "010", "GED2007_NA": "East Coast", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 872.205371, "SHAPE_Area": 43973.516042 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 177.867955633814944, -38.467500632616307 ], [ 177.8698264670914, -38.467911749055204 ], [ 177.868312366953631, -38.469961465984028 ], [ 177.86641246736616, -38.469573765860126 ], [ 177.866725483865167, -38.469120066077416 ], [ 177.867955633814944, -38.467500632616307 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1642100", "AU2014": "554010", "AU2014_NAM": "Hawera North", "UA2014": "105", "UA2014_NAM": "Hawera", "TA2014": "035", "TA2014_NAM": "South Taranaki District", "WARD2014": "03504", "WARD2014_N": "Hawera-Normanby Ward", "CB2014": "03503", "CB2014_NAM": "Hawera-Tangahoe Community", "TASUB2014": "03599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "07", "REGC2014_N": "Taranaki Region", "CON2014": "0704", "CON2014_NA": "South Taranaki Constituency", "MCON2014": "0799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "061", "GED2007_NA": "Whanganui", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 753.459905, "SHAPE_Area": 31986.066753 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.272686333083669, -39.579356350003451 ], [ 174.273541200104091, -39.579996083444613 ], [ 174.274892366711015, -39.581007400011195 ], [ 174.274654199860407, -39.581222349786565 ], [ 174.274503466959573, -39.581262183325506 ], [ 174.271853850072915, -39.581081600108803 ], [ 174.271977416765566, -39.579957649937533 ], [ 174.272044999943006, -39.579845816778544 ], [ 174.272686333083669, -39.579356350003451 ] ] ] } }
+]
+}

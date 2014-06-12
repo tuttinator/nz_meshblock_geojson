@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1391400", "AU2014": "545500", "AU2014_NAM": "Wairoa", "UA2014": "242", "UA2014_NAM": "Wairoa", "TA2014": "029", "TA2014_NAM": "Wairoa District", "WARD2014": "02999", "WARD2014_N": "Area Outside Ward", "CB2014": "02999", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "06", "REGC2014_N": "Hawke's Bay Region", "CON2014": "0601", "CON2014_NA": "Wairoa Constituency", "MCON2014": "0699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "028", "GED2007_NA": "Napier", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 893.236619, "SHAPE_Area": 49860.081785 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 177.419633050554751, -39.036658066283749 ], [ 177.420301400080064, -39.037409216310238 ], [ 177.420767033716373, -39.037932366326253 ], [ 177.421085467010585, -39.038290132958423 ], [ 177.418945816786191, -39.039448449752285 ], [ 177.418213650340817, -39.038624232665001 ], [ 177.417494767021367, -39.03781499952597 ], [ 177.419633050554751, -39.036658066283749 ] ] ] } }
+]
+}

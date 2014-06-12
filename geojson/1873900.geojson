@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1873900", "AU2014": "564220", "AU2014_NAM": "Levin West", "UA2014": "107", "UA2014_NAM": "Levin", "TA2014": "042", "TA2014_NAM": "Horowhenua District", "WARD2014": "04203", "WARD2014_N": "Levin Ward", "CB2014": "04299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0805", "CON2014_NA": "Horowhenua-Kairanga Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "036", "GED2007_NA": "Otaki", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1085.347403, "SHAPE_Area": 63439.574096 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.275649983409465, -40.631223900165871 ], [ 175.276921083132407, -40.631766700140453 ], [ 175.275810133022759, -40.632814083236397 ], [ 175.275765016772908, -40.63288053321137 ], [ 175.275752549756561, -40.632998033425089 ], [ 175.275739516437483, -40.633096966830585 ], [ 175.272539883202711, -40.631758233381767 ], [ 175.272256633308018, -40.631636783158086 ], [ 175.27208566652439, -40.631562516864491 ], [ 175.273126066936726, -40.630133433328155 ], [ 175.2732547167044, -40.6302062165284 ], [ 175.27438323312785, -40.630687099868702 ], [ 175.275649983409465, -40.631223900165871 ] ] ] } }
+]
+}

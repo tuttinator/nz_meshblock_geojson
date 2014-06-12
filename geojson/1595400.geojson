@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1595400", "AU2014": "552002", "AU2014_NAM": "Marsland Hill", "UA2014": "014", "UA2014_NAM": "New Plymouth", "TA2014": "033", "TA2014_NAM": "New Plymouth District", "WARD2014": "03301", "WARD2014_N": "New Plymouth City Ward", "CB2014": "03399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "07", "REGC2014_N": "Taranaki Region", "CON2014": "0702", "CON2014_NA": "New Plymouth Constituency", "MCON2014": "0799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "031", "GED2007_NA": "New Plymouth", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1163.336944, "SHAPE_Area": 51045.669655 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.080665233555095, -39.059675316520895 ], [ 174.082828050187715, -39.059027883469867 ], [ 174.084435150004566, -39.058543833150011 ], [ 174.084819333127257, -39.059321533103329 ], [ 174.085596166441604, -39.060878999972445 ], [ 174.084241383386484, -39.060505583159284 ], [ 174.083495000081513, -39.060073916785989 ], [ 174.083243033448525, -39.059882100071505 ], [ 174.082244083070776, -39.060181166831761 ], [ 174.081085616609272, -39.060522866841126 ], [ 174.080665233555095, -39.059675316520895 ] ] ] } }
+]
+}

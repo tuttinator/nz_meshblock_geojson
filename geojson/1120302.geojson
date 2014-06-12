@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1120302", "AU2014": "535502", "AU2014_NAM": "Matamata South", "UA2014": "232", "UA2014_NAM": "Matamata", "TA2014": "015", "TA2014_NAM": "Matamata-Piako District", "WARD2014": "01503", "WARD2014_N": "Matamata Ward", "CB2014": "01599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0303", "CON2014_NA": "Waihou Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "054", "GED2007_NA": "Waikato", "MED2007": "1", "MED2007_NA": "Hauraki-Waikato", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 556.118538, "SHAPE_Area": 18512.260296 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.765667950254084, -37.812884350009483 ], [ 175.766848716512612, -37.813352966858837 ], [ 175.767365033603085, -37.813557616632259 ], [ 175.767283466493097, -37.81367838307137 ], [ 175.766822916815755, -37.814409549977711 ], [ 175.766797266978841, -37.814449566874238 ], [ 175.766692516691506, -37.814407899914414 ], [ 175.766051383336617, -37.814153149756514 ], [ 175.765949350046498, -37.814112666681325 ], [ 175.765206283340433, -37.813817366821262 ], [ 175.765100366721157, -37.813775883494209 ], [ 175.76561524985172, -37.812967533426622 ], [ 175.765667950254084, -37.812884350009483 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1908100", "AU2014": "567000", "AU2014_NAM": "Ebdentown", "UA2014": "017", "UA2014_NAM": "Upper Hutt Zone", "TA2014": "045", "TA2014_NAM": "Upper Hutt City", "WARD2014": "04599", "WARD2014_N": "Area Outside Ward", "CB2014": "04599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0903", "CON2014_NA": "Upper Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "043", "GED2007_NA": "Rimutaka", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 518.320523, "SHAPE_Area": 15886.080406 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.07601698323748, -41.122188066503384 ], [ 175.076132133440439, -41.122176116836101 ], [ 175.076480366435135, -41.122140650221333 ], [ 175.076517283048219, -41.122136866692038 ], [ 175.076611066489505, -41.122127333411385 ], [ 175.076609316908758, -41.122118066789163 ], [ 175.07693441698072, -41.12208414995844 ], [ 175.077260866974143, -41.122050066898929 ], [ 175.077335950082499, -41.122046483208948 ], [ 175.077526650214139, -41.123107149862285 ], [ 175.076303149998125, -41.123669566638739 ], [ 175.07603289997445, -41.122276066710256 ], [ 175.07601698323748, -41.122188066503384 ] ] ] } }
+]
+}

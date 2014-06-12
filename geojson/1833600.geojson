@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1833600", "AU2014": "562401", "AU2014_NAM": "Palmerston North Hospital", "UA2014": "016", "UA2014_NAM": "Palmerston North", "TA2014": "040", "TA2014_NAM": "Palmerston North City", "WARD2014": "04099", "WARD2014_N": "Area Outside Ward", "CB2014": "04099", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0804", "CON2014_NA": "Palmerston North Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "038", "GED2007_NA": "Palmerston North", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 828.697693, "SHAPE_Area": 36922.756408 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.619846133477495, -40.342305400170389 ], [ 175.620679783336413, -40.343426283153271 ], [ 175.619469533041695, -40.343975050136073 ], [ 175.619347733221758, -40.344029900195622 ], [ 175.617947766896918, -40.344656499834535 ], [ 175.617140483205816, -40.343603249818038 ], [ 175.618701850025332, -40.342924650050676 ], [ 175.618878616861537, -40.342831966822985 ], [ 175.619271700165143, -40.342655666809655 ], [ 175.619287150031511, -40.34264873341521 ], [ 175.619232899775227, -40.342577483407048 ], [ 175.619341416861772, -40.342529033161796 ], [ 175.619487066985897, -40.342463999854274 ], [ 175.619744783169068, -40.342348933274259 ], [ 175.619846133477495, -40.342305400170389 ] ] ] } }
+]
+}

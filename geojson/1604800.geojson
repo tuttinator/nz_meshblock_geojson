@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1604800", "AU2014": "552800", "AU2014_NAM": "Inglewood", "UA2014": "248", "UA2014_NAM": "Inglewood", "TA2014": "033", "TA2014_NAM": "New Plymouth District", "WARD2014": "03303", "WARD2014_N": "South-West Ward", "CB2014": "03304", "CB2014_NAM": "Inglewood Community", "TASUB2014": "03399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "07", "REGC2014_N": "Taranaki Region", "CON2014": "0701", "CON2014_NA": "North Taranaki Constituency", "MCON2014": "0799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "049", "GED2007_NA": "Taranaki-King Country", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1049.702847, "SHAPE_Area": 61425.914008 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.201743866822596, -39.158249316826748 ], [ 174.202673966661649, -39.158148066755757 ], [ 174.204050266586393, -39.157995199777069 ], [ 174.204667566803664, -39.157928183498932 ], [ 174.204798449980586, -39.157913716610963 ], [ 174.204800683354847, -39.157927300136372 ], [ 174.205127500005176, -39.159707183325274 ], [ 174.2043753164929, -39.159789033509249 ], [ 174.202993549971438, -39.159939850144106 ], [ 174.201009383112591, -39.160157216784704 ], [ 174.201626199798056, -39.158965483351203 ], [ 174.201743866822596, -39.158249316826748 ] ] ] } }
+]
+}

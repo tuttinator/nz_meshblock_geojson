@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1402300", "AU2014": "545631", "AU2014_NAM": "Meeanee", "UA2014": "012", "UA2014_NAM": "Napier Zone", "TA2014": "031", "TA2014_NAM": "Napier City", "WARD2014": "03104", "WARD2014_N": "Taradale Ward", "CB2014": "03199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "06", "REGC2014_N": "Hawke's Bay Region", "CON2014": "0602", "CON2014_NA": "Napier Constituency", "MCON2014": "0699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "028", "GED2007_NA": "Napier", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1017.054616, "SHAPE_Area": 46940.503508 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.866652650053481, -39.532556899689176 ], [ 176.868034650385738, -39.532770933005345 ], [ 176.867633816636896, -39.534320066606846 ], [ 176.867149349956946, -39.536187483289567 ], [ 176.867033783340645, -39.536170116495484 ], [ 176.866482800324917, -39.53608464967968 ], [ 176.866459983590431, -39.536081132993928 ], [ 176.865886183652691, -39.535992099789276 ], [ 176.865767083544938, -39.5359728832711 ], [ 176.866253300315861, -39.534108499605722 ], [ 176.866652650053481, -39.532556899689176 ] ] ] } }
+]
+}

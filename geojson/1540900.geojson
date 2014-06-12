@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1540900", "AU2014": "550500", "AU2014_NAM": "Woodville", "UA2014": "246", "UA2014_NAM": "Woodville", "TA2014": "041", "TA2014_NAM": "Tararua District", "WARD2014": "04102", "WARD2014_N": "South Tararua Ward", "CB2014": "04199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0806", "CON2014_NA": "Tararua Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "056", "GED2007_NA": "Wairarapa", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 703.704366, "SHAPE_Area": 26625.954083 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.867074850191131, -40.336038166706437 ], [ 175.866723950193546, -40.33709163325279 ], [ 175.865375383193538, -40.336737566601123 ], [ 175.864028233473448, -40.336371600076973 ], [ 175.864318199842359, -40.335510999922271 ], [ 175.865696000313648, -40.335772399821408 ], [ 175.867074850191131, -40.336038166706437 ] ] ] } }
+]
+}

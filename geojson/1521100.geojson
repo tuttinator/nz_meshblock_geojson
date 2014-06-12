@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1521100", "AU2014": "549500", "AU2014_NAM": "Waipukurau", "UA2014": "244", "UA2014_NAM": "Waipukurau", "TA2014": "032", "TA2014_NAM": "Central Hawke's Bay District", "WARD2014": "03202", "WARD2014_N": "Ruataniwha Ward", "CB2014": "03299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "06", "REGC2014_N": "Hawke's Bay Region", "CON2014": "0604", "CON2014_NA": "Central Hawke's Bay Constituency", "MCON2014": "0699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "056", "GED2007_NA": "Wairarapa", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 699.747719, "SHAPE_Area": 21610.358910 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.559858833131187, -39.996164333179856 ], [ 176.559499000010589, -39.996625933306319 ], [ 176.556468400150806, -39.996495716355021 ], [ 176.556495317065895, -39.99638414979291 ], [ 176.556698666626488, -39.995673933291961 ], [ 176.556716467058465, -39.995593649885642 ], [ 176.556861250112178, -39.99562736639556 ], [ 176.559800499816816, -39.996102833019741 ], [ 176.559858833131187, -39.996164333179856 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1204823", "AU2014": "536202", "AU2014_NAM": "Palm Springs", "UA2014": "009", "UA2014_NAM": "Tauranga", "TA2014": "023", "TA2014_NAM": "Tauranga City", "WARD2014": "02301", "WARD2014_N": "Mount Maunganui-Papamoa Ward", "CB2014": "02399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0402", "CON2014_NA": "Tauranga Constituency", "MCON2014": "0401", "MCON2014_N": "Mauao Maori Constituency", "GED2007": "002", "GED2007_NA": "Bay of Plenty", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 714.908392, "SHAPE_Area": 25546.721249 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.347096383321372, -37.719183199925091 ], [ 176.34712186672644, -37.719102499766699 ], [ 176.34751408361555, -37.718523316786921 ], [ 176.347615000209089, -37.71839956672202 ], [ 176.34912689984975, -37.719046699722931 ], [ 176.350212567005769, -37.719511249756295 ], [ 176.350153483440181, -37.719578849892351 ], [ 176.349936916842495, -37.719897900023675 ], [ 176.349720333150543, -37.72021694981914 ], [ 176.349669549925778, -37.720282200008974 ], [ 176.348661483178915, -37.719849600039922 ], [ 176.347096383321372, -37.719183199925091 ] ] ] } }
+]
+}

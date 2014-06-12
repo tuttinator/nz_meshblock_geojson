@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1789603", "AU2014": "560900", "AU2014_NAM": "Sanson", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "039", "TA2014_NAM": "Manawatu District", "WARD2014": "03902", "WARD2014_N": "Southern Manawatu Rural Ward", "CB2014": "03999", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0805", "CON2014_NA": "Horowhenua-Kairanga Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "042", "GED2007_NA": "Rangitikei", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 907.424205, "SHAPE_Area": 41672.986947 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.425214549920696, -40.21922710014713 ], [ 175.426721666570899, -40.220123150009549 ], [ 175.428217399817129, -40.221006550187511 ], [ 175.427798500203266, -40.221436966566877 ], [ 175.427796033572719, -40.221439483398164 ], [ 175.427324333203245, -40.221913266804314 ], [ 175.425808916741801, -40.221038016772418 ], [ 175.424245266561542, -40.220117350177922 ], [ 175.425214549920696, -40.21922710014713 ] ] ] } }
+]
+}

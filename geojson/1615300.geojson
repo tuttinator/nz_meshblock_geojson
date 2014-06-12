@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1615300", "AU2014": "553101", "AU2014_NAM": "Stratford West", "UA2014": "249", "UA2014_NAM": "Stratford", "TA2014": "034", "TA2014_NAM": "Stratford District", "WARD2014": "03402", "WARD2014_N": "Stratford Urban Ward", "CB2014": "03499", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "07", "REGC2014_N": "Taranaki Region", "CON2014": "0703", "CON2014_NA": "Stratford Constituency", "MCON2014": "0799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "049", "GED2007_NA": "Taranaki-King Country", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 812.151196, "SHAPE_Area": 38914.811955 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.276081450155885, -39.336138050108936 ], [ 174.277566999838939, -39.335779133510272 ], [ 174.278857833430379, -39.335467833092039 ], [ 174.279142049811071, -39.336165833282557 ], [ 174.279399250139363, -39.336811800039179 ], [ 174.277176366483957, -39.337333200108809 ], [ 174.276626649717571, -39.337471566726791 ], [ 174.276511600024691, -39.337190283170813 ], [ 174.276081450155885, -39.336138050108936 ] ] ] } }
+]
+}

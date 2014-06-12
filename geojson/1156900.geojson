@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1156900", "AU2014": "537202", "AU2014_NAM": "Otumoetai South", "UA2014": "009", "UA2014_NAM": "Tauranga", "TA2014": "023", "TA2014_NAM": "Tauranga City", "WARD2014": "02302", "WARD2014_N": "Otumoetai-Pyes Pa Ward", "CB2014": "02399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0402", "CON2014_NA": "Tauranga Constituency", "MCON2014": "0401", "MCON2014_N": "Mauao Maori Constituency", "GED2007": "051", "GED2007_NA": "Tauranga", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 733.747060, "SHAPE_Area": 28223.194664 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.147321900264814, -37.67516570005219 ], [ 176.147520866771998, -37.675125166633144 ], [ 176.148564583145287, -37.67530289975381 ], [ 176.149262649836004, -37.675426799993026 ], [ 176.14985665002493, -37.675309716853242 ], [ 176.149972850168979, -37.675254583440136 ], [ 176.150228483437871, -37.676063533234171 ], [ 176.148397266615575, -37.676399433165216 ], [ 176.147234283229977, -37.676206499942978 ], [ 176.147054516594125, -37.676150633258679 ], [ 176.147321900264814, -37.67516570005219 ] ] ] } }
+]
+}

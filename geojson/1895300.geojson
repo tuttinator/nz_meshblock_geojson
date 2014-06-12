@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1895300", "AU2014": "567700", "AU2014_NAM": "Trentham North", "UA2014": "017", "UA2014_NAM": "Upper Hutt Zone", "TA2014": "045", "TA2014_NAM": "Upper Hutt City", "WARD2014": "04599", "WARD2014_N": "Area Outside Ward", "CB2014": "04599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0903", "CON2014_NA": "Upper Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "043", "GED2007_NA": "Rimutaka", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 983.633665, "SHAPE_Area": 50511.782728 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.039410366967275, -41.133197099833339 ], [ 175.039415966629093, -41.133194266508148 ], [ 175.04049233333933, -41.132633933116601 ], [ 175.040850666856727, -41.13244703311036 ], [ 175.043164250039865, -41.135031783092892 ], [ 175.042692883499313, -41.135270999989984 ], [ 175.041726000270273, -41.135761183285503 ], [ 175.039410366967275, -41.133197099833339 ] ] ] } }
+]
+}

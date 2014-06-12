@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1418300", "AU2014": "546200", "AU2014_NAM": "Ahuriri", "UA2014": "012", "UA2014_NAM": "Napier Zone", "TA2014": "031", "TA2014_NAM": "Napier City", "WARD2014": "03101", "WARD2014_N": "Ahuriri Ward", "CB2014": "03199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "06", "REGC2014_N": "Hawke's Bay Region", "CON2014": "0602", "CON2014_NA": "Napier Constituency", "MCON2014": "0699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "028", "GED2007_NA": "Napier", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 733.083664, "SHAPE_Area": 31226.046872 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.906220166897327, -39.479495133107065 ], [ 176.906231166683312, -39.479547433024962 ], [ 176.906240150397338, -39.479582966586122 ], [ 176.906296100406593, -39.479807799906595 ], [ 176.90644463365399, -39.480685483099222 ], [ 176.906469516631034, -39.480782566686827 ], [ 176.90650396705044, -39.480867149665315 ], [ 176.904902799956858, -39.48187751655901 ], [ 176.904439916881529, -39.480105849868231 ], [ 176.90435670011243, -39.479788316321113 ], [ 176.906220166897327, -39.479495133107065 ] ] ] } }
+]
+}

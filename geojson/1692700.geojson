@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1692700", "AU2014": "557700", "AU2014_NAM": "Kowhai Park", "UA2014": "015", "UA2014_NAM": "Wanganui", "TA2014": "037", "TA2014_NAM": "Wanganui District", "WARD2014": "03799", "WARD2014_N": "Area Outside Ward", "CB2014": "03799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0802", "CON2014_NA": "Wanganui Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "061", "GED2007_NA": "Whanganui", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 657.843446, "SHAPE_Area": 21326.472755 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.063586199891233, -39.918473966587669 ], [ 175.062353700067291, -39.919028616587099 ], [ 175.061136166613778, -39.919589749953865 ], [ 175.0604228835806, -39.918654416468293 ], [ 175.061125566622991, -39.918327033226291 ], [ 175.063402583153248, -39.918254366880035 ], [ 175.063586199891233, -39.918473966587669 ] ] ] } }
+]
+}

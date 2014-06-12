@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1428200", "AU2014": "546901", "AU2014_NAM": "Nelson Park", "UA2014": "012", "UA2014_NAM": "Napier Zone", "TA2014": "031", "TA2014_NAM": "Napier City", "WARD2014": "03103", "WARD2014_N": "Nelson Park Ward", "CB2014": "03199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "06", "REGC2014_N": "Hawke's Bay Region", "CON2014": "0602", "CON2014_NA": "Napier Constituency", "MCON2014": "0699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "028", "GED2007_NA": "Napier", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 432.314457, "SHAPE_Area": 11609.236141 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.913951699990037, -39.49124686650255 ], [ 176.914404433610571, -39.492250582869929 ], [ 176.913873566717371, -39.492394983172574 ], [ 176.91332268322023, -39.492533799854826 ], [ 176.912872550384293, -39.491535599783013 ], [ 176.913131049890836, -39.49146716631877 ], [ 176.913951699990037, -39.49124686650255 ] ] ] } }
+]
+}

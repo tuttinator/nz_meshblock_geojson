@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1129900", "AU2014": "535600", "AU2014_NAM": "Putaruru", "UA2014": "233", "UA2014_NAM": "Putaruru", "TA2014": "019", "TA2014_NAM": "South Waikato District", "WARD2014": "01902", "WARD2014_N": "Putaruru Ward", "CB2014": "01999", "CB2014_NAM": "Area Outside Community", "TASUB2014": "01999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0303", "CON2014_NA": "Waihou Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "050", "GED2007_NA": "Taupo", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 533.635259, "SHAPE_Area": 17930.703181 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.780356933112529, -38.050640116801318 ], [ 175.780505199765088, -38.050181449898432 ], [ 175.780500833573029, -38.049685916874914 ], [ 175.781188233374564, -38.049679550190888 ], [ 175.78132833318648, -38.049845983395031 ], [ 175.781823233601102, -38.050433933069534 ], [ 175.781783049810116, -38.050662999878398 ], [ 175.781681600035682, -38.051240516624361 ], [ 175.781061816800701, -38.051495116769772 ], [ 175.780892466526211, -38.051288233216965 ], [ 175.780356933112529, -38.050640116801318 ] ] ] } }
+]
+}

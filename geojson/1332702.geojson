@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1332702", "AU2014": "541342", "AU2014_NAM": "Rangitaiki", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "021", "TA2014_NAM": "Taupo District", "WARD2014": "02102", "WARD2014_N": "Taupo-Kaingaroa Ward", "CB2014": "02199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "04", "REGC2014_N": "Bay of Plenty Region", "CON2014": "0403", "CON2014_NA": "Rotorua Constituency", "MCON2014": "0402", "MCON2014_N": "Okurei Maori Constituency", "GED2007": "050", "GED2007_NA": "Taupo", "MED2007": "7", "MED2007_NA": "Waiariki", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 13466.072980, "SHAPE_Area": 6893286.037190 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.624221183315029, -38.754534999889088 ], [ 176.624184183309609, -38.754293899820141 ], [ 176.630763716611654, -38.75886693326067 ], [ 176.637185100057167, -38.763329099828269 ], [ 176.6481572668431, -38.783032583231339 ], [ 176.656382583454786, -38.795148183050614 ], [ 176.660548283516874, -38.801282333364092 ], [ 176.630457049965855, -38.795079933302567 ], [ 176.624221183315029, -38.754534999889088 ] ] ] } }
+]
+}

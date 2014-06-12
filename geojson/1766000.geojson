@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1766000", "AU2014": "560720", "AU2014_NAM": "Feilding West", "UA2014": "106", "UA2014_NAM": "Feilding", "TA2014": "039", "TA2014_NAM": "Manawatu District", "WARD2014": "03903", "WARD2014_N": "Feilding Ward", "CB2014": "03999", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0803", "CON2014_NA": "Manawatu-Rangitikei Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "042", "GED2007_NA": "Rangitikei", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 492.325141, "SHAPE_Area": 15155.973703 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.566412433475051, -40.22536416649114 ], [ 175.56719615027535, -40.224993850051121 ], [ 175.567541433092202, -40.224825666638161 ], [ 175.5677467502083, -40.225053450178933 ], [ 175.567867699898216, -40.225187216879895 ], [ 175.568387566496085, -40.22580903316971 ], [ 175.568049216930888, -40.225974416855934 ], [ 175.567219700040226, -40.226368683058126 ], [ 175.566843483160568, -40.22590138337133 ], [ 175.566412433475051, -40.22536416649114 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1468100", "AU2014": "545762", "AU2014_NAM": "Longlands South", "UA2014": "013", "UA2014_NAM": "Hastings Zone", "TA2014": "030", "TA2014_NAM": "Hastings District", "WARD2014": "03002", "WARD2014_N": "Heretaunga Ward", "CB2014": "03099", "CB2014_NAM": "Area Outside Community", "TASUB2014": "03099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "06", "REGC2014_N": "Hawke's Bay Region", "CON2014": "0603", "CON2014_NA": "Ngaruroro Constituency", "MCON2014": "0699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "053", "GED2007_NA": "Tukituki", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 3065.749002, "SHAPE_Area": 570623.883638 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 176.834581683260808, -39.659979800007356 ], [ 176.837527183633995, -39.661908499689332 ], [ 176.840841516958534, -39.664052733040521 ], [ 176.833164883582157, -39.66939401660148 ], [ 176.83307771710642, -39.669461816618998 ], [ 176.830853633538936, -39.66802119996462 ], [ 176.828075900156961, -39.666217583081064 ], [ 176.82795816660834, -39.666092982929527 ], [ 176.827999917105927, -39.66598518313635 ], [ 176.833572150015272, -39.660917166629197 ], [ 176.834581683260808, -39.659979800007356 ] ] ] } }
+]
+}

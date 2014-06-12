@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1290300", "AU2014": "540900", "AU2014_NAM": "Mangakino", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "021", "TA2014_NAM": "Taupo District", "WARD2014": "02101", "WARD2014_N": "Mangakino-Pouakani Ward", "CB2014": "02199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "03", "REGC2014_N": "Waikato Region", "CON2014": "0304", "CON2014_NA": "Taupo-Rotorua Constituency", "MCON2014": "0302", "MCON2014_N": "Nga Tai ki Uta Maori Constituency", "GED2007": "050", "GED2007_NA": "Taupo", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 653.752459, "SHAPE_Area": 23516.959617 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.775018933610909, -38.374433716645207 ], [ 175.775054633328182, -38.374383783357544 ], [ 175.775158233467664, -38.374107650045758 ], [ 175.775191366827443, -38.372750266837521 ], [ 175.775159166662519, -38.372615099806964 ], [ 175.776110816463898, -38.372602050080552 ], [ 175.776230600257492, -38.372631533077694 ], [ 175.776339250220246, -38.372776983330766 ], [ 175.776425883070033, -38.373455199874087 ], [ 175.776288833316215, -38.374236483256169 ], [ 175.775987299953442, -38.374873599982223 ], [ 175.7750194167362, -38.374433899816481 ], [ 175.775018933610909, -38.374433716645207 ] ] ] } }
+]
+}

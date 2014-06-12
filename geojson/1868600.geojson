@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1868600", "AU2014": "564231", "AU2014_NAM": "Playford Park", "UA2014": "107", "UA2014_NAM": "Levin", "TA2014": "042", "TA2014_NAM": "Horowhenua District", "WARD2014": "04203", "WARD2014_N": "Levin Ward", "CB2014": "04299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0805", "CON2014_NA": "Horowhenua-Kairanga Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "036", "GED2007_NA": "Otaki", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 952.970773, "SHAPE_Area": 38120.318465 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.291720133566315, -40.626593550082376 ], [ 175.292776150055317, -40.62704303322316 ], [ 175.291456899711619, -40.628842133069327 ], [ 175.290915866784189, -40.629578166494838 ], [ 175.290686316460153, -40.629971083367288 ], [ 175.290546200120758, -40.629911249969481 ], [ 175.290114733485296, -40.629726383183538 ], [ 175.290073316696748, -40.629708649906277 ], [ 175.289683266881326, -40.629541516559655 ], [ 175.289564033090357, -40.629518450201907 ], [ 175.290310583287862, -40.628506416900365 ], [ 175.291720133566315, -40.626593550082376 ] ] ] } }
+]
+}

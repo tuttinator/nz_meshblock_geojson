@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1750000", "AU2014": "559400", "AU2014_NAM": "Taihape", "UA2014": "258", "UA2014_NAM": "Taihape", "TA2014": "038", "TA2014_NAM": "Rangitikei District", "WARD2014": "03801", "WARD2014_N": "Taihape Ward", "CB2014": "03802", "CB2014_NAM": "Taihape Community", "TASUB2014": "03899", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0803", "CON2014_NA": "Manawatu-Rangitikei Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "042", "GED2007_NA": "Rangitikei", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 613.864768, "SHAPE_Area": 22002.302866 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.796947233062497, -39.677250483062821 ], [ 175.797532350043184, -39.677060799987956 ], [ 175.797755549946004, -39.676988499805574 ], [ 175.798000316750091, -39.676874683303097 ], [ 175.798151300026717, -39.676810383051873 ], [ 175.79888879976221, -39.677849433367264 ], [ 175.798949216703932, -39.677934849890569 ], [ 175.798795050294558, -39.678000433280395 ], [ 175.797902800297777, -39.678386866807514 ], [ 175.797676783282753, -39.678488333386134 ], [ 175.797056916871668, -39.67877505003495 ], [ 175.796947233062497, -39.677250483062821 ] ] ] } }
+]
+}

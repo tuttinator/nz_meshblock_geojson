@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1875500", "AU2014": "563706", "AU2014_NAM": "Waikanae West", "UA2014": "025", "UA2014_NAM": "Kapiti", "TA2014": "043", "TA2014_NAM": "Kapiti Coast District", "WARD2014": "04303", "WARD2014_N": "Waikanae Ward", "CB2014": "04302", "CB2014_NAM": "Waikanae Community", "TASUB2014": "04399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0901", "CON2014_NA": "Kapiti Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "036", "GED2007_NA": "Otaki", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 817.929767, "SHAPE_Area": 33975.318913 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.05525751684965, -40.874294000066982 ], [ 175.056184650034282, -40.874288033432606 ], [ 175.056707233050815, -40.874293133221521 ], [ 175.057451533442105, -40.874295033196475 ], [ 175.058707033206787, -40.874298299937188 ], [ 175.058697933531533, -40.874803549975105 ], [ 175.058745033189268, -40.875341916778154 ], [ 175.056662900206845, -40.875343899799994 ], [ 175.056464416805994, -40.875342966597685 ], [ 175.055242533181826, -40.875337583292627 ], [ 175.05525751684965, -40.874294000066982 ] ] ] } }
+]
+}

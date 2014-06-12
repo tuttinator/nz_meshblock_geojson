@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1753500", "AU2014": "558500", "AU2014_NAM": "Waiouru", "UA2014": "256", "UA2014_NAM": "Waiouru", "TA2014": "036", "TA2014_NAM": "Ruapehu District", "WARD2014": "03604", "WARD2014_N": "Waimarino-Waiouru Ward", "CB2014": "03602", "CB2014_NAM": "Waimarino-Waiouru Community", "TASUB2014": "03699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0801", "CON2014_NA": "Ruapehu Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "042", "GED2007_NA": "Rangitikei", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 622.720465, "SHAPE_Area": 21354.046348 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.67488973337737, -39.474132050110036 ], [ 175.673923383400876, -39.473594416651025 ], [ 175.674160566683497, -39.473333600195623 ], [ 175.674324833090196, -39.473159683446198 ], [ 175.674477516625018, -39.472998049780124 ], [ 175.674972083491895, -39.472453149913889 ], [ 175.675554633592583, -39.472057616559049 ], [ 175.675654333342806, -39.472155283141007 ], [ 175.676298366709204, -39.472545149867777 ], [ 175.675410200293385, -39.47355675002165 ], [ 175.67532281661704, -39.473656283485539 ], [ 175.67488973337737, -39.474132050110036 ] ] ] } }
+]
+}

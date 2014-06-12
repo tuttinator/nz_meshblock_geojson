@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1378300", "AU2014": "544200", "AU2014_NAM": "Mangapapa", "UA2014": "011", "UA2014_NAM": "Gisborne", "TA2014": "028", "TA2014_NAM": "Gisborne District", "WARD2014": "02805", "WARD2014_N": "Gisborne Ward", "CB2014": "02899", "CB2014_NAM": "Area Outside Community", "TASUB2014": "02899", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "05", "REGC2014_N": "Gisborne Region", "CON2014": "0599", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "0599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "010", "GED2007_NA": "East Coast", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 943.481208, "SHAPE_Area": 55613.687462 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 178.016984050667702, -38.649298982245433 ], [ 178.018078283953429, -38.649872398905813 ], [ 178.018240217418963, -38.649964165603159 ], [ 178.019052683836691, -38.650589732327425 ], [ 178.017754483817384, -38.652108882394735 ], [ 178.01737898375444, -38.651963999182833 ], [ 178.016510483840449, -38.651708449188256 ], [ 178.015240233690946, -38.651335632423617 ], [ 178.016984050667702, -38.649298982245433 ] ] ] } }
+]
+}
