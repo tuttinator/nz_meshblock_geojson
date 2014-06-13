@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2025100", "AU2014": "565300", "AU2014_NAM": "Homedale East", "UA2014": "018", "UA2014_NAM": "Lower Hutt Zone", "TA2014": "046", "TA2014_NAM": "Lower Hutt City", "WARD2014": "04606", "WARD2014_N": "Wainuiomata Ward", "CB2014": "04603", "CB2014_NAM": "Wainuiomata Community", "TASUB2014": "04699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0904", "CON2014_NA": "Lower Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "017", "GED2007_NA": "Hutt South", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1550.094259, "SHAPE_Area": 112979.264156 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.968419116595555, -41.276334816661311 ], [ 174.968762849819541, -41.279039450153228 ], [ 174.968184050106231, -41.281649416510334 ], [ 174.968153116813738, -41.281795183223565 ], [ 174.968017633458857, -41.28178518349263 ], [ 174.967031100210903, -41.281756566685431 ], [ 174.965917333571355, -41.281448399909571 ], [ 174.965317133228268, -41.281287183392216 ], [ 174.96685355027779, -41.277518733404229 ], [ 174.96690510016677, -41.277397566511951 ], [ 174.9670474332259, -41.277062933218197 ], [ 174.967419599902996, -41.276091799853951 ], [ 174.968419116595555, -41.276334816661311 ] ] ] } }
+]
+}

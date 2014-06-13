@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2052100", "AU2014": "571000", "AU2014_NAM": "Ranui Heights", "UA2014": "019", "UA2014_NAM": "Porirua Zone", "TA2014": "044", "TA2014_NAM": "Porirua City", "WARD2014": "04403", "WARD2014_N": "Eastern Ward", "CB2014": "04499", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0902", "CON2014_NA": "Porirua-Tawa Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "021", "GED2007_NA": "Mana", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 534.218612, "SHAPE_Area": 18718.441892 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.841088716854443, -41.152292466754524 ], [ 174.841576316836893, -41.15240231690499 ], [ 174.841995999745365, -41.152565866599822 ], [ 174.84224531694062, -41.152810899951497 ], [ 174.842358066838187, -41.153123050108732 ], [ 174.842298716606876, -41.15346408313227 ], [ 174.842168500285993, -41.153753733277284 ], [ 174.841790799972983, -41.153889166705554 ], [ 174.841185366470995, -41.153926216658832 ], [ 174.840769483229224, -41.153908066904137 ], [ 174.840669133056991, -41.153875216485012 ], [ 174.841088716854443, -41.152292466754524 ] ] ] } }
+]
+}

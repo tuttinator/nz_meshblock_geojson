@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1985500", "AU2014": "570300", "AU2014_NAM": "Eastbourne", "UA2014": "018", "UA2014_NAM": "Lower Hutt Zone", "TA2014": "046", "TA2014_NAM": "Lower Hutt City", "WARD2014": "04602", "WARD2014_N": "Harbour Ward", "CB2014": "04602", "CB2014_NAM": "Eastbourne Community", "TASUB2014": "04699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0904", "CON2014_NA": "Lower Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "017", "GED2007_NA": "Hutt South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 730.627101, "SHAPE_Area": 31914.966434 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.894035733406724, -41.303155483135008 ], [ 174.893730866612373, -41.30360456660646 ], [ 174.892491366533022, -41.304743066613284 ], [ 174.892211866964118, -41.304472499970231 ], [ 174.891879233111865, -41.304144250016122 ], [ 174.891153600196503, -41.303423066480924 ], [ 174.891966033265874, -41.302669783347433 ], [ 174.892166833364541, -41.302383816583202 ], [ 174.89311528342003, -41.302790733099265 ], [ 174.8931756164869, -41.302841666570586 ], [ 174.89348176646709, -41.303076950185485 ], [ 174.894035733406724, -41.303155483135008 ] ] ] } }
+]
+}

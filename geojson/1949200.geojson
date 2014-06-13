@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1949200", "AU2014": "568301", "AU2014_NAM": "Avalon East", "UA2014": "018", "UA2014_NAM": "Lower Hutt Zone", "TA2014": "046", "TA2014_NAM": "Lower Hutt City", "WARD2014": "04604", "WARD2014_N": "Central Ward", "CB2014": "04699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0904", "CON2014_NA": "Lower Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "043", "GED2007_NA": "Rimutaka", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 636.118654, "SHAPE_Area": 21669.815326 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.95197581694319, -41.188585483251728 ], [ 174.952804166554245, -41.188860149832159 ], [ 174.953967483294491, -41.189290399944248 ], [ 174.953857200181488, -41.189430416528374 ], [ 174.953605800017726, -41.189873016850463 ], [ 174.95334346699164, -41.190307650108466 ], [ 174.952487283011294, -41.190311949904221 ], [ 174.9522371168066, -41.190304399995668 ], [ 174.952124683359727, -41.189239383358277 ], [ 174.951515150029877, -41.188875033417915 ], [ 174.95181070002522, -41.188689750102498 ], [ 174.95197581694319, -41.188585483251728 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2040301", "AU2014": "570600", "AU2014_NAM": "Titahi Bay South", "UA2014": "019", "UA2014_NAM": "Porirua Zone", "TA2014": "044", "TA2014_NAM": "Porirua City", "WARD2014": "04402", "WARD2014_N": "Western Ward", "CB2014": "04499", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0902", "CON2014_NA": "Porirua-Tawa Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "021", "GED2007_NA": "Mana", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 663.719801, "SHAPE_Area": 24036.540766 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.840540383141729, -41.110930866489426 ], [ 174.841698500089478, -41.110468516610489 ], [ 174.842396849842856, -41.111535999888964 ], [ 174.842946183235597, -41.112198783509008 ], [ 174.842824100206599, -41.112243950058328 ], [ 174.842374966693342, -41.112441066906776 ], [ 174.841966266592351, -41.112623416682545 ], [ 174.841806216820032, -41.112702483485272 ], [ 174.841802949899318, -41.112695516696242 ], [ 174.841281616512191, -41.112015866670205 ], [ 174.840540383141729, -41.110930866489426 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1942600", "AU2014": "568402", "AU2014_NAM": "Boulcott", "UA2014": "018", "UA2014_NAM": "Lower Hutt Zone", "TA2014": "046", "TA2014_NAM": "Lower Hutt City", "WARD2014": "04604", "WARD2014_N": "Central Ward", "CB2014": "04699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0904", "CON2014_NA": "Lower Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "017", "GED2007_NA": "Hutt South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 681.153247, "SHAPE_Area": 23049.205884 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.931119166977368, -41.197229049819221 ], [ 174.932192150040123, -41.197445066826525 ], [ 174.931430199999426, -41.199598233163663 ], [ 174.931020250030542, -41.199517816485141 ], [ 174.930458283119776, -41.199400116612914 ], [ 174.930357933445435, -41.199381466788068 ], [ 174.931119166977368, -41.197229049819221 ] ] ] } }
+]
+}

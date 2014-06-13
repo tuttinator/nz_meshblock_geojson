@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2036800", "AU2014": "570700", "AU2014_NAM": "Elsdon-Takapuwahia", "UA2014": "019", "UA2014_NAM": "Porirua Zone", "TA2014": "044", "TA2014_NAM": "Porirua City", "WARD2014": "04402", "WARD2014_N": "Western Ward", "CB2014": "04499", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0902", "CON2014_NA": "Porirua-Tawa Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "021", "GED2007_NA": "Mana", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 465.088898, "SHAPE_Area": 12982.108428 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.827246599812611, -41.131514999857053 ], [ 174.828376383055257, -41.131317149826465 ], [ 174.828536099830529, -41.131825583462934 ], [ 174.828880316954809, -41.132395466516236 ], [ 174.827632233606664, -41.132660483337006 ], [ 174.827625366688807, -41.132645399970762 ], [ 174.827448649725142, -41.132163066762409 ], [ 174.827246599812611, -41.131514999857053 ] ] ] } }
+]
+}

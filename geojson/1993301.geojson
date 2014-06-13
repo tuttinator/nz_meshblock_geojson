@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1993301", "AU2014": "572701", "AU2014_NAM": "Linden", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04701", "WARD2014_N": "Northern Ward", "CB2014": "04702", "CB2014_NAM": "Tawa Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0902", "CON2014_NA": "Porirua-Tawa Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "021", "GED2007_NA": "Mana", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 835.841999, "SHAPE_Area": 24115.652653 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.832577999786281, -41.157515366796183 ], [ 174.833301549875728, -41.157786450199616 ], [ 174.832482500287512, -41.159913666813196 ], [ 174.832197283251844, -41.160639816805876 ], [ 174.832156633408232, -41.16074324976875 ], [ 174.832047683562138, -41.160712899917968 ], [ 174.831473733374565, -41.160582883080515 ], [ 174.831328683305941, -41.160553833165508 ], [ 174.831508116671785, -41.160116750072078 ], [ 174.831532583060493, -41.160056433122421 ], [ 174.832406699870006, -41.15796564998675 ], [ 174.832577999786281, -41.157515366796183 ] ] ] } }
+]
+}

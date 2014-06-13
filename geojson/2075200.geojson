@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2075200", "AU2014": "574001", "AU2014_NAM": "Newlands South", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04701", "WARD2014_N": "Northern Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "035", "GED2007_NA": "Ohariu", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 595.923549, "SHAPE_Area": 14741.012137 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.824732383361265, -41.223100699977095 ], [ 174.825355483457201, -41.223342700072138 ], [ 174.825405116454789, -41.223353816618534 ], [ 174.825495633302978, -41.223448083140127 ], [ 174.825885150276974, -41.223578983300996 ], [ 174.825954683325676, -41.223594750131262 ], [ 174.826889233233459, -41.224589066891873 ], [ 174.826852016906741, -41.224741999824893 ], [ 174.826600500214653, -41.225108816737759 ], [ 174.826049166694844, -41.224805333260946 ], [ 174.825727783483643, -41.22462646666434 ], [ 174.824732383361265, -41.223100699977095 ] ] ] } }
+]
+}

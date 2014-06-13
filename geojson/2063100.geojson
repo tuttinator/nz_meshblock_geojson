@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2063100", "AU2014": "571300", "AU2014_NAM": "Cannons Creek East", "UA2014": "019", "UA2014_NAM": "Porirua Zone", "TA2014": "044", "TA2014_NAM": "Porirua City", "WARD2014": "04403", "WARD2014_N": "Eastern Ward", "CB2014": "04499", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0902", "CON2014_NA": "Porirua-Tawa Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "021", "GED2007_NA": "Mana", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 536.683836, "SHAPE_Area": 16523.890856 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.86776403320286, -41.13614613329046 ], [ 174.868844816769439, -41.136486466568925 ], [ 174.869507033557568, -41.137533883213443 ], [ 174.8684874830372, -41.137919066676623 ], [ 174.867908699800694, -41.13701378327584 ], [ 174.867693316639446, -41.13666828329491 ], [ 174.867657399728301, -41.136445766698671 ], [ 174.867681883403691, -41.136288733213902 ], [ 174.86776403320286, -41.13614613329046 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1956000", "AU2014": "568302", "AU2014_NAM": "Naenae North", "UA2014": "018", "UA2014_NAM": "Lower Hutt Zone", "TA2014": "046", "TA2014_NAM": "Lower Hutt City", "WARD2014": "04605", "WARD2014_N": "Eastern Ward", "CB2014": "04699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0904", "CON2014_NA": "Lower Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "017", "GED2007_NA": "Hutt South", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 680.000769, "SHAPE_Area": 25361.782871 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.952100683249284, -41.199257266728438 ], [ 174.952160033159544, -41.199245749811254 ], [ 174.952198149758061, -41.199372199903003 ], [ 174.952411616534903, -41.199953799927471 ], [ 174.952470099720756, -41.200116100035217 ], [ 174.952499250021873, -41.200218483450527 ], [ 174.952333616676725, -41.200253700038836 ], [ 174.95012398311269, -41.200702033497357 ], [ 174.949867000212549, -41.200757366827602 ], [ 174.949838466516297, -41.200676766622067 ], [ 174.949519516965694, -41.199807583307084 ], [ 174.952100683249284, -41.199257266728438 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2013500", "AU2014": "564800", "AU2014_NAM": "Glendale", "UA2014": "018", "UA2014_NAM": "Lower Hutt Zone", "TA2014": "046", "TA2014_NAM": "Lower Hutt City", "WARD2014": "04606", "WARD2014_N": "Wainuiomata Ward", "CB2014": "04603", "CB2014_NAM": "Wainuiomata Community", "TASUB2014": "04699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0904", "CON2014_NA": "Lower Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "017", "GED2007_NA": "Hutt South", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 580.910547, "SHAPE_Area": 18641.028019 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.947241833097479, -41.249917099805074 ], [ 174.947364400197529, -41.249906666574937 ], [ 174.947746916432123, -41.249868500089072 ], [ 174.947764766539109, -41.249866733456898 ], [ 174.949545350134059, -41.24968143310042 ], [ 174.949693899814889, -41.250538050015727 ], [ 174.947917900244391, -41.250722183516537 ], [ 174.947899283016767, -41.250724549974784 ], [ 174.947513650058312, -41.250762983192267 ], [ 174.947401933081608, -41.250775383466404 ], [ 174.947241833097479, -41.249917099805074 ] ] ] } }
+]
+}

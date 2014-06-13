@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2061200", "AU2014": "571400", "AU2014_NAM": "Waitangirua", "UA2014": "019", "UA2014_NAM": "Porirua Zone", "TA2014": "044", "TA2014_NAM": "Porirua City", "WARD2014": "04403", "WARD2014_N": "Eastern Ward", "CB2014": "04499", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0902", "CON2014_NA": "Porirua-Tawa Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "021", "GED2007_NA": "Mana", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 658.068497, "SHAPE_Area": 22444.671043 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.884098300184235, -41.133127616640394 ], [ 174.884884133177053, -41.133786816602964 ], [ 174.884390099701136, -41.134092916542514 ], [ 174.882801816624806, -41.135101816768874 ], [ 174.882756733102582, -41.135063216890948 ], [ 174.882044400121259, -41.134423033220891 ], [ 174.881985716727002, -41.134365033195017 ], [ 174.882143683325296, -41.134310633081512 ], [ 174.882247266756593, -41.134264783299358 ], [ 174.882340233492044, -41.1342235498403 ], [ 174.883000866696278, -41.133816216635438 ], [ 174.884098300184235, -41.133127616640394 ] ] ] } }
+]
+}

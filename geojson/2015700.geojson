@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2015700", "AU2014": "564900", "AU2014_NAM": "Parkway", "UA2014": "018", "UA2014_NAM": "Lower Hutt Zone", "TA2014": "046", "TA2014_NAM": "Lower Hutt City", "WARD2014": "04606", "WARD2014_N": "Wainuiomata Ward", "CB2014": "04603", "CB2014_NAM": "Wainuiomata Community", "TASUB2014": "04699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0904", "CON2014_NA": "Lower Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "017", "GED2007_NA": "Hutt South", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1143.665664, "SHAPE_Area": 39981.431634 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.933145433576868, -41.252958699973789 ], [ 174.937363983442395, -41.256029050023415 ], [ 174.936698899808732, -41.256554266906313 ], [ 174.934675050182335, -41.255094233096059 ], [ 174.93461335010403, -41.255049749833013 ], [ 174.934366466629342, -41.254864399995441 ], [ 174.933824049894383, -41.254479983512525 ], [ 174.933379650202511, -41.254144883189099 ], [ 174.932836983331299, -41.253753200068893 ], [ 174.932480816682414, -41.253460466709519 ], [ 174.933145433576868, -41.252958699973789 ] ] ] } }
+]
+}

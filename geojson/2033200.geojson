@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2033200", "AU2014": "569900", "AU2014_NAM": "Petone Central", "UA2014": "018", "UA2014_NAM": "Lower Hutt Zone", "TA2014": "046", "TA2014_NAM": "Lower Hutt City", "WARD2014": "04602", "WARD2014_N": "Harbour Ward", "CB2014": "04601", "CB2014_NAM": "Petone Community", "TASUB2014": "04699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0904", "CON2014_NA": "Lower Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "017", "GED2007_NA": "Hutt South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 888.580567, "SHAPE_Area": 26900.280185 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.874993683483979, -41.224222200197268 ], [ 174.8756206498648, -41.223160849900559 ], [ 174.875906699785247, -41.222639816894009 ], [ 174.876702183127833, -41.221259283429312 ], [ 174.876739899752977, -41.221208316673156 ], [ 174.876763166960018, -41.221182449985285 ], [ 174.87758755010509, -41.22138863322121 ], [ 174.876450533377863, -41.223324999805122 ], [ 174.876447483305924, -41.223330750206607 ], [ 174.875785216735721, -41.224477166744968 ], [ 174.874993683483979, -41.224222200197268 ] ] ] } }
+]
+}

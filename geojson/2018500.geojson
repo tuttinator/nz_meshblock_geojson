@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2018500", "AU2014": "565000", "AU2014_NAM": "Fernlea", "UA2014": "018", "UA2014_NAM": "Lower Hutt Zone", "TA2014": "046", "TA2014_NAM": "Lower Hutt City", "WARD2014": "04606", "WARD2014_N": "Wainuiomata Ward", "CB2014": "04603", "CB2014_NAM": "Wainuiomata Community", "TASUB2014": "04699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0904", "CON2014_NA": "Lower Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "017", "GED2007_NA": "Hutt South", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 693.888167, "SHAPE_Area": 28385.778199 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.941489049751937, -41.260818283415325 ], [ 174.943719383170048, -41.261581333300242 ], [ 174.943640816458696, -41.261705433381294 ], [ 174.943382250012775, -41.262141749927508 ], [ 174.943355816510092, -41.262238316905929 ], [ 174.943394383385851, -41.262251333125199 ], [ 174.943158300195194, -41.262649749797582 ], [ 174.943119566685141, -41.262725216635793 ], [ 174.94171248353075, -41.262246399893272 ], [ 174.940815450168714, -41.261935999921953 ], [ 174.941489049751937, -41.260818283415325 ] ] ] } }
+]
+}

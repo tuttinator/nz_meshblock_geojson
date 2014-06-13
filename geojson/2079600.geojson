@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2079600", "AU2014": "573801", "AU2014_NAM": "Paparangi West", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04701", "WARD2014_N": "Northern Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "035", "GED2007_NA": "Ohariu", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 437.401471, "SHAPE_Area": 11843.729592 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.817923949712423, -41.213416349976448 ], [ 174.817945866865784, -41.213916316475064 ], [ 174.817965183501258, -41.214307400110066 ], [ 174.817558683475426, -41.214339066636022 ], [ 174.817399483082909, -41.214309133476824 ], [ 174.816660966921006, -41.214170050094985 ], [ 174.816502766644561, -41.214163383322337 ], [ 174.816278133381502, -41.214171516812328 ], [ 174.816253049979252, -41.213924466758471 ], [ 174.816379583069164, -41.213665883088609 ], [ 174.816606483194221, -41.213524900117527 ], [ 174.816896383450711, -41.2134607666516 ], [ 174.817923949712423, -41.213416349976448 ] ] ] } }
+]
+}

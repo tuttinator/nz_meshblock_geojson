@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2001800", "AU2014": "565903", "AU2014_NAM": "Paraparaumu Beach South", "UA2014": "025", "UA2014_NAM": "Kapiti", "TA2014": "043", "TA2014_NAM": "Kapiti Coast District", "WARD2014": "04302", "WARD2014_N": "Paraparaumu Ward", "CB2014": "04303", "CB2014_NAM": "Paraparaumu-Raumati Community", "TASUB2014": "04399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0901", "CON2014_NA": "Kapiti Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "036", "GED2007_NA": "Otaki", "MED2007": "4", "MED2007_NA": "Te Tai Hauauru", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1319.354370, "SHAPE_Area": 87154.391517 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.98443989977909, -40.885059783243797 ], [ 174.985480649765407, -40.883554116630776 ], [ 174.98608203338901, -40.883846683171917 ], [ 174.986965033179416, -40.884593283391538 ], [ 174.987446316795655, -40.884223333245146 ], [ 174.988464666542626, -40.88485731665255 ], [ 174.989694733595485, -40.885655883181279 ], [ 174.98778888322235, -40.887315349836285 ], [ 174.987201733308353, -40.887253766826511 ], [ 174.986409000042471, -40.886597900086173 ], [ 174.986471416699629, -40.886200500124794 ], [ 174.985656100278135, -40.885537716849299 ], [ 174.98443989977909, -40.885059783243797 ] ] ] } }
+]
+}

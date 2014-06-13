@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2030800", "AU2014": "570100", "AU2014_NAM": "Wilford", "UA2014": "018", "UA2014_NAM": "Lower Hutt Zone", "TA2014": "046", "TA2014_NAM": "Lower Hutt City", "WARD2014": "04602", "WARD2014_N": "Harbour Ward", "CB2014": "04601", "CB2014_NAM": "Petone Community", "TASUB2014": "04699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0904", "CON2014_NA": "Lower Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "017", "GED2007_NA": "Hutt South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 897.678064, "SHAPE_Area": 49595.360194 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.885894516638217, -41.225526366885212 ], [ 174.88617388311647, -41.224957416577361 ], [ 174.889016283022016, -41.225806149881699 ], [ 174.888531500242266, -41.226646399979387 ], [ 174.888081816864513, -41.227427866653159 ], [ 174.885340716837391, -41.226634399917359 ], [ 174.885894516638217, -41.225526366885212 ] ] ] } }
+]
+}

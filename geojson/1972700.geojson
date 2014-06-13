@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1972700", "AU2014": "568602", "AU2014_NAM": "Waterloo East", "UA2014": "018", "UA2014_NAM": "Lower Hutt Zone", "TA2014": "046", "TA2014_NAM": "Lower Hutt City", "WARD2014": "04605", "WARD2014_N": "Eastern Ward", "CB2014": "04699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0904", "CON2014_NA": "Lower Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "017", "GED2007_NA": "Hutt South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 986.799163, "SHAPE_Area": 36004.368008 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.924966950126247, -41.212518733298616 ], [ 174.925648683325221, -41.212335600193249 ], [ 174.927351666749729, -41.212655783368419 ], [ 174.930122083474657, -41.213172933331805 ], [ 174.928706799898265, -41.214034750010313 ], [ 174.928501800086934, -41.213824966874384 ], [ 174.928348883122112, -41.21373220014442 ], [ 174.928205066752582, -41.213680433420016 ], [ 174.925190483584657, -41.213096283255531 ], [ 174.925182416942164, -41.212951483350984 ], [ 174.924966950126247, -41.212518733298616 ] ] ] } }
+]
+}

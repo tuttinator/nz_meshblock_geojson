@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2082200", "AU2014": "573700", "AU2014_NAM": "Johnsonville Central", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04701", "WARD2014_N": "Northern Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "035", "GED2007_NA": "Ohariu", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 692.068944, "SHAPE_Area": 25557.182238 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.805178750084082, -41.220021299859923 ], [ 174.805786533281264, -41.220086016556643 ], [ 174.805905833190025, -41.220097600223902 ], [ 174.806035899917788, -41.220109983133767 ], [ 174.806502433482876, -41.220158766745733 ], [ 174.805905383343145, -41.222101933119795 ], [ 174.805946266529361, -41.222217483142231 ], [ 174.805860533149314, -41.22220884980031 ], [ 174.805786666811969, -41.222201166514694 ], [ 174.804577116624046, -41.222028416573252 ], [ 174.804767366940183, -41.221446216808353 ], [ 174.805178750084082, -41.220021299859923 ] ] ] } }
+]
+}

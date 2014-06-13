@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "1935600", "AU2014": "568201", "AU2014_NAM": "Taita North", "UA2014": "018", "UA2014_NAM": "Lower Hutt Zone", "TA2014": "046", "TA2014_NAM": "Lower Hutt City", "WARD2014": "04603", "WARD2014_N": "Northern Ward", "CB2014": "04699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0904", "CON2014_NA": "Lower Hutt Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "043", "GED2007_NA": "Rimutaka", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 587.897156, "SHAPE_Area": 19838.107366 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.964840966933792, -41.175349533438158 ], [ 174.964083816413364, -41.176299400100525 ], [ 174.963978283016672, -41.176257616524936 ], [ 174.963888666918848, -41.176210483507695 ], [ 174.963501683395521, -41.176043816711982 ], [ 174.963572133213574, -41.1759497667164 ], [ 174.963490949773217, -41.175936516708212 ], [ 174.962404166519434, -41.175492116856283 ], [ 174.962488083385068, -41.175380816526093 ], [ 174.963139066810243, -41.174576283418716 ], [ 174.964840966933792, -41.175349533438158 ] ] ] } }
+]
+}
