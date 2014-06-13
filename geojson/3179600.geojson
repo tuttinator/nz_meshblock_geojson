@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3179600", "AU2014": "612200", "AU2014_NAM": "Nightcaps", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "073", "TA2014_NAM": "Southland District", "WARD2014": "07302", "WARD2014_N": "Waiau-Aparima Ward", "CB2014": "07399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1503", "CON2014_NA": "Western Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 986.236540, "SHAPE_Area": 39628.654958 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.013528750196485, -45.965257798739728 ], [ 168.014010150179303, -45.965258548573615 ], [ 168.01429556656322, -45.965258882149776 ], [ 168.016194250236055, -45.965262681860054 ], [ 168.016841366832807, -45.965263281999775 ], [ 168.016977683283955, -45.965263498743603 ], [ 168.016962300098925, -45.967904648801301 ], [ 168.01526850015631, -45.966353615227007 ], [ 168.013526499985545, -45.965777865409152 ], [ 168.013527266872927, -45.9656925155479 ], [ 168.013528583512823, -45.965305931793097 ], [ 168.013528650082435, -45.965287131794092 ], [ 168.013528750196485, -45.965257798739728 ] ] ] } }
+]
+}

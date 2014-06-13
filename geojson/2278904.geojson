@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2278904", "AU2014": "580448", "AU2014_NAM": "Tuamarina", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "053", "TA2014_NAM": "Marlborough District", "WARD2014": "05302", "WARD2014_N": "Wairau-Awatere Ward", "CB2014": "05399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "18", "REGC2014_N": "Marlborough Region", "CON2014": "1899", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "020", "GED2007_NA": "Kaikoura", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 876.238123, "SHAPE_Area": 40739.807948 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.045143316454244, -41.392617100102747 ], [ 174.046025000074764, -41.392491983496861 ], [ 174.046773000196225, -41.392712616546305 ], [ 174.045358033152212, -41.395410183224286 ], [ 174.043907516986991, -41.394975850026889 ], [ 174.045143316454244, -41.392617100102747 ] ] ] } }
+]
+}

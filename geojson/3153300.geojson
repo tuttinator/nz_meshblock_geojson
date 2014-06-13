@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3153300", "AU2014": "611800", "AU2014_NAM": "Kingswell-Clifton", "UA2014": "024", "UA2014_NAM": "Invercargill", "TA2014": "075", "TA2014_NAM": "Invercargill City", "WARD2014": "07599", "WARD2014_N": "Area Outside Ward", "CB2014": "07599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1506", "CON2014_NA": "Invercargill-Rakiura Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "019", "GED2007_NA": "Invercargill", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1059.756762, "SHAPE_Area": 62897.316368 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.36625258308203, -46.452636882507115 ], [ 168.367388599838222, -46.452222265792372 ], [ 168.367549116608131, -46.452438965966074 ], [ 168.368447216609894, -46.453662932268834 ], [ 168.366967283302614, -46.454204749345429 ], [ 168.36581576676943, -46.454605799313903 ], [ 168.364794216673317, -46.454998232217847 ], [ 168.364497600294413, -46.455106016023976 ], [ 168.3639922830682, -46.45449014930751 ], [ 168.363314083273337, -46.45367111593314 ], [ 168.364633716829218, -46.453205765995889 ], [ 168.365891783421603, -46.452765999181729 ], [ 168.36625258308203, -46.452636882507115 ] ] ] } }
+]
+}

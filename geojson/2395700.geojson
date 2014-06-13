@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2395700", "AU2014": "584600", "AU2014_NAM": "Reefton", "UA2014": "275", "UA2014_NAM": "Reefton", "TA2014": "055", "TA2014_NAM": "Buller District", "WARD2014": "05502", "WARD2014_N": "Inangahua Ward", "CB2014": "05501", "CB2014_NAM": "Inangahua Community", "TASUB2014": "05599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "12", "REGC2014_N": "West Coast Region", "CON2014": "1201", "CON2014_NA": "Buller Constituency", "MCON2014": "1299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "060", "GED2007_NA": "West Coast-Tasman", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1069.534873, "SHAPE_Area": 62223.959194 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.858909533606663, -42.109912583343096 ], [ 171.859853283276351, -42.109956150172387 ], [ 171.859941066938944, -42.110051716612098 ], [ 171.861235533057567, -42.111176033201538 ], [ 171.862680083351222, -42.112415300122471 ], [ 171.861918866760391, -42.112909083189365 ], [ 171.861126249762748, -42.113417833159303 ], [ 171.859677000219421, -42.1121762166363 ], [ 171.858788000283823, -42.111414766861792 ], [ 171.858863866596835, -42.110508133486874 ], [ 171.858867033603303, -42.110329966574291 ], [ 171.858909533606663, -42.109912583343096 ] ] ] } }
+]
+}

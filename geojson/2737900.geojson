@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2737900", "AU2014": "597811", "AU2014_NAM": "Allenton West", "UA2014": "112", "UA2014_NAM": "Ashburton", "TA2014": "063", "TA2014_NAM": "Ashburton District", "WARD2014": "06303", "WARD2014_N": "Ashburton Ward", "CB2014": "06399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "06399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1307", "CON2014_NA": "Rakaia Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "041", "GED2007_NA": "Rangitata", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 866.687107, "SHAPE_Area": 33472.173032 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.738233983596615, -43.892889916598918 ], [ 171.73838166673508, -43.892786216614738 ], [ 171.740936416707513, -43.891110283375319 ], [ 171.741091016658714, -43.891019049967227 ], [ 171.741929316610339, -43.891692683265411 ], [ 171.741005350147475, -43.89229699988023 ], [ 171.740361399871119, -43.892733483376212 ], [ 171.739463533058512, -43.893322416520114 ], [ 171.738865166892396, -43.893713200104926 ], [ 171.738742816466299, -43.89380251663966 ], [ 171.738233983596615, -43.892889916598918 ] ] ] } }
+]
+}

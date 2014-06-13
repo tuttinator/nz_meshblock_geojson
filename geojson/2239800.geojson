@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2239800", "AU2014": "578800", "AU2014_NAM": "Masterton East", "UA2014": "109", "UA2014_NAM": "Masterton", "TA2014": "048", "TA2014_NAM": "Masterton District", "WARD2014": "04802", "WARD2014_N": "Urban Ward", "CB2014": "04899", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04899", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0906", "CON2014_NA": "Wairarapa Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "056", "GED2007_NA": "Wairarapa", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 626.696904, "SHAPE_Area": 20238.247832 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.672427033471365, -40.956984983133061 ], [ 175.673649150263714, -40.958106049852269 ], [ 175.672762333321458, -40.958609883447977 ], [ 175.672456750107926, -40.958281216506215 ], [ 175.672105167002144, -40.957950200149732 ], [ 175.672010466564643, -40.957861816647259 ], [ 175.67130164983655, -40.957223883341292 ], [ 175.671214683413865, -40.957126733101425 ], [ 175.671211083384691, -40.957031616648884 ], [ 175.67125356678639, -40.956944866509254 ], [ 175.67191693304585, -40.956517033190465 ], [ 175.672427033471365, -40.956984983133061 ] ] ] } }
+]
+}

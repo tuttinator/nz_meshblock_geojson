@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2105501", "AU2014": "574800", "AU2014_NAM": "Karori North", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04702", "WARD2014_N": "Onslow-Western Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "059", "GED2007_NA": "Wellington Central", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 323.542706, "SHAPE_Area": 5441.485856 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.74795850014192, -41.276201333314226 ], [ 174.746821066988474, -41.276528200213797 ], [ 174.746653766765718, -41.276486183117072 ], [ 174.746651000027356, -41.27648099999638 ], [ 174.746718166530627, -41.276122649784213 ], [ 174.746871133461383, -41.276076066507521 ], [ 174.747024316894738, -41.276029416686853 ], [ 174.747177500103902, -41.275982766666203 ], [ 174.747123033024337, -41.275880983295949 ], [ 174.747582416486011, -41.275740783450587 ], [ 174.74769584992913, -41.275697283104208 ], [ 174.74795850014192, -41.276201333314226 ] ] ] } }
+]
+}

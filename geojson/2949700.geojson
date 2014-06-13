@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2949700", "AU2014": "605500", "AU2014_NAM": "St Kilda Central", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "009", "GED2007_NA": "Dunedin South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 510.983948, "SHAPE_Area": 15550.010482 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.504544716805583, -45.905742499908278 ], [ 170.505689683200359, -45.905262766704439 ], [ 170.506215700175318, -45.905893100149612 ], [ 170.506754883555402, -45.906536416802751 ], [ 170.50544284972284, -45.906806500013253 ], [ 170.505080150068864, -45.906375866498799 ], [ 170.504544716805583, -45.905742499908278 ] ] ] } }
+]
+}

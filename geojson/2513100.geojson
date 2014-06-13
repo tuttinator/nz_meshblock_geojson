@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2513100", "AU2014": "588200", "AU2014_NAM": "Styx Mill", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06001", "WARD2014_N": "Shirley-Papanui Ward", "CB2014": "06001", "CB2014_NAM": "Shirley-Papanui Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1302", "CON2014_NA": "Christchurch North Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "055", "GED2007_NA": "Waimakariri", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1104.686350, "SHAPE_Area": 52031.363131 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.613493683295985, -43.472951266882134 ], [ 172.614577266563685, -43.472991116848398 ], [ 172.615372750297269, -43.473016583088771 ], [ 172.617223233236899, -43.473074783118804 ], [ 172.617172633334832, -43.473670199835851 ], [ 172.61704061685117, -43.475333366683749 ], [ 172.615646783220143, -43.475284683231521 ], [ 172.615636583059597, -43.475179266783321 ], [ 172.615715133418888, -43.474146666671757 ], [ 172.613407800100532, -43.474077066760273 ], [ 172.613493683295985, -43.472951266882134 ] ] ] } }
+]
+}

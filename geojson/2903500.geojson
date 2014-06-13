@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2903500", "AU2014": "603100", "AU2014_NAM": "Stuart St-Frederick St", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "008", "GED2007_NA": "Dunedin North", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 812.615242, "SHAPE_Area": 32396.872280 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.503594933243079, -45.871157633260303 ], [ 170.503552849828793, -45.87123654993713 ], [ 170.503045066942263, -45.872131416514293 ], [ 170.50273373329523, -45.872678183463684 ], [ 170.502444033502996, -45.872813499860996 ], [ 170.50199931680794, -45.873023566530577 ], [ 170.501671233559051, -45.873596316673066 ], [ 170.500227433503284, -45.873196399890226 ], [ 170.500904933575328, -45.871982450078967 ], [ 170.502053466690825, -45.871634266838669 ], [ 170.502114116523671, -45.871616050026994 ], [ 170.503594933243079, -45.871157633260303 ] ] ] } }
+]
+}

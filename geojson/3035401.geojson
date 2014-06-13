@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3035401", "AU2014": "608800", "AU2014_NAM": "Wanaka", "UA2014": "293", "UA2014_NAM": "Wanaka", "TA2014": "070", "TA2014_NAM": "Queenstown-Lakes District", "WARD2014": "07002", "WARD2014_N": "Wanaka Ward", "CB2014": "07001", "CB2014_NAM": "Wanaka Community", "TASUB2014": "07099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1401", "CON2014_NA": "Dunstan Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "058", "GED2007_NA": "Waitaki", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1013.663490, "SHAPE_Area": 47073.272177 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 169.134504266401223, -44.67957478286138 ], [ 169.134480233333846, -44.680732933016571 ], [ 169.13137226673777, -44.679966399897843 ], [ 169.129818233208766, -44.679911116269686 ], [ 169.129876182952955, -44.679034699865426 ], [ 169.129831900076908, -44.678901749652802 ], [ 169.131097182941005, -44.67874216649377 ], [ 169.131887400030109, -44.678937099560699 ], [ 169.134504266401223, -44.67957478286138 ] ] ] } }
+]
+}

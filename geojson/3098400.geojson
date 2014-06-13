@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3098400", "AU2014": "609800", "AU2014_NAM": "Wyndham", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "073", "TA2014_NAM": "Southland District", "WARD2014": "07304", "WARD2014_N": "Waihopai-Toetoes Ward", "CB2014": "07305", "CB2014_NAM": "Edendale-Wyndham Community", "TASUB2014": "07302", "TASUB2014_": "Wyndham Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1505", "CON2014_NA": "Southern Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "019", "GED2007_NA": "Invercargill", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1564.613962, "SHAPE_Area": 83063.046316 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.845821566718286, -46.327538899559023 ], [ 168.846039883115424, -46.327608416350074 ], [ 168.847440683529925, -46.32778559965773 ], [ 168.847193266432612, -46.328768366379073 ], [ 168.846910233099948, -46.329828499720882 ], [ 168.846879016447332, -46.329964933034432 ], [ 168.846460749757512, -46.331611399594223 ], [ 168.845974383466086, -46.333465049465758 ], [ 168.844321199674852, -46.333443832749538 ], [ 168.844780333066495, -46.33161293293459 ], [ 168.845248182989934, -46.329773632765729 ], [ 168.845821566718286, -46.327538899559023 ] ] ] } }
+]
+}

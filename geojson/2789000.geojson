@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2789000", "AU2014": "599400", "AU2014_NAM": "Fraser Park", "UA2014": "113", "UA2014_NAM": "Timaru", "TA2014": "064", "TA2014_NAM": "Timaru District", "WARD2014": "06403", "WARD2014_N": "Timaru Ward", "CB2014": "06499", "CB2014_NAM": "Area Outside Community", "TASUB2014": "06499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1308", "CON2014_NA": "South Canterbury Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "041", "GED2007_NA": "Rangitata", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1110.205530, "SHAPE_Area": 70989.417685 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.231609200253303, -44.390428483241315 ], [ 171.234125583603799, -44.390415133156715 ], [ 171.234127666732917, -44.391380266672094 ], [ 171.2341374997591, -44.392491299842455 ], [ 171.234145716464951, -44.393480450104299 ], [ 171.234146466825365, -44.393617733101095 ], [ 171.231638283116297, -44.393615583480695 ], [ 171.231628916972966, -44.392575483347834 ], [ 171.231617250017365, -44.39133765012869 ], [ 171.231609200253303, -44.390428483241315 ] ] ] } }
+]
+}

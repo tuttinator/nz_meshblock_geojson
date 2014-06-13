@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2219100", "AU2014": "578000", "AU2014_NAM": "Pahiatua", "UA2014": "263", "UA2014_NAM": "Pahiatua", "TA2014": "041", "TA2014_NAM": "Tararua District", "WARD2014": "04102", "WARD2014_N": "South Tararua Ward", "CB2014": "04199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0806", "CON2014_NA": "Tararua Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "056", "GED2007_NA": "Wairarapa", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 649.083418, "SHAPE_Area": 25814.318723 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.844381400218538, -40.448336050156016 ], [ 175.844688849846904, -40.448490466480962 ], [ 175.84577976644718, -40.449038666486182 ], [ 175.845309233205455, -40.449848483395321 ], [ 175.844789499824145, -40.450497366622926 ], [ 175.843538333155863, -40.449872866761304 ], [ 175.843399733386832, -40.449801100001366 ], [ 175.843823966999793, -40.44926651681687 ], [ 175.844381400218538, -40.448336050156016 ] ] ] } }
+]
+}

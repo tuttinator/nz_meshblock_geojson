@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2432301", "AU2014": "585602", "AU2014_NAM": "Cheviot", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "058", "TA2014_NAM": "Hurunui District", "WARD2014": "05803", "WARD2014_N": "Cheviot Ward", "CB2014": "05899", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05899", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1301", "CON2014_NA": "North Canterbury Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "020", "GED2007_NA": "Kaikoura", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1644.547546, "SHAPE_Area": 164970.089361 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.263991733208826, -42.808010250086902 ], [ 173.264137333224085, -42.808144233269637 ], [ 173.26686951644723, -42.808770616886612 ], [ 173.268051083318539, -42.809041483501886 ], [ 173.268779683260249, -42.809206899830023 ], [ 173.268525600268021, -42.810293183139351 ], [ 173.268073866808919, -42.812290150046536 ], [ 173.266619600163693, -42.81212408343314 ], [ 173.265161283281373, -42.811957533137488 ], [ 173.263719666465704, -42.811792866915852 ], [ 173.262510116637742, -42.811632450182266 ], [ 173.263991733208826, -42.808010250086902 ] ] ] } }
+]
+}

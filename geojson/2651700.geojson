@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2651700", "AU2014": "591500", "AU2014_NAM": "Cathedral Square", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06005", "WARD2014_N": "Hagley-Ferrymead Ward", "CB2014": "06005", "CB2014_NAM": "Hagley-Ferrymead Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1304", "CON2014_NA": "Christchurch East Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "004", "GED2007_NA": "Christchurch Central", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 728.663121, "SHAPE_Area": 29423.528282 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.639648166971256, -43.53312353349083 ], [ 172.639650933036336, -43.533750116533838 ], [ 172.639653649819707, -43.534211316733362 ], [ 172.639093583475699, -43.534212066904104 ], [ 172.637852499857047, -43.53421373334016 ], [ 172.637627566917729, -43.534215283425439 ], [ 172.637037749977338, -43.534213983417189 ], [ 172.636638116455543, -43.534216433261328 ], [ 172.636638366521879, -43.533126916789719 ], [ 172.637542366514481, -43.533126749926758 ], [ 172.637846550161697, -43.53312571668382 ], [ 172.63814871691855, -43.533124816712181 ], [ 172.639049550253787, -43.533122916657859 ], [ 172.639648166971256, -43.53312353349083 ] ] ] } }
+]
+}

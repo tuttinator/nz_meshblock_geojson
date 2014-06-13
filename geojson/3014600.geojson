@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3014600", "AU2014": "607600", "AU2014_NAM": "Tapanui", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "072", "TA2014_NAM": "Clutha District", "WARD2014": "07201", "WARD2014_N": "West Otago Ward", "CB2014": "07201", "CB2014_NAM": "West Otago Community", "TASUB2014": "07299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1403", "CON2014_NA": "Molyneux Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 957.678831, "SHAPE_Area": 57345.584751 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 169.261001866795453, -45.945555149559723 ], [ 169.262606550245351, -45.945573899625941 ], [ 169.264110416852901, -45.945588499939973 ], [ 169.264078766645753, -45.946643049632584 ], [ 169.26405475020141, -45.947102299956711 ], [ 169.26405781671059, -45.947713516369177 ], [ 169.263034666888331, -45.947724983253543 ], [ 169.260962132966711, -45.947711599945123 ], [ 169.260981316594268, -45.946623449917425 ], [ 169.260992516375779, -45.945988566631229 ], [ 169.261001866795453, -45.945555149559723 ] ] ] } }
+]
+}

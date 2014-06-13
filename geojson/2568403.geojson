@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2568403", "AU2014": "593000", "AU2014_NAM": "Wainoni", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06003", "WARD2014_N": "Burwood-Pegasus Ward", "CB2014": "06003", "CB2014_NAM": "Burwood-Pegasus Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1304", "CON2014_NA": "Christchurch East Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "005", "GED2007_NA": "Christchurch East", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 321.829818, "SHAPE_Area": 6055.332609 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.683912483227999, -43.522614433350221 ], [ 172.68457276659845, -43.52261293332883 ], [ 172.684576383569691, -43.523154800143011 ], [ 172.684577416776705, -43.523334599987358 ], [ 172.684578583132208, -43.523482549887937 ], [ 172.684503899770789, -43.523482883193239 ], [ 172.684344733269114, -43.523483550060675 ], [ 172.683856066978933, -43.523485599945431 ], [ 172.683796016928454, -43.523418499852788 ], [ 172.683815016969191, -43.5232577332294 ], [ 172.683809466570949, -43.523190199910438 ], [ 172.683786850059022, -43.522576516603436 ], [ 172.683912483227999, -43.522614433350221 ] ] ] } }
+]
+}

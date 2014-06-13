@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3018900", "AU2014": "607900", "AU2014_NAM": "Ranfurly", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "069", "TA2014_NAM": "Central Otago District", "WARD2014": "06903", "WARD2014_N": "Maniototo Ward", "CB2014": "06902", "CB2014_NAM": "Maniototo Community", "TASUB2014": "06999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1401", "CON2014_NA": "Dunstan Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "058", "GED2007_NA": "Waitaki", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1256.014309, "SHAPE_Area": 90324.244165 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.097394350192047, -45.127956883056612 ], [ 170.096352300261657, -45.126906950150008 ], [ 170.096212416645471, -45.126764099995633 ], [ 170.095240699715703, -45.125779449911612 ], [ 170.095265816446215, -45.125603499798878 ], [ 170.096918083119078, -45.125619883188591 ], [ 170.100670733322687, -45.12563014995181 ], [ 170.100669833284428, -45.125738633034132 ], [ 170.100660283323521, -45.12677043344484 ], [ 170.1006520835831, -45.127961683414512 ], [ 170.097394350192047, -45.127956883056612 ] ] ] } }
+]
+}

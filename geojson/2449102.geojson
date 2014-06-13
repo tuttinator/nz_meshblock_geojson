@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2449102", "AU2014": "586130", "AU2014_NAM": "Woodend West", "UA2014": "278", "UA2014_NAM": "Woodend", "TA2014": "059", "TA2014_NAM": "Waimakariri District", "WARD2014": "05902", "WARD2014_N": "Woodend-Ashley Ward", "CB2014": "05902", "CB2014_NAM": "Woodend-Ashley Community", "TASUB2014": "05999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1301", "CON2014_NA": "North Canterbury Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "055", "GED2007_NA": "Waimakariri", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 564.878516, "SHAPE_Area": 17878.054553 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.656952849817401, -43.318727900108534 ], [ 172.657979283069267, -43.319432066727074 ], [ 172.658006466762629, -43.319463316900581 ], [ 172.65852284992485, -43.320069633136733 ], [ 172.657402266989834, -43.320533083386806 ], [ 172.656962916461026, -43.31993126676899 ], [ 172.656941833357763, -43.319901583438444 ], [ 172.656895233220496, -43.319869233391735 ], [ 172.656332683380128, -43.319479066863515 ], [ 172.656339150305399, -43.319474100013913 ], [ 172.656159350141365, -43.319349383389905 ], [ 172.656874800158306, -43.318799949790417 ], [ 172.656952849817401, -43.318727900108534 ] ] ] } }
+]
+}

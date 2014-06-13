@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3087201", "AU2014": "610061", "AU2014_NAM": "Dacre", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "073", "TA2014_NAM": "Southland District", "WARD2014": "07303", "WARD2014_N": "Winton-Wallacetown Ward", "CB2014": "07399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1502", "CON2014_NA": "Eastern-Dome Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "019", "GED2007_NA": "Invercargill", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 5040.820553, "SHAPE_Area": 1488303.288430 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.674867449611583, -46.173680782834587 ], [ 168.675006250124369, -46.173680466194881 ], [ 168.675042016888654, -46.176325516275263 ], [ 168.675117249644956, -46.186652499525351 ], [ 168.659234833302918, -46.188195449277273 ], [ 168.659078216319443, -46.179526882476679 ], [ 168.674867449611583, -46.173680782834587 ] ] ] } }
+]
+}

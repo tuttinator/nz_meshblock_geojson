@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2500001", "AU2014": "587848", "AU2014_NAM": "Prebbleton", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "062", "TA2014_NAM": "Selwyn District", "WARD2014": "06204", "WARD2014_N": "Springs Ward", "CB2014": "06299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "06299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1306", "CON2014_NA": "Selwyn-Banks Peninsula Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "047", "GED2007_NA": "Selwyn", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 771.915145, "SHAPE_Area": 25496.876836 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.509314299901689, -43.585676416534803 ], [ 172.509314366830466, -43.585676716659506 ], [ 172.509426283432532, -43.586269466836093 ], [ 172.509589250257847, -43.587116433351653 ], [ 172.509123766521924, -43.586881750043503 ], [ 172.508515416821098, -43.58657503344741 ], [ 172.508009116658371, -43.58631981667579 ], [ 172.507382750023197, -43.586004233394483 ], [ 172.509043050310225, -43.584263549955622 ], [ 172.509314299901689, -43.585676416534803 ] ] ] } }
+]
+}

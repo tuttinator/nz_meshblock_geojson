@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2214600", "AU2014": "577102", "AU2014_NAM": "Strathmore Park", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04704", "WARD2014_N": "Eastern Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "045", "GED2007_NA": "Rongotai", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 840.341683, "SHAPE_Area": 33056.811655 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.821389483142923, -41.324349316593647 ], [ 174.821569433457483, -41.324818966707319 ], [ 174.82171176677096, -41.327129383513721 ], [ 174.821461899749579, -41.327428833125651 ], [ 174.82052999979885, -41.327473016734523 ], [ 174.820355766776402, -41.324694783178742 ], [ 174.820465799884516, -41.324496399853579 ], [ 174.821389483142923, -41.324349316593647 ] ] ] } }
+]
+}

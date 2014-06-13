@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2124600", "AU2014": "573000", "AU2014_NAM": "Lambton", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04703", "WARD2014_N": "Lambton Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "059", "GED2007_NA": "Wellington Central", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 389.392305, "SHAPE_Area": 9780.042367 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.77397849994918, -41.281082033126886 ], [ 174.775102900119919, -41.281217400193434 ], [ 174.775045016653053, -41.281490050092884 ], [ 174.774971383588252, -41.281854816596677 ], [ 174.774945466892888, -41.281972683176228 ], [ 174.774940149977226, -41.281997716548922 ], [ 174.774824916959517, -41.281985200094759 ], [ 174.774796149889795, -41.281981866537599 ], [ 174.77443800009533, -41.281940266852139 ], [ 174.774134750244798, -41.281905033195322 ], [ 174.773741683330428, -41.281875516858669 ], [ 174.773635516908001, -41.28123673310867 ], [ 174.77397849994918, -41.281082033126886 ] ] ] } }
+]
+}

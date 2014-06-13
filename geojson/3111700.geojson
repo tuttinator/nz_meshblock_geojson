@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3111700", "AU2014": "611220", "AU2014_NAM": "Crinan", "UA2014": "024", "UA2014_NAM": "Invercargill", "TA2014": "075", "TA2014_NAM": "Invercargill City", "WARD2014": "07599", "WARD2014_N": "Area Outside Ward", "CB2014": "07599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1506", "CON2014_NA": "Invercargill-Rakiura Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "019", "GED2007_NA": "Invercargill", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1202.030428, "SHAPE_Area": 56268.692738 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.360035716358595, -46.417906932509645 ], [ 168.361425783135189, -46.417902815934589 ], [ 168.361426199701071, -46.419081382449079 ], [ 168.36142991677869, -46.420171565755986 ], [ 168.361429916903916, -46.420173432597615 ], [ 168.360048283457871, -46.420174149233986 ], [ 168.356899966410708, -46.420174582254134 ], [ 168.356900233383726, -46.419087332448306 ], [ 168.360044266937877, -46.419081498981065 ], [ 168.360035716358595, -46.417906932509645 ] ] ] } }
+]
+}

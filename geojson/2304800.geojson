@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2304800", "AU2014": "581250", "AU2014_NAM": "Redwoodtown", "UA2014": "026", "UA2014_NAM": "Blenheim", "TA2014": "053", "TA2014_NAM": "Marlborough District", "WARD2014": "05303", "WARD2014_N": "Blenheim Ward", "CB2014": "05399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "18", "REGC2014_N": "Marlborough Region", "CON2014": "1899", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "020", "GED2007_NA": "Kaikoura", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 973.586380, "SHAPE_Area": 58485.355492 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.957893516501287, -41.52817918329616 ], [ 173.95797133324524, -41.52913648314037 ], [ 173.958051299907765, -41.530123633354137 ], [ 173.95692923349975, -41.530173599932219 ], [ 173.955778266805112, -41.530227133410904 ], [ 173.954812816955808, -41.530271016696837 ], [ 173.954654599737523, -41.528330483324702 ], [ 173.957893516501287, -41.52817918329616 ] ] ] } }
+]
+}

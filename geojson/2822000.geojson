@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2822000", "AU2014": "600500", "AU2014_NAM": "Waimate", "UA2014": "288", "UA2014_NAM": "Waimate", "TA2014": "066", "TA2014_NAM": "Waimate District", "WARD2014": "06604", "WARD2014_N": "Waimate Ward", "CB2014": "06699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "06699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1308", "CON2014_NA": "South Canterbury Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "058", "GED2007_NA": "Waitaki", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 974.403746, "SHAPE_Area": 44126.716410 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.03536185005612, -44.73264276652408 ], [ 171.036279549977962, -44.731904283069937 ], [ 171.036758149874316, -44.731519233460396 ], [ 171.037893849817721, -44.732237099965019 ], [ 171.034873866814735, -44.734653966696634 ], [ 171.034827916978031, -44.734642466612861 ], [ 171.033855299892281, -44.734177849822899 ], [ 171.033747816701748, -44.734112483453728 ], [ 171.033625250027399, -44.734035800117042 ], [ 171.034567766721125, -44.733281733073973 ], [ 171.03536185005612, -44.73264276652408 ] ] ] } }
+]
+}

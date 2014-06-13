@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2755000", "AU2014": "597720", "AU2014_NAM": "Mt Somers", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "063", "TA2014_NAM": "Ashburton District", "WARD2014": "06301", "WARD2014_N": "Western Ward", "CB2014": "06399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "06399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1307", "CON2014_NA": "Rakaia Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "041", "GED2007_NA": "Rangitata", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 5831.504575, "SHAPE_Area": 1766698.414680 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.411732666806188, -43.695251366629897 ], [ 171.435276099690412, -43.696095616880996 ], [ 171.42960391645866, -43.699554950061859 ], [ 171.429595999784624, -43.699559783472978 ], [ 171.419519216594921, -43.705641116832851 ], [ 171.419465816515071, -43.705659483478357 ], [ 171.41144794976907, -43.708044466796672 ], [ 171.411401266920535, -43.707967166616413 ], [ 171.407611933425699, -43.701257116844467 ], [ 171.407427266720219, -43.700921783467706 ], [ 171.408643150282103, -43.69927831663955 ], [ 171.411732666806188, -43.695251366629897 ] ] ] } }
+]
+}

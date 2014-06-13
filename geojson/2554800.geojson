@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2554800", "AU2014": "591300", "AU2014_NAM": "Heathcote Valley", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06005", "WARD2014_N": "Hagley-Ferrymead Ward", "CB2014": "06005", "CB2014_NAM": "Hagley-Ferrymead Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1304", "CON2014_NA": "Christchurch East Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "040", "GED2007_NA": "Port Hills", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1044.440357, "SHAPE_Area": 59648.108891 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.706733733535629, -43.575942999775975 ], [ 172.708915583501295, -43.575848833298167 ], [ 172.7112255835751, -43.575770083153074 ], [ 172.711226616560253, -43.575770066853551 ], [ 172.711198433358902, -43.575901199999514 ], [ 172.710881583248693, -43.577377966481357 ], [ 172.708911933032113, -43.57745768340196 ], [ 172.70787298309844, -43.577504216915706 ], [ 172.707420883092396, -43.577506416679675 ], [ 172.706416583569734, -43.576001083455786 ], [ 172.706378449836961, -43.575953999945305 ], [ 172.706732733286572, -43.575943033224284 ], [ 172.706733733535629, -43.575942999775975 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2935900", "AU2014": "604612", "AU2014_NAM": "Andersons Bay", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "009", "GED2007_NA": "Dunedin South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 687.759834, "SHAPE_Area": 27582.696690 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.534394799763533, -45.900706449814088 ], [ 170.534916083039064, -45.901025816635098 ], [ 170.533560466572823, -45.902737766453114 ], [ 170.53298198307175, -45.902400550176814 ], [ 170.532929633603402, -45.90213803341539 ], [ 170.53277924985332, -45.901402083317272 ], [ 170.532895999982173, -45.90069328306658 ], [ 170.533503716407864, -45.900167333308559 ], [ 170.534394799763533, -45.900706449814088 ] ] ] } }
+]
+}

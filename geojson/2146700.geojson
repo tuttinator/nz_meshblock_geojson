@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2146700", "AU2014": "573300", "AU2014_NAM": "Mt Cook-Wallace Street", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04703", "WARD2014_N": "Lambton Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "059", "GED2007_NA": "Wellington Central", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 358.555524, "SHAPE_Area": 6832.255759 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.774332166565358, -41.303499766705926 ], [ 174.774810683246614, -41.303374683376894 ], [ 174.774920733454934, -41.30388683319805 ], [ 174.775047266914015, -41.304452483114027 ], [ 174.775054616762333, -41.304565700097164 ], [ 174.774970466595533, -41.304558733074551 ], [ 174.774594299785718, -41.30452913310836 ], [ 174.77430143333757, -41.304506033401395 ], [ 174.774213166659365, -41.304498850069436 ], [ 174.774223266577337, -41.304378650025491 ], [ 174.774332166565358, -41.303499766705926 ] ] ] } }
+]
+}

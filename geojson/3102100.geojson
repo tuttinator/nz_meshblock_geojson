@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3102100", "AU2014": "610601", "AU2014_NAM": "Grasmere", "UA2014": "024", "UA2014_NAM": "Invercargill", "TA2014": "075", "TA2014_NAM": "Invercargill City", "WARD2014": "07599", "WARD2014_N": "Area Outside Ward", "CB2014": "07599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1506", "CON2014_NA": "Invercargill-Rakiura Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "019", "GED2007_NA": "Invercargill", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 951.510070, "SHAPE_Area": 42918.818519 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.34271788348147, -46.381220632339222 ], [ 168.347323199957401, -46.381225348951276 ], [ 168.347322866770014, -46.381254615747864 ], [ 168.34732226640287, -46.381364515896159 ], [ 168.34732493306592, -46.382311249189002 ], [ 168.342718033491195, -46.38230916559305 ], [ 168.34271788348147, -46.381220632339222 ] ] ] } }
+]
+}

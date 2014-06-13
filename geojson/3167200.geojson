@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3167200", "AU2014": "612400", "AU2014_NAM": "Te Anau", "UA2014": "298", "UA2014_NAM": "Te Anau", "TA2014": "073", "TA2014_NAM": "Southland District", "WARD2014": "07301", "WARD2014_N": "Mararoa-Waimea Ward", "CB2014": "07307", "CB2014_NAM": "Te Anau Community", "TASUB2014": "07399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1501", "CON2014_NA": "Fiordland Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1098.031743, "SHAPE_Area": 51759.450543 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 167.712837300042111, -45.411762614898826 ], [ 167.714079766638918, -45.411118548196271 ], [ 167.714987250440402, -45.411999014718369 ], [ 167.713982417156018, -45.412521698075324 ], [ 167.712809733568861, -45.413121364886983 ], [ 167.711748567015263, -45.413665698183358 ], [ 167.710571467251043, -45.414260797946383 ], [ 167.709666150497981, -45.413390697962797 ], [ 167.710973233522623, -45.4127254146658 ], [ 167.711907250052661, -45.412238731634716 ], [ 167.712837300042111, -45.411762614898826 ] ] ] } }
+]
+}

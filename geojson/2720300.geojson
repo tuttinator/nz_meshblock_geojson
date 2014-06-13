@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2720300", "AU2014": "597200", "AU2014_NAM": "Lincoln", "UA2014": "282", "UA2014_NAM": "Lincoln", "TA2014": "062", "TA2014_NAM": "Selwyn District", "WARD2014": "06204", "WARD2014_N": "Springs Ward", "CB2014": "06299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "06299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1306", "CON2014_NA": "Selwyn-Banks Peninsula Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "047", "GED2007_NA": "Selwyn", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1566.579500, "SHAPE_Area": 114892.025998 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.452889816628897, -43.63941293345038 ], [ 172.453492049724701, -43.63998731668574 ], [ 172.457230399934417, -43.643502116477329 ], [ 172.451646716572213, -43.644161799952393 ], [ 172.452859116680315, -43.639541433371342 ], [ 172.452889816628897, -43.63941293345038 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2423100", "AU2014": "585400", "AU2014_NAM": "Hokitika Urban", "UA2014": "276", "UA2014_NAM": "Hokitika", "TA2014": "057", "TA2014_NAM": "Westland District", "WARD2014": "05702", "WARD2014_N": "Hokitika Ward", "CB2014": "05799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "12", "REGC2014_N": "West Coast Region", "CON2014": "1203", "CON2014_NA": "Westland Constituency", "MCON2014": "1299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "060", "GED2007_NA": "West Coast-Tasman", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 950.140191, "SHAPE_Area": 56283.384354 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.975928649990749, -42.717159033397337 ], [ 170.977121983565752, -42.717794566594215 ], [ 170.97722790026674, -42.717853333366904 ], [ 170.978346666645308, -42.718432100190071 ], [ 170.978240416623748, -42.718539283180313 ], [ 170.97668954980378, -42.720131783404689 ], [ 170.975491400206351, -42.719498283136581 ], [ 170.974286233187769, -42.718860483121816 ], [ 170.975928649990749, -42.717159033397337 ] ] ] } }
+]
+}

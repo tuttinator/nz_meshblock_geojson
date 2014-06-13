@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2118200", "AU2014": "572900", "AU2014_NAM": "Thorndon-Tinakori Road", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04703", "WARD2014_N": "Lambton Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "059", "GED2007_NA": "Wellington Central", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 398.246002, "SHAPE_Area": 9545.003626 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.783119183231747, -41.273858150183699 ], [ 174.783254000251731, -41.273813449956954 ], [ 174.783656816505498, -41.274455733349349 ], [ 174.78235656674957, -41.274912083291753 ], [ 174.782168833141526, -41.274611549787103 ], [ 174.782101633372861, -41.274524749982845 ], [ 174.781953633032288, -41.274268283499119 ], [ 174.782036200032394, -41.274239400168149 ], [ 174.782465866971393, -41.274082300078462 ], [ 174.782495300057576, -41.274072600109847 ], [ 174.782819799998833, -41.273961883485747 ], [ 174.782842750194447, -41.273954033507252 ], [ 174.783119183231747, -41.273858150183699 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3085100", "AU2014": "610500", "AU2014_NAM": "Winton", "UA2014": "296", "UA2014_NAM": "Winton", "TA2014": "073", "TA2014_NAM": "Southland District", "WARD2014": "07303", "WARD2014_N": "Winton-Wallacetown Ward", "CB2014": "07302", "CB2014_NAM": "Winton Community", "TASUB2014": "07399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1504", "CON2014_NA": "Hokonui Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 912.118788, "SHAPE_Area": 41191.282570 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.320635450011423, -46.145070915898685 ], [ 168.320634800037652, -46.144980998900373 ], [ 168.32219253337729, -46.144980315735495 ], [ 168.32487756639469, -46.144970582456473 ], [ 168.325174516542205, -46.145566698885531 ], [ 168.32512421637108, -46.145684049188219 ], [ 168.324970483286592, -46.146055549112383 ], [ 168.322199583241996, -46.146061282510807 ], [ 168.320638499873951, -46.146076965950833 ], [ 168.320635450011423, -46.145070915898685 ] ] ] } }
+]
+}

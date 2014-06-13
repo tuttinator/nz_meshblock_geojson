@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2765305", "AU2014": "598600", "AU2014_NAM": "Temuka", "UA2014": "286", "UA2014_NAM": "Temuka", "TA2014": "064", "TA2014_NAM": "Timaru District", "WARD2014": "06402", "WARD2014_N": "Pleasant Point-Temuka Ward", "CB2014": "06403", "CB2014_NAM": "Temuka Community", "TASUB2014": "06499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1308", "CON2014_NA": "South Canterbury Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "041", "GED2007_NA": "Rangitata", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 834.471766, "SHAPE_Area": 41845.646201 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.274947983308067, -44.233068583243771 ], [ 171.275298950129326, -44.234641883256515 ], [ 171.275353283501971, -44.234802066753858 ], [ 171.273899550115971, -44.234978033378674 ], [ 171.272578599695123, -44.235138916686658 ], [ 171.272699549900693, -44.235029949967441 ], [ 171.272551233273902, -44.234459233234034 ], [ 171.272323433027026, -44.233373583267699 ], [ 171.272456499731646, -44.233351466790218 ], [ 171.273544899741722, -44.233229933331245 ], [ 171.273758216388899, -44.233203916565166 ], [ 171.274947983308067, -44.233068583243771 ] ] ] } }
+]
+}

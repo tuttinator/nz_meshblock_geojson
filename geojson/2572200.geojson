@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2572200", "AU2014": "593800", "AU2014_NAM": "Bexley", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06003", "WARD2014_N": "Burwood-Pegasus Ward", "CB2014": "06003", "CB2014_NAM": "Burwood-Pegasus Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1304", "CON2014_NA": "Christchurch East Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "005", "GED2007_NA": "Christchurch East", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 608.438900, "SHAPE_Area": 22413.402639 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.718139466875641, -43.515310849867944 ], [ 172.718319950284013, -43.515812700121465 ], [ 172.718368883573362, -43.515948783331922 ], [ 172.718503100156596, -43.516320750197906 ], [ 172.718781383467615, -43.516675816880188 ], [ 172.718526249748322, -43.51673051671748 ], [ 172.71792483303966, -43.516846016706765 ], [ 172.716949699946099, -43.517015583452434 ], [ 172.716483800184363, -43.515662783501178 ], [ 172.718139466875641, -43.515310849867944 ] ] ] } }
+]
+}

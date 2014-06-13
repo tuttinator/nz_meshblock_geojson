@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2913900", "AU2014": "604210", "AU2014_NAM": "Caversham", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "008", "GED2007_NA": "Dunedin North", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 909.992732, "SHAPE_Area": 40794.276684 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.490969816862474, -45.88776819989755 ], [ 170.491011766427818, -45.887849116873952 ], [ 170.492790899982907, -45.890671816741914 ], [ 170.491463399777047, -45.891219766796553 ], [ 170.490188633486071, -45.889707566886102 ], [ 170.490367283418976, -45.888015083351704 ], [ 170.490969816862474, -45.88776819989755 ] ] ] } }
+]
+}

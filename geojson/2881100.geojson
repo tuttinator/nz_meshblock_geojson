@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2881100", "AU2014": "604720", "AU2014_NAM": "Ravensbourne", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07102", "WARD2014_N": "Waikouaiti Coast-Chalmers Ward", "CB2014": "07105", "CB2014_NAM": "Chalmers Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "008", "GED2007_NA": "Dunedin North", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 966.279456, "SHAPE_Area": 53822.294832 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.558690566677626, -45.862168783194349 ], [ 170.559308633364822, -45.862038150154362 ], [ 170.56087868339489, -45.86334563319673 ], [ 170.559117666879303, -45.863739166839167 ], [ 170.558715183476863, -45.863827933330761 ], [ 170.556937433173402, -45.864219300192012 ], [ 170.556325716671552, -45.863648333399979 ], [ 170.556264149785534, -45.863518366661083 ], [ 170.555933166864833, -45.862777499793381 ], [ 170.556558816731609, -45.862640816735443 ], [ 170.558008150135748, -45.862319633407388 ], [ 170.558690566677626, -45.862168783194349 ] ] ] } }
+]
+}

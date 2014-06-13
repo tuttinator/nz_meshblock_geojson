@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2109301", "AU2014": "577700", "AU2014_NAM": "Makara-Ohariu", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04702", "WARD2014_N": "Onslow-Western Ward", "CB2014": "04701", "CB2014_NAM": "Makara-Ohariu Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "059", "GED2007_NA": "Wellington Central", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1805.479563, "SHAPE_Area": 180809.503923 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.725801366662893, -41.278209083350468 ], [ 174.722287533285652, -41.279200016770474 ], [ 174.7220847999846, -41.279257149832262 ], [ 174.721817616530387, -41.278740533147079 ], [ 174.721579749848416, -41.278279866809733 ], [ 174.71977838313876, -41.274656249918209 ], [ 174.72725209989909, -41.275884533233139 ], [ 174.727239200080874, -41.275997266779932 ], [ 174.725801366662893, -41.278209083350468 ] ] ] } }
+]
+}

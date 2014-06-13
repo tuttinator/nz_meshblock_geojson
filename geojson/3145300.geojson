@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3145300", "AU2014": "611400", "AU2014_NAM": "Georgetown", "UA2014": "024", "UA2014_NAM": "Invercargill", "TA2014": "075", "TA2014_NAM": "Invercargill City", "WARD2014": "07599", "WARD2014_N": "Area Outside Ward", "CB2014": "07599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1506", "CON2014_NA": "Invercargill-Rakiura Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "019", "GED2007_NA": "Invercargill", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 643.282341, "SHAPE_Area": 24267.124592 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.374686116771102, -46.420061382574865 ], [ 168.377295516833215, -46.420061649186223 ], [ 168.377291083352844, -46.42114434908467 ], [ 168.374683116816755, -46.421150865878957 ], [ 168.374683133030857, -46.421125349210783 ], [ 168.374686116771102, -46.420061382574865 ] ] ] } }
+]
+}

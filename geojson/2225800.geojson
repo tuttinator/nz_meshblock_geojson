@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2225800", "AU2014": "578100", "AU2014_NAM": "Eketahuna", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "041", "TA2014_NAM": "Tararua District", "WARD2014": "04102", "WARD2014_N": "South Tararua Ward", "CB2014": "04102", "CB2014_NAM": "Eketahuna Community", "TASUB2014": "04199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "08", "REGC2014_N": "Manawatu-Wanganui Region", "CON2014": "0806", "CON2014_NA": "Tararua Constituency", "MCON2014": "0899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "056", "GED2007_NA": "Wairarapa", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1498.942181, "SHAPE_Area": 118562.797176 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.69876374993504, -40.651656116859755 ], [ 175.698767599735476, -40.652087800003869 ], [ 175.698764749848351, -40.652896516893499 ], [ 175.698764883518322, -40.652946849909952 ], [ 175.696083133136455, -40.652949816698595 ], [ 175.696081900072784, -40.651998616853206 ], [ 175.696077949823774, -40.650601816884823 ], [ 175.696070083153472, -40.64824106663346 ], [ 175.697439150108949, -40.648241700003631 ], [ 175.698747350194168, -40.64824228326961 ], [ 175.698758300304547, -40.650596150041139 ], [ 175.69876374993504, -40.651656116859755 ] ] ] } }
+]
+}

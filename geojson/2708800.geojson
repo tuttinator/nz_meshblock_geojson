@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2708800", "AU2014": "596400", "AU2014_NAM": "Lyttelton", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06007", "WARD2014_N": "Banks Peninsula Ward", "CB2014": "06007", "CB2014_NAM": "Lyttelton-Mount Herbert Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1306", "CON2014_NA": "Selwyn-Banks Peninsula Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "040", "GED2007_NA": "Port Hills", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 533.693635, "SHAPE_Area": 15066.026748 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.721991183185537, -43.596346500168316 ], [ 172.721973250241888, -43.596392299797301 ], [ 172.721508966481906, -43.597398116910512 ], [ 172.721411066546239, -43.597644300114752 ], [ 172.721181217006318, -43.59755956681893 ], [ 172.721124033080656, -43.597518383315119 ], [ 172.720737599906158, -43.596947833079149 ], [ 172.720569883502293, -43.596800749851738 ], [ 172.720375966863116, -43.596698416810455 ], [ 172.720092016463468, -43.596618433271203 ], [ 172.720444016450159, -43.595900816620848 ], [ 172.721012933585143, -43.596090033254988 ], [ 172.721424550012159, -43.596197716723225 ], [ 172.721991183185537, -43.596346500168316 ] ] ] } }
+]
+}

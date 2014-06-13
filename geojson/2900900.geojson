@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2900900", "AU2014": "603000", "AU2014_NAM": "High St-Stuart St", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "008", "GED2007_NA": "Dunedin North", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 797.063089, "SHAPE_Area": 27591.387836 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.496163533432849, -45.876358600035019 ], [ 170.496726866966384, -45.875347166689728 ], [ 170.498407083117911, -45.875808149874814 ], [ 170.499491133128146, -45.876140516527052 ], [ 170.497534033275173, -45.876735283381656 ], [ 170.497374183379776, -45.876787066466193 ], [ 170.495619066730086, -45.877329816901792 ], [ 170.496163533432849, -45.876358600035019 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2273800", "AU2014": "580100", "AU2014_NAM": "Martinborough", "UA2014": "267", "UA2014_NAM": "Martinborough", "TA2014": "050", "TA2014_NAM": "South Wairarapa District", "WARD2014": "05003", "WARD2014_N": "Martinborough Ward", "CB2014": "05003", "CB2014_NAM": "Martinborough Community", "TASUB2014": "05099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0906", "CON2014_NA": "Wairarapa Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "056", "GED2007_NA": "Wairarapa", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 979.356323, "SHAPE_Area": 59786.076600 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.46128991675215, -41.214537066465631 ], [ 175.463056483026264, -41.216334383231604 ], [ 175.461966966641512, -41.217019133333793 ], [ 175.460910683031926, -41.217686500016789 ], [ 175.459871416728618, -41.216628066513451 ], [ 175.459047133312112, -41.21578769998667 ], [ 175.459118483510196, -41.21574771689064 ], [ 175.459600883351044, -41.215482599841636 ], [ 175.46008140018165, -41.215210183197847 ], [ 175.460153299954868, -41.215170416495091 ], [ 175.460227200133147, -41.215127966640125 ], [ 175.460708983209571, -41.214857233419174 ], [ 175.461191516488668, -41.21458773319263 ], [ 175.46128991675215, -41.214537066465631 ] ] ] } }
+]
+}

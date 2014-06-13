@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2923900", "AU2014": "604500", "AU2014_NAM": "St Clair", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "009", "GED2007_NA": "Dunedin South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 948.807328, "SHAPE_Area": 32216.157179 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.476466600080414, -45.911719199776506 ], [ 170.477822950189733, -45.911651750088183 ], [ 170.477838049998013, -45.911794749992566 ], [ 170.477882800218794, -45.911905100129438 ], [ 170.480033716545847, -45.914446600166229 ], [ 170.479102233302171, -45.914835633328018 ], [ 170.476466600080414, -45.911719199776506 ] ] ] } }
+]
+}

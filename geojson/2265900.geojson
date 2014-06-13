@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2265900", "AU2014": "579900", "AU2014_NAM": "Greytown", "UA2014": "265", "UA2014_NAM": "Greytown", "TA2014": "050", "TA2014_NAM": "South Wairarapa District", "WARD2014": "05001", "WARD2014_N": "Greytown Ward", "CB2014": "05001", "CB2014_NAM": "Greytown Community", "TASUB2014": "05099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0906", "CON2014_NA": "Wairarapa Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "056", "GED2007_NA": "Wairarapa", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1458.743530, "SHAPE_Area": 72226.520430 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.466134800309874, -41.073608233411029 ], [ 175.46726846668804, -41.074279966894011 ], [ 175.467146816703035, -41.074369666848625 ], [ 175.465303866886899, -41.075995333341389 ], [ 175.462541933073339, -41.078463799832328 ], [ 175.461458750242656, -41.077791066483236 ], [ 175.463389599995253, -41.076059699870235 ], [ 175.463784683552234, -41.07570543321517 ], [ 175.466134800309874, -41.073608233411029 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2322600", "AU2014": "582800", "AU2014_NAM": "Bronte", "UA2014": "021", "UA2014_NAM": "Nelson", "TA2014": "052", "TA2014_NAM": "Nelson City", "WARD2014": "05299", "WARD2014_N": "Area Outside Ward", "CB2014": "05299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "17", "REGC2014_N": "Nelson Region", "CON2014": "1799", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "029", "GED2007_NA": "Nelson", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 930.569105, "SHAPE_Area": 54038.586433 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.277482733345494, -41.283244600115751 ], [ 173.279295150010029, -41.283292083283953 ], [ 173.280441916827556, -41.283323099864397 ], [ 173.280440633494123, -41.283412449812296 ], [ 173.280409916626553, -41.284065233309896 ], [ 173.280398799778453, -41.284077033105 ], [ 173.280341300181391, -41.284138866520777 ], [ 173.279006566574708, -41.285589100063085 ], [ 173.277765116796701, -41.284927116874442 ], [ 173.276520649830076, -41.284277833375036 ], [ 173.277482733345494, -41.283244600115751 ] ] ] } }
+]
+}

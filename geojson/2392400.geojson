@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2392400", "AU2014": "584500", "AU2014_NAM": "Westport Urban", "UA2014": "274", "UA2014_NAM": "Westport", "TA2014": "055", "TA2014_NAM": "Buller District", "WARD2014": "05503", "WARD2014_N": "Westport Ward", "CB2014": "05599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "12", "REGC2014_N": "West Coast Region", "CON2014": "1201", "CON2014_NA": "Buller Constituency", "MCON2014": "1299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "060", "GED2007_NA": "West Coast-Tasman", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 717.639609, "SHAPE_Area": 31863.951847 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.607297800119397, -41.74922288314599 ], [ 171.607059200285505, -41.749253083383969 ], [ 171.60492686646549, -41.749526233242314 ], [ 171.604788833026049, -41.74954673333405 ], [ 171.604486599729398, -41.748195999836284 ], [ 171.606399549808174, -41.7479514665078 ], [ 171.60703611652994, -41.747983383088346 ], [ 171.607046533189532, -41.748098916583828 ], [ 171.607220633448975, -41.748856683121836 ], [ 171.607278799873257, -41.749109816609774 ], [ 171.607297800119397, -41.74922288314599 ] ] ] } }
+]
+}

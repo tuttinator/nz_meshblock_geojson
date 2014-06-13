@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2645700", "AU2014": "595400", "AU2014_NAM": "Somerfield", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06006", "WARD2014_N": "Spreydon-Heathcote Ward", "CB2014": "06006", "CB2014_NAM": "Spreydon-Heathcote Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1305", "CON2014_NA": "Christchurch South Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "063", "GED2007_NA": "Wigram", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 971.173818, "SHAPE_Area": 41474.373749 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.62850120014113, -43.553341366840669 ], [ 172.630734950258869, -43.552011200129101 ], [ 172.631166800191977, -43.552385900007089 ], [ 172.631605883044841, -43.552781633309266 ], [ 172.628009566676951, -43.554915249829776 ], [ 172.627140666950254, -43.554138533302051 ], [ 172.62850120014113, -43.553341366840669 ] ] ] } }
+]
+}

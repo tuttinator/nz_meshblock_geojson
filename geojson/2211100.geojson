@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2211100", "AU2014": "577500", "AU2014_NAM": "Seatoun", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04704", "WARD2014_N": "Eastern Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "045", "GED2007_NA": "Rongotai", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 884.825772, "SHAPE_Area": 43597.747555 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.828987900291338, -41.32228891649212 ], [ 174.829789566949358, -41.322449233271541 ], [ 174.831179016915655, -41.32272376653782 ], [ 174.832594500154102, -41.323017033258921 ], [ 174.83215746655776, -41.324246583315286 ], [ 174.830746933076995, -41.323971283381518 ], [ 174.830042983429962, -41.323835133338648 ], [ 174.829452683380453, -41.323719066610735 ], [ 174.829294033551037, -41.323687983308304 ], [ 174.828622783422958, -41.323180466482491 ], [ 174.828955650006833, -41.322415483096499 ], [ 174.828987900291338, -41.32228891649212 ] ] ] } }
+]
+}

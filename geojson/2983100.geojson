@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2983100", "AU2014": "606500", "AU2014_NAM": "Benhar", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "072", "TA2014_NAM": "Clutha District", "WARD2014": "07204", "WARD2014_N": "Balclutha Ward", "CB2014": "07299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1403", "CON2014_NA": "Molyneux Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1112.452174, "SHAPE_Area": 66340.492963 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 169.797049333349122, -46.217984016509035 ], [ 169.797204333435559, -46.217998750090658 ], [ 169.796666283558864, -46.220721466570751 ], [ 169.796517950269958, -46.22067628309248 ], [ 169.795995366527706, -46.220627550029441 ], [ 169.796029066450842, -46.220475282999637 ], [ 169.792906783084646, -46.218430599886368 ], [ 169.793198816910433, -46.217617633374211 ], [ 169.797049333349122, -46.217984016509035 ] ] ] } }
+]
+}

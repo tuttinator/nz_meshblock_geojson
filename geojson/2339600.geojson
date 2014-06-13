@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2339600", "AU2014": "583800", "AU2014_NAM": "Maitlands", "UA2014": "021", "UA2014_NAM": "Nelson", "TA2014": "052", "TA2014_NAM": "Nelson City", "WARD2014": "05299", "WARD2014_N": "Area Outside Ward", "CB2014": "05299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "17", "REGC2014_N": "Nelson Region", "CON2014": "1799", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "029", "GED2007_NA": "Nelson", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 802.642999, "SHAPE_Area": 33644.758674 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.241980783558176, -41.308875133427136 ], [ 173.242597783403397, -41.309195133305501 ], [ 173.243180366411963, -41.309472583333502 ], [ 173.242307966810614, -41.310413033391306 ], [ 173.241250000128048, -41.311555766603576 ], [ 173.240068916635295, -41.310953666530438 ], [ 173.241980783558176, -41.308875133427136 ] ] ] } }
+]
+}

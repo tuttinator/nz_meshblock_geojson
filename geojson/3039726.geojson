@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3039726", "AU2014": "609034", "AU2014_NAM": "Lake Hayes South", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "070", "TA2014_NAM": "Queenstown-Lakes District", "WARD2014": "07001", "WARD2014_N": "Queenstown-Wakatipu Ward", "CB2014": "07099", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1401", "CON2014_NA": "Dunstan Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 625.948305, "SHAPE_Area": 25487.274304 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.79262524998984, -45.004612749579906 ], [ 168.79191104999029, -45.005451849421121 ], [ 168.791392233323393, -45.005624699482595 ], [ 168.790767250015676, -45.005777549359088 ], [ 168.790481099967138, -45.005805833039105 ], [ 168.790115133343761, -45.005765966274517 ], [ 168.789687699845842, -45.005557766290977 ], [ 168.790472633087035, -45.004527649407009 ], [ 168.790584166532597, -45.004357116218543 ], [ 168.790932149645272, -45.004211082813114 ], [ 168.791362783009021, -45.004204132998112 ], [ 168.79262524998984, -45.004612749579906 ] ] ] } }
+]
+}

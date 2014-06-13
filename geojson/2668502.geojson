@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2668502", "AU2014": "592000", "AU2014_NAM": "Aorangi", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06002", "WARD2014_N": "Fendalton-Waimairi Ward", "CB2014": "06002", "CB2014_NAM": "Fendalton-Waimairi Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1303", "CON2014_NA": "Christchurch West Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "018", "GED2007_NA": "Ilam", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 238.456090, "SHAPE_Area": 3259.872641 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.585288516674211, -43.500618649873097 ], [ 172.585612566978654, -43.500856933262291 ], [ 172.585568416634516, -43.500956050005044 ], [ 172.585485750111303, -43.501140150027538 ], [ 172.585413666772524, -43.501300633194639 ], [ 172.585342899863548, -43.501458216755019 ], [ 172.584873849986593, -43.501228600108796 ], [ 172.584767966928524, -43.501178033408401 ], [ 172.585288516674211, -43.500618649873097 ] ] ] } }
+]
+}

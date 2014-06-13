@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3068700", "AU2014": "610400", "AU2014_NAM": "Mataura", "UA2014": "301", "UA2014_NAM": "Gore", "TA2014": "074", "TA2014_NAM": "Gore District", "WARD2014": "07404", "WARD2014_N": "Mataura Ward", "CB2014": "07401", "CB2014_NAM": "Mataura Community", "TASUB2014": "07499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1502", "CON2014_NA": "Eastern-Dome Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 919.066799, "SHAPE_Area": 29147.388245 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.856342883261959, -46.193666016389884 ], [ 168.86075248293659, -46.195331583006379 ], [ 168.859311833181863, -46.196325549608304 ], [ 168.859222916583605, -46.196245932745818 ], [ 168.856342883261959, -46.193666016389884 ] ] ] } }
+]
+}

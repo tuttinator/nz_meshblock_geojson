@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2920000", "AU2014": "604110", "AU2014_NAM": "Mornington", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "008", "GED2007_NA": "Dunedin North", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 458.051540, "SHAPE_Area": 9474.811308 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.480742516725627, -45.885428716639161 ], [ 170.480959966400036, -45.884982283338566 ], [ 170.481074016403085, -45.885008449949801 ], [ 170.481785016756646, -45.885187083414287 ], [ 170.481975266926526, -45.885217166533309 ], [ 170.482242416528152, -45.885431400134593 ], [ 170.48068916676209, -45.886162950180363 ], [ 170.480291399776604, -45.88635029977366 ], [ 170.480742516725627, -45.885428716639161 ] ] ] } }
+]
+}

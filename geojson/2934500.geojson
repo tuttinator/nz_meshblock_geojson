@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2934500", "AU2014": "604611", "AU2014_NAM": "Musselburgh", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "009", "GED2007_NA": "Dunedin South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 540.285736, "SHAPE_Area": 16800.317288 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.520668600219125, -45.901241916742372 ], [ 170.521666816547707, -45.901824783228314 ], [ 170.520138716821492, -45.903087366751627 ], [ 170.520068466559479, -45.90300369995775 ], [ 170.520003033083469, -45.902926833378224 ], [ 170.51991693302088, -45.902825683062886 ], [ 170.519830850180767, -45.902724500204528 ], [ 170.519787882979585, -45.902673916660497 ], [ 170.519746700046198, -45.90262564994481 ], [ 170.519507266639295, -45.902344116641025 ], [ 170.519431250043567, -45.902256433171644 ], [ 170.520668600219125, -45.901241916742372 ] ] ] } }
+]
+}

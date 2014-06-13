@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2324500", "AU2014": "583300", "AU2014_NAM": "Grampians", "UA2014": "021", "UA2014_NAM": "Nelson", "TA2014": "052", "TA2014_NAM": "Nelson City", "WARD2014": "05299", "WARD2014_N": "Area Outside Ward", "CB2014": "05299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "17", "REGC2014_N": "Nelson Region", "CON2014": "1799", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "029", "GED2007_NA": "Nelson", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 380.693870, "SHAPE_Area": 7809.194280 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.27363434972105, -41.285494383193729 ], [ 173.273658616926951, -41.285507333194772 ], [ 173.274223366610101, -41.285808516892729 ], [ 173.274209549841146, -41.285823266710203 ], [ 173.274705466628518, -41.286087166631333 ], [ 173.274803033227954, -41.286137633144648 ], [ 173.274395066425683, -41.286579549969098 ], [ 173.273137866795992, -41.285908633212202 ], [ 173.273559850039135, -41.285457116718852 ], [ 173.27363434972105, -41.285494383193729 ] ] ] } }
+]
+}

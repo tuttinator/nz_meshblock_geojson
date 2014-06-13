@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3075400", "AU2014": "610040", "AU2014_NAM": "Hokonui", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "073", "TA2014_NAM": "Southland District", "WARD2014": "07303", "WARD2014_N": "Winton-Wallacetown Ward", "CB2014": "07399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1504", "CON2014_NA": "Hokonui Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 10707.771087, "SHAPE_Area": 7087434.163470 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.371283783120475, -46.183572082367505 ], [ 168.371371449696369, -46.20509234915783 ], [ 168.367052416747441, -46.205101882363834 ], [ 168.361542983190049, -46.205121549205067 ], [ 168.354142683388517, -46.205137699323743 ], [ 168.340412000177821, -46.205161365830129 ], [ 168.33458798337486, -46.205177382494981 ], [ 168.332894366877696, -46.205180165984395 ], [ 168.33295076689447, -46.199617998991975 ], [ 168.333036333435018, -46.195822832433571 ], [ 168.333189916407662, -46.187178649271026 ], [ 168.333206066675814, -46.183647315724173 ], [ 168.349830733558747, -46.183606449106314 ], [ 168.371283783120475, -46.183572082367505 ] ] ] } }
+]
+}

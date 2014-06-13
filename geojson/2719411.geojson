@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2719411", "AU2014": "597510", "AU2014_NAM": "Rolleston South West", "UA2014": "300", "UA2014_NAM": "Rolleston", "TA2014": "062", "TA2014_NAM": "Selwyn District", "WARD2014": "06202", "WARD2014_N": "Selwyn Central Ward", "CB2014": "06202", "CB2014_NAM": "Selwyn Central Community", "TASUB2014": "06299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1306", "CON2014_NA": "Selwyn-Banks Peninsula Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "047", "GED2007_NA": "Selwyn", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1106.821434, "SHAPE_Area": 77072.052344 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.362167566432873, -43.611135199859234 ], [ 172.364865883377547, -43.609973566777406 ], [ 172.36594846673907, -43.611395450001758 ], [ 172.366726299975937, -43.612417050146156 ], [ 172.365406033043513, -43.612954966768825 ], [ 172.364402549858056, -43.613428249838769 ], [ 172.36394420003549, -43.613378933263164 ], [ 172.362167566432873, -43.611135199859234 ] ] ] } }
+]
+}

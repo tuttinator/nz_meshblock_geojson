@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3092600", "AU2014": "610061", "AU2014_NAM": "Dacre", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "073", "TA2014_NAM": "Southland District", "WARD2014": "07304", "WARD2014_N": "Waihopai-Toetoes Ward", "CB2014": "07399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1505", "CON2014_NA": "Southern Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "019", "GED2007_NA": "Invercargill", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 9661.708970, "SHAPE_Area": 5447490.970400 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.518958316436311, -46.331764582614177 ], [ 168.51898888342231, -46.349659632470484 ], [ 168.498564716800047, -46.353610132352266 ], [ 168.483517833309634, -46.356519182561804 ], [ 168.483407899821486, -46.338699332323472 ], [ 168.483405833040763, -46.338673199035114 ], [ 168.483405833611357, -46.33866389910483 ], [ 168.518958316436311, -46.331764582614177 ] ] ] } }
+]
+}

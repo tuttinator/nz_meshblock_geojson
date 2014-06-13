@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2360003", "AU2014": "581811", "AU2014_NAM": "Richmond Hill", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "051", "TA2014_NAM": "Tasman District", "WARD2014": "05105", "WARD2014_N": "Richmond Ward", "CB2014": "05199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "16", "REGC2014_N": "Tasman Region", "CON2014": "1699", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "029", "GED2007_NA": "Nelson", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 3195.480240, "SHAPE_Area": 428362.381931 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.217828266626498, -41.354755750103109 ], [ 173.224169083507718, -41.36035291676216 ], [ 173.224249816982763, -41.360438599817286 ], [ 173.208320983406821, -41.360710733366076 ], [ 173.208407666554933, -41.360667083364227 ], [ 173.217828266626498, -41.354755750103109 ] ] ] } }
+]
+}

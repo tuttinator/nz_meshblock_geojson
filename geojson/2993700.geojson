@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2993700", "AU2014": "607400", "AU2014_NAM": "Balclutha", "UA2014": "290", "UA2014_NAM": "Balclutha", "TA2014": "072", "TA2014_NAM": "Clutha District", "WARD2014": "07204", "WARD2014_N": "Balclutha Ward", "CB2014": "07299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1403", "CON2014_NA": "Molyneux Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 542.483037, "SHAPE_Area": 18187.298866 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 169.739943583028492, -46.237680466552114 ], [ 169.740020983038676, -46.23777433297154 ], [ 169.74068455009089, -46.238549183061117 ], [ 169.740739833430723, -46.23861080008222 ], [ 169.740073699923016, -46.238881616552149 ], [ 169.739239183412707, -46.23922413339924 ], [ 169.739047216592525, -46.239301983321042 ], [ 169.738343733410602, -46.238457833115859 ], [ 169.738267266914903, -46.238359633231752 ], [ 169.739439850286715, -46.237880699794793 ], [ 169.739943583028492, -46.237680466552114 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2845100", "AU2014": "601010", "AU2014_NAM": "Oamaru North", "UA2014": "114", "UA2014_NAM": "Oamaru", "TA2014": "068", "TA2014_NAM": "Waitaki District", "WARD2014": "06802", "WARD2014_N": "Oamaru Ward", "CB2014": "06899", "CB2014_NAM": "Area Outside Community", "TASUB2014": "06899", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1402", "CON2014_NA": "Moeraki Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "058", "GED2007_NA": "Waitaki", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 863.431772, "SHAPE_Area": 35474.948624 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.983264349789835, -45.079683483225914 ], [ 170.983388233040415, -45.079550566645224 ], [ 170.98392216648017, -45.078958683479328 ], [ 170.984024250295505, -45.078847950103217 ], [ 170.986273433349027, -45.079889916890018 ], [ 170.987453583191439, -45.08043301683422 ], [ 170.986664616642685, -45.081258433463283 ], [ 170.983264349789835, -45.079683483225914 ] ] ] } }
+]
+}

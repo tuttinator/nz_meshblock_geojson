@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2967700", "AU2014": "606210", "AU2014_NAM": "Mosgiel South", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07101", "WARD2014_N": "Mosgiel-Taieri Ward", "CB2014": "07103", "CB2014_NAM": "Mosgiel-Taieri Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1403", "CON2014_NA": "Molyneux Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "009", "GED2007_NA": "Dunedin South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 643.776796, "SHAPE_Area": 22245.993307 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.348656866976881, -45.875712283186175 ], [ 170.349112216504238, -45.8764849498316 ], [ 170.349729599699316, -45.877551200067657 ], [ 170.348539550083785, -45.877892733440682 ], [ 170.347450716978045, -45.876039583187989 ], [ 170.348087100139452, -45.875866899902775 ], [ 170.348656866976881, -45.875712283186175 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2484203", "AU2014": "587302", "AU2014_NAM": "Halswell South", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06004", "WARD2014_N": "Riccarton-Wigram Ward", "CB2014": "06004", "CB2014_NAM": "Riccarton-Wigram Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1305", "CON2014_NA": "Christchurch South Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "047", "GED2007_NA": "Selwyn", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 965.950553, "SHAPE_Area": 57953.182495 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.571974216605213, -43.593132249937213 ], [ 172.569249583122001, -43.593310916589701 ], [ 172.56908838356398, -43.592140066563857 ], [ 172.568939783411793, -43.590959633194238 ], [ 172.571671799983733, -43.590788600070653 ], [ 172.57182618352553, -43.591998099865116 ], [ 172.571861416828767, -43.592269250195628 ], [ 172.571974216605213, -43.593132249937213 ] ] ] } }
+]
+}

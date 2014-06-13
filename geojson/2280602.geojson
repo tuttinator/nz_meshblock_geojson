@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2280602", "AU2014": "581100", "AU2014_NAM": "Picton", "UA2014": "268", "UA2014_NAM": "Picton", "TA2014": "053", "TA2014_NAM": "Marlborough District", "WARD2014": "05301", "WARD2014_N": "Marlborough Sounds Ward", "CB2014": "05399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "18", "REGC2014_N": "Marlborough Region", "CON2014": "1899", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "020", "GED2007_NA": "Kaikoura", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 893.790176, "SHAPE_Area": 36626.566952 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.000403949826705, -41.292844683440954 ], [ 174.001878933457704, -41.292874333385569 ], [ 174.002018633391856, -41.29405993328016 ], [ 174.002186083356406, -41.295481216732647 ], [ 174.002198766592528, -41.295584733281167 ], [ 174.002253366621716, -41.296038150113979 ], [ 174.001529866989756, -41.2955916167925 ], [ 174.000663300011553, -41.295030899798867 ], [ 174.000561933150493, -41.294155783164399 ], [ 174.000403949826705, -41.292844683440954 ] ] ] } }
+]
+}

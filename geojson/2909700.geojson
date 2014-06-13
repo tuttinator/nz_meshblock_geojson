@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2909700", "AU2014": "604222", "AU2014_NAM": "Corstorphine East", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "009", "GED2007_NA": "Dunedin South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 378.243678, "SHAPE_Area": 8618.091016 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.480503849706196, -45.902567083071418 ], [ 170.480548166607207, -45.902520533146472 ], [ 170.480883600094529, -45.902185149975402 ], [ 170.481291000234307, -45.901809066565647 ], [ 170.481357883532894, -45.901752200050446 ], [ 170.482122100027965, -45.902654016782201 ], [ 170.481356116652648, -45.902974800039438 ], [ 170.480503849706196, -45.902567083071418 ] ] ] } }
+]
+}

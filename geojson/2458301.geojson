@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2458301", "AU2014": "586802", "AU2014_NAM": "Oxford", "UA2014": "280", "UA2014_NAM": "Oxford", "TA2014": "059", "TA2014_NAM": "Waimakariri District", "WARD2014": "05901", "WARD2014_N": "Oxford-Eyre Ward", "CB2014": "05999", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1301", "CON2014_NA": "North Canterbury Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "055", "GED2007_NA": "Waimakariri", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 943.433533, "SHAPE_Area": 52485.317712 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.191754100222852, -43.298061333256157 ], [ 172.192330633558669, -43.297979666623299 ], [ 172.192690800128673, -43.299385549933646 ], [ 172.192756716930319, -43.299649549915173 ], [ 172.192985299858606, -43.300564516828111 ], [ 172.190844466883107, -43.300896416664131 ], [ 172.190590783416098, -43.299946083497723 ], [ 172.190188499909027, -43.298415316518934 ], [ 172.190163399733649, -43.298288716520879 ], [ 172.191485050297047, -43.29809943314276 ], [ 172.191754100222852, -43.298061333256157 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2592400", "AU2014": "594010", "AU2014_NAM": "Woolston West", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06005", "WARD2014_N": "Hagley-Ferrymead Ward", "CB2014": "06005", "CB2014_NAM": "Hagley-Ferrymead Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1304", "CON2014_NA": "Christchurch East Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "040", "GED2007_NA": "Port Hills", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 910.074992, "SHAPE_Area": 51610.766653 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.669120783304805, -43.54059345007542 ], [ 172.670266633541416, -43.541037050032273 ], [ 172.670298400218854, -43.541050183364952 ], [ 172.670314366409997, -43.541055516684771 ], [ 172.670320966532415, -43.541057966857544 ], [ 172.670354199946274, -43.541070316537471 ], [ 172.670636216660938, -43.541176816865239 ], [ 172.670943216654109, -43.541293099913588 ], [ 172.671531999923417, -43.541516133497808 ], [ 172.671640466765268, -43.541555416702217 ], [ 172.670362599739121, -43.543343716475675 ], [ 172.66782506675284, -43.542395533469005 ], [ 172.668480316500791, -43.541495583239993 ], [ 172.669120783304805, -43.54059345007542 ] ] ] } }
+]
+}

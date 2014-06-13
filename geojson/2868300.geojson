@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2868300", "AU2014": "603602", "AU2014_NAM": "Otago University", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "008", "GED2007_NA": "Dunedin North", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 686.361153, "SHAPE_Area": 26871.683882 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.509589183453414, -45.866466516570256 ], [ 170.510228866696622, -45.866643816829374 ], [ 170.511042300097614, -45.866860950077992 ], [ 170.510288716551713, -45.868201533184376 ], [ 170.509994333516829, -45.868722583316199 ], [ 170.508543866403699, -45.868324966734114 ], [ 170.509589183453414, -45.866466516570256 ] ] ] } }
+]
+}

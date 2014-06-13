@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2361900", "AU2014": "584201", "AU2014_NAM": "Richmond East", "UA2014": "021", "UA2014_NAM": "Nelson", "TA2014": "051", "TA2014_NAM": "Tasman District", "WARD2014": "05105", "WARD2014_N": "Richmond Ward", "CB2014": "05199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "16", "REGC2014_N": "Tasman Region", "CON2014": "1699", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "029", "GED2007_NA": "Nelson", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 762.587556, "SHAPE_Area": 31736.702360 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.19380441650145, -41.338934099996351 ], [ 173.192898783061452, -41.339502349851557 ], [ 173.191971066864909, -41.340090949834114 ], [ 173.191756200279343, -41.340224933178199 ], [ 173.191552366765876, -41.340352933305681 ], [ 173.191404899957689, -41.340448349926675 ], [ 173.191204283382831, -41.340270349862685 ], [ 173.190540116742596, -41.339663366754912 ], [ 173.190520500188541, -41.339577100057575 ], [ 173.190711749808997, -41.339455883324121 ], [ 173.191322350060915, -41.339073150185698 ], [ 173.192872283232759, -41.338096566887224 ], [ 173.19380441650145, -41.338934099996351 ] ] ] } }
+]
+}

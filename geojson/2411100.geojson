@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2411100", "AU2014": "585140", "AU2014_NAM": "Greymouth South", "UA2014": "111", "UA2014_NAM": "Greymouth", "TA2014": "056", "TA2014_NAM": "Grey District", "WARD2014": "05602", "WARD2014_N": "Central Ward", "CB2014": "05699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "12", "REGC2014_N": "West Coast Region", "CON2014": "1202", "CON2014_NA": "Grey Constituency", "MCON2014": "1299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "060", "GED2007_NA": "West Coast-Tasman", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1516.986212, "SHAPE_Area": 118326.860866 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.202038983359984, -42.46122921681328 ], [ 171.200534966665828, -42.461988933389563 ], [ 171.200602666522656, -42.463475183103483 ], [ 171.197997433161191, -42.464777983483408 ], [ 171.197383916773759, -42.464382166589182 ], [ 171.196875883517208, -42.463839650093412 ], [ 171.195895666629781, -42.462770233337025 ], [ 171.198495633502091, -42.461438849885283 ], [ 171.201034616958395, -42.460143083452074 ], [ 171.202038983359984, -42.46122921681328 ] ] ] } }
+]
+}

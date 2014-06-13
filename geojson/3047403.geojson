@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3047403", "AU2014": "610020", "AU2014_NAM": "Waikaia", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "073", "TA2014_NAM": "Southland District", "WARD2014": "07301", "WARD2014_N": "Mararoa-Waimea Ward", "CB2014": "07399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1502", "CON2014_NA": "Eastern-Dome Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 8576.148137, "SHAPE_Area": 3424037.144820 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.870241516489585, -45.834784299444856 ], [ 168.86996595003248, -45.834790566071419 ], [ 168.852504399662081, -45.834547432979811 ], [ 168.880976199947668, -45.813951766384747 ], [ 168.890238766699468, -45.835048732873773 ], [ 168.890126216616068, -45.835047549652842 ], [ 168.870241516489585, -45.834784299444856 ] ] ] } }
+]
+}

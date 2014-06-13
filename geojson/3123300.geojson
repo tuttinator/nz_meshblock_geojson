@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3123300", "AU2014": "610700", "AU2014_NAM": "Rosedale", "UA2014": "024", "UA2014_NAM": "Invercargill", "TA2014": "075", "TA2014_NAM": "Invercargill City", "WARD2014": "07599", "WARD2014_N": "Area Outside Ward", "CB2014": "07599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1506", "CON2014_NA": "Invercargill-Rakiura Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "019", "GED2007_NA": "Invercargill", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 947.570630, "SHAPE_Area": 37961.500018 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.387116816490703, -46.393784849110936 ], [ 168.387495099747582, -46.394553549090155 ], [ 168.387574866604268, -46.39471173249288 ], [ 168.385796283356569, -46.394710332500395 ], [ 168.382724533536248, -46.394709165956236 ], [ 168.382574716435442, -46.394711065828531 ], [ 168.382573433485447, -46.39441918230559 ], [ 168.382570250092442, -46.393781382467203 ], [ 168.385383283134729, -46.393780782408236 ], [ 168.387116816490703, -46.393784849110936 ] ] ] } }
+]
+}

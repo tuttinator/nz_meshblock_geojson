@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2289500", "AU2014": "580300", "AU2014_NAM": "Renwick", "UA2014": "026", "UA2014_NAM": "Blenheim", "TA2014": "053", "TA2014_NAM": "Marlborough District", "WARD2014": "05302", "WARD2014_N": "Wairau-Awatere Ward", "CB2014": "05399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "18", "REGC2014_N": "Marlborough Region", "CON2014": "1899", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "020", "GED2007_NA": "Kaikoura", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1656.522973, "SHAPE_Area": 134842.441860 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.829654166963195, -41.505777599980391 ], [ 173.829771566474022, -41.505772433088573 ], [ 173.832921933474921, -41.505624466737636 ], [ 173.833038466852543, -41.505618983474612 ], [ 173.836900750058163, -41.505437333379184 ], [ 173.83704230020399, -41.507460150131202 ], [ 173.836546783260872, -41.5074808001349 ], [ 173.835116216934921, -41.507541166616178 ], [ 173.833183766536507, -41.507619516843924 ], [ 173.829806233470578, -41.507763049877141 ], [ 173.829695733186014, -41.50630981649325 ], [ 173.829654166963195, -41.505777599980391 ] ] ] } }
+]
+}

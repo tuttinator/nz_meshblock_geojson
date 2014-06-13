@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2448904", "AU2014": "586304", "AU2014_NAM": "Southbrook", "UA2014": "116", "UA2014_NAM": "Rangiora", "TA2014": "059", "TA2014_NAM": "Waimakariri District", "WARD2014": "05903", "WARD2014_N": "Rangiora Ward", "CB2014": "05903", "CB2014_NAM": "Rangiora Community", "TASUB2014": "05999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1301", "CON2014_NA": "North Canterbury Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "055", "GED2007_NA": "Waimakariri", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1309.681747, "SHAPE_Area": 87719.650849 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.594706266762728, -43.318340783108191 ], [ 172.596209116994942, -43.318141049894827 ], [ 172.596982483249491, -43.318047833286649 ], [ 172.597549966938146, -43.320315699827617 ], [ 172.597613750136446, -43.320572783225465 ], [ 172.598007999777423, -43.322185383258393 ], [ 172.595736466603739, -43.322487883087973 ], [ 172.595509466670222, -43.321570383524815 ], [ 172.595265116556135, -43.320585266531374 ], [ 172.594706266762728, -43.318340783108191 ] ] ] } }
+]
+}

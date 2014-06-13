@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2381600", "AU2014": "581843", "AU2014_NAM": "Murchison", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "051", "TA2014_NAM": "Tasman District", "WARD2014": "05102", "WARD2014_N": "Lakes-Murchison Ward", "CB2014": "05199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "16", "REGC2014_N": "Tasman Region", "CON2014": "1699", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "060", "GED2007_NA": "West Coast-Tasman", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1021.006957, "SHAPE_Area": 58513.264529 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.325468150126795, -41.80010686655536 ], [ 172.327891899986639, -41.800120500163047 ], [ 172.329519650220533, -41.800131583075412 ], [ 172.329507833363692, -41.801698183429508 ], [ 172.327868516858189, -41.801686033302836 ], [ 172.325448583593612, -41.801666816527778 ], [ 172.325468150126795, -41.80010686655536 ] ] ] } }
+]
+}

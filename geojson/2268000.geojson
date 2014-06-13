@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2268000", "AU2014": "580000", "AU2014_NAM": "Featherston", "UA2014": "266", "UA2014_NAM": "Featherston", "TA2014": "050", "TA2014_NAM": "South Wairarapa District", "WARD2014": "05002", "WARD2014_N": "Featherston Ward", "CB2014": "05002", "CB2014_NAM": "Featherston Community", "TASUB2014": "05099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0906", "CON2014_NA": "Wairarapa Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "056", "GED2007_NA": "Wairarapa", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 868.360840, "SHAPE_Area": 48265.111774 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.327144449853563, -41.114513449901388 ], [ 175.326175100091319, -41.115465216843674 ], [ 175.325316650125473, -41.11598793350413 ], [ 175.323433966733887, -41.114893716638932 ], [ 175.324079233398209, -41.114260000116658 ], [ 175.325026983501516, -41.113313666715356 ], [ 175.3259637669303, -41.113837733158284 ], [ 175.327144449853563, -41.114513449901388 ] ] ] } }
+]
+}

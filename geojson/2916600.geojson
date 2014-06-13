@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2916600", "AU2014": "604130", "AU2014_NAM": "Kenmure", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "008", "GED2007_NA": "Dunedin North", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 682.302410, "SHAPE_Area": 25424.982945 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.473710016606162, -45.883345316476301 ], [ 170.474663750072949, -45.884315250189204 ], [ 170.475100483287633, -45.88475871667611 ], [ 170.475147100230629, -45.884833166774975 ], [ 170.475045683014031, -45.88508406665315 ], [ 170.474783050040713, -45.885702249815992 ], [ 170.472880833102437, -45.885314649949976 ], [ 170.473145616546418, -45.884693733400582 ], [ 170.473408916412552, -45.884062583216064 ], [ 170.473710016606162, -45.883345316476301 ] ] ] } }
+]
+}

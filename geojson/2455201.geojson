@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2455201", "AU2014": "586503", "AU2014_NAM": "Kaiapoi West", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "059", "TA2014_NAM": "Waimakariri District", "WARD2014": "05904", "WARD2014_N": "Kaiapoi Ward", "CB2014": "05901", "CB2014_NAM": "Kaiapoi Community", "TASUB2014": "05999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1301", "CON2014_NA": "North Canterbury Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "055", "GED2007_NA": "Waimakariri", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1167.822197, "SHAPE_Area": 55843.544414 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.645021466946559, -43.380859233319427 ], [ 172.645333683528264, -43.380930616549726 ], [ 172.646291400073409, -43.381179883411576 ], [ 172.646437583223388, -43.381216866599758 ], [ 172.646210200263994, -43.381690400009106 ], [ 172.645755783289218, -43.382649699913095 ], [ 172.644575016718875, -43.385142800138276 ], [ 172.644437900230514, -43.3851192333317 ], [ 172.643493166814125, -43.384884599979081 ], [ 172.643160033423044, -43.384818483455135 ], [ 172.644704900255476, -43.381538000163324 ], [ 172.645021466946559, -43.380859233319427 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2344200", "AU2014": "583900", "AU2014_NAM": "Isel Park", "UA2014": "021", "UA2014_NAM": "Nelson", "TA2014": "052", "TA2014_NAM": "Nelson City", "WARD2014": "05299", "WARD2014_N": "Area Outside Ward", "CB2014": "05299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "17", "REGC2014_N": "Nelson Region", "CON2014": "1799", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "029", "GED2007_NA": "Nelson", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 683.239538, "SHAPE_Area": 25683.687526 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.227950883024619, -41.317548783479666 ], [ 173.23001861653259, -41.318874116503032 ], [ 173.229729800129689, -41.319056883167391 ], [ 173.228955533496162, -41.319539266522767 ], [ 173.228126716757401, -41.319003183147935 ], [ 173.227650949859282, -41.318690283169857 ], [ 173.226906049996387, -41.318202783308713 ], [ 173.227362483587513, -41.317919816818417 ], [ 173.227830416640899, -41.317624483351231 ], [ 173.227950883024619, -41.317548783479666 ] ] ] } }
+]
+}

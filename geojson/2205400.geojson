@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2205400", "AU2014": "577302", "AU2014_NAM": "Miramar", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04704", "WARD2014_N": "Eastern Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "045", "GED2007_NA": "Rongotai", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 837.760350, "SHAPE_Area": 36691.210804 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.81996873332136, -41.311487050127639 ], [ 174.820709233155071, -41.310544900134154 ], [ 174.823736866436633, -41.311833633213737 ], [ 174.823405233341418, -41.312624949885553 ], [ 174.823086533305514, -41.312807200009722 ], [ 174.81996873332136, -41.311487050127639 ] ] ] } }
+]
+}

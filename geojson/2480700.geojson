@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2480700", "AU2014": "587702", "AU2014_NAM": "Wigram", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06004", "WARD2014_N": "Riccarton-Wigram Ward", "CB2014": "06004", "CB2014_NAM": "Riccarton-Wigram Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1305", "CON2014_NA": "Christchurch South Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "063", "GED2007_NA": "Wigram", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1189.900570, "SHAPE_Area": 79270.883932 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.549504583335761, -43.541498216873748 ], [ 172.55003415007738, -43.541221600015746 ], [ 172.550949733123332, -43.541220283387858 ], [ 172.553906583266553, -43.541216150052591 ], [ 172.552982349717922, -43.543336649971501 ], [ 172.552615099791808, -43.543523916694973 ], [ 172.551451033228261, -43.544089133148596 ], [ 172.5513661834988, -43.544026016534168 ], [ 172.551263183176758, -43.543348899946466 ], [ 172.549759066435428, -43.543472766676039 ], [ 172.549750133195715, -43.543388083300719 ], [ 172.549599183053431, -43.542188116516797 ], [ 172.549504583335761, -43.541498216873748 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3141903", "AU2014": "611500", "AU2014_NAM": "Newfield-Rockdale", "UA2014": "024", "UA2014_NAM": "Invercargill", "TA2014": "075", "TA2014_NAM": "Invercargill City", "WARD2014": "07599", "WARD2014_N": "Area Outside Ward", "CB2014": "07599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1506", "CON2014_NA": "Invercargill-Rakiura Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "019", "GED2007_NA": "Invercargill", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1682.010267, "SHAPE_Area": 152909.149692 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.399304100252806, -46.428527616022606 ], [ 168.399568233608846, -46.428469382541365 ], [ 168.400277983395426, -46.428467849184358 ], [ 168.404776599888237, -46.428461632415626 ], [ 168.404778766403837, -46.428555915864301 ], [ 168.404780399693891, -46.42945574918857 ], [ 168.404723133272142, -46.42945581598012 ], [ 168.404609049975704, -46.429456098997555 ], [ 168.403738783029866, -46.429458065716332 ], [ 168.40374080003528, -46.430825349114457 ], [ 168.4037428500381, -46.432188965767381 ], [ 168.403740583380056, -46.432272682490847 ], [ 168.399338900142197, -46.432276349021819 ], [ 168.399304100252806, -46.428527616022606 ] ] ] } }
+]
+}

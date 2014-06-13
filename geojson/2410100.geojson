@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2410100", "AU2014": "585120", "AU2014_NAM": "Blaketown", "UA2014": "111", "UA2014_NAM": "Greymouth", "TA2014": "056", "TA2014_NAM": "Grey District", "WARD2014": "05602", "WARD2014_N": "Central Ward", "CB2014": "05699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "12", "REGC2014_N": "West Coast Region", "CON2014": "1202", "CON2014_NA": "Grey Constituency", "MCON2014": "1299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "060", "GED2007_NA": "West Coast-Tasman", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 582.871544, "SHAPE_Area": 16943.510593 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.194227283168175, -42.450268233284874 ], [ 171.195011383132822, -42.448383050114202 ], [ 171.19587573302195, -42.448780216716059 ], [ 171.195167616618903, -42.450492166805411 ], [ 171.194227283168175, -42.450268233284874 ] ] ] } }
+]
+}

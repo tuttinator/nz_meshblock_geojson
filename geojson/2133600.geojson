@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2133600", "AU2014": "573101", "AU2014_NAM": "Willis Street-Cambridge Terrace", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04703", "WARD2014_N": "Lambton Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "059", "GED2007_NA": "Wellington Central", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 552.706340, "SHAPE_Area": 17492.223859 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.776607900309216, -41.293546316917421 ], [ 174.776790933033027, -41.293608950169691 ], [ 174.776487966895701, -41.294141933172973 ], [ 174.776146750004045, -41.294741299777527 ], [ 174.775975349743561, -41.295040550184225 ], [ 174.775921266465616, -41.295097983406293 ], [ 174.775458900128029, -41.294958933328573 ], [ 174.774892266978156, -41.294774066558602 ], [ 174.775434933333486, -41.29377668328479 ], [ 174.775723416664277, -41.29326651655213 ], [ 174.776607900309216, -41.293546316917421 ] ] ] } }
+]
+}

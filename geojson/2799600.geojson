@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2799600", "AU2014": "599700", "AU2014_NAM": "Parkside", "UA2014": "113", "UA2014_NAM": "Timaru", "TA2014": "064", "TA2014_NAM": "Timaru District", "WARD2014": "06403", "WARD2014_N": "Timaru Ward", "CB2014": "06499", "CB2014_NAM": "Area Outside Community", "TASUB2014": "06499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1308", "CON2014_NA": "South Canterbury Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "041", "GED2007_NA": "Rangitata", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 770.400560, "SHAPE_Area": 32591.684983 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.249889183419356, -44.402661666801336 ], [ 171.253170983233929, -44.402650099952062 ], [ 171.253193600224165, -44.403680999825241 ], [ 171.253165566726892, -44.403769633200206 ], [ 171.252477050213002, -44.403773950152335 ], [ 171.249900516942461, -44.40378045006112 ], [ 171.249897583292466, -44.403628983338955 ], [ 171.249889183419356, -44.402661666801336 ] ] ] } }
+]
+}

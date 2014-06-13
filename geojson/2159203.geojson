@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2159203", "AU2014": "573200", "AU2014_NAM": "Aro Street-Nairn Street", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04703", "WARD2014_N": "Lambton Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "059", "GED2007_NA": "Wellington Central", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 224.407118, "SHAPE_Area": 2844.118289 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.769821533092937, -41.296739949864964 ], [ 174.770256916459914, -41.296878883251708 ], [ 174.770354700263084, -41.296906466912255 ], [ 174.770160666550623, -41.297243616492864 ], [ 174.769599899804518, -41.297332866586814 ], [ 174.769573249899196, -41.297236283135398 ], [ 174.769559600231617, -41.297184549789272 ], [ 174.769482283495819, -41.297166783411228 ], [ 174.769515383284499, -41.297097016668999 ], [ 174.769539483144825, -41.297045300042477 ], [ 174.769567483446991, -41.296985666894024 ], [ 174.769665250113945, -41.297017083074344 ], [ 174.769726450247219, -41.296911233162227 ], [ 174.769821533092937, -41.296739949864964 ] ] ] } }
+]
+}

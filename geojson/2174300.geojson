@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2174300", "AU2014": "577000", "AU2014_NAM": "Lyall Bay-Airport-Moa Point", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04704", "WARD2014_N": "Eastern Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "045", "GED2007_NA": "Rongotai", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 567.314476, "SHAPE_Area": 17852.862301 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.789922466673232, -41.329405433441664 ], [ 174.790044483453073, -41.329406583313741 ], [ 174.790447300056655, -41.329409616770796 ], [ 174.790829916407176, -41.329412499791459 ], [ 174.791658650043956, -41.329418016803182 ], [ 174.791781383473193, -41.329418783474296 ], [ 174.791778216797098, -41.329987950046487 ], [ 174.791778083036746, -41.330017316789629 ], [ 174.790248750153353, -41.330988233362909 ], [ 174.790233666800447, -41.33090196652708 ], [ 174.79013620008871, -41.330423016780784 ], [ 174.789922466673232, -41.329405433441664 ] ] ] } }
+]
+}

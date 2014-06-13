@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3023507", "AU2014": "608303", "AU2014_NAM": "Clyde", "UA2014": "501", "UA2014_NAM": "Clyde", "TA2014": "069", "TA2014_NAM": "Central Otago District", "WARD2014": "06902", "WARD2014_N": "Earnscleugh-Manuherikia Ward", "CB2014": "06903", "CB2014_NAM": "Vincent Community", "TASUB2014": "06999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1401", "CON2014_NA": "Dunstan Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "058", "GED2007_NA": "Waitaki", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 573.063545, "SHAPE_Area": 20078.966261 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 169.331429633254913, -45.194993566627623 ], [ 169.332373299987694, -45.195674916436985 ], [ 169.332889266498114, -45.196056999806494 ], [ 169.332393099986518, -45.196399899969613 ], [ 169.331787783319896, -45.196818249838039 ], [ 169.330316899931944, -45.195750049597251 ], [ 169.331429633254913, -45.194993566627623 ] ] ] } }
+]
+}

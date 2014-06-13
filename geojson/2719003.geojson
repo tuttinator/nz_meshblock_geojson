@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2719003", "AU2014": "597512", "AU2014_NAM": "Springston", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "062", "TA2014_NAM": "Selwyn District", "WARD2014": "06202", "WARD2014_N": "Selwyn Central Ward", "CB2014": "06202", "CB2014_NAM": "Selwyn Central Community", "TASUB2014": "06299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1306", "CON2014_NA": "Selwyn-Banks Peninsula Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "047", "GED2007_NA": "Selwyn", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 10914.286852, "SHAPE_Area": 7789126.760580 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.319343183060482, -43.621912033295871 ], [ 172.327572366622803, -43.63424900012933 ], [ 172.33060259991035, -43.638806249938277 ], [ 172.330706866933184, -43.639052699857181 ], [ 172.320721649801357, -43.648876333220009 ], [ 172.309448366991091, -43.651582199989051 ], [ 172.298313316592754, -43.654253866786476 ], [ 172.298066333288915, -43.654296416554757 ], [ 172.297850033203986, -43.654043116818102 ], [ 172.2913927665345, -43.644429150037404 ], [ 172.285166283268182, -43.635103783495104 ], [ 172.285008616426609, -43.634900800077297 ], [ 172.319203800054339, -43.621966749891769 ], [ 172.319343183060482, -43.621912033295871 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2988600", "AU2014": "606800", "AU2014_NAM": "Milton", "UA2014": "289", "UA2014_NAM": "Milton", "TA2014": "072", "TA2014_NAM": "Clutha District", "WARD2014": "07206", "WARD2014_N": "Bruce Ward", "CB2014": "07299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1403", "CON2014_NA": "Molyneux Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 537.278060, "SHAPE_Area": 17880.842506 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 169.962257166818489, -46.118231383268011 ], [ 169.963384250280967, -46.11884585015418 ], [ 169.963488483295691, -46.118904883314663 ], [ 169.96312346668546, -46.119225216760661 ], [ 169.962297299662367, -46.119940949972971 ], [ 169.961067333089574, -46.119278266655705 ], [ 169.962257166818489, -46.118231383268011 ] ] ] } }
+]
+}

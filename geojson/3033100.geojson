@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3033100", "AU2014": "609304", "AU2014_NAM": "Queenstown Bay", "UA2014": "117", "UA2014_NAM": "Queenstown", "TA2014": "070", "TA2014_NAM": "Queenstown-Lakes District", "WARD2014": "07001", "WARD2014_N": "Queenstown-Wakatipu Ward", "CB2014": "07099", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1401", "CON2014_NA": "Dunstan Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 767.899287, "SHAPE_Area": 35611.707306 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.657759416635542, -45.030382666330055 ], [ 168.658419566832777, -45.031060016098195 ], [ 168.658960049796633, -45.031614266344079 ], [ 168.659134283225058, -45.031789682746776 ], [ 168.657602316331264, -45.03254331606739 ], [ 168.657272799593557, -45.032853099360175 ], [ 168.656470583301257, -45.032014116055734 ], [ 168.655842283201281, -45.031354682672088 ], [ 168.655922483469254, -45.031313982717343 ], [ 168.657759416635542, -45.030382666330055 ] ] ] } }
+]
+}

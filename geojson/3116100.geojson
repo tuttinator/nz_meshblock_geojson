@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3116100", "AU2014": "610800", "AU2014_NAM": "Gladstone-Avenal", "UA2014": "024", "UA2014_NAM": "Invercargill", "TA2014": "075", "TA2014_NAM": "Invercargill City", "WARD2014": "07599", "WARD2014_N": "Area Outside Ward", "CB2014": "07599", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1506", "CON2014_NA": "Invercargill-Rakiura Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "019", "GED2007_NA": "Invercargill", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 658.517362, "SHAPE_Area": 19548.212591 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.349154816389216, -46.405722865671635 ], [ 168.350601099747365, -46.405722432296237 ], [ 168.350605233144393, -46.406421949142761 ], [ 168.347329599938831, -46.406422632245501 ], [ 168.347336283312757, -46.405729399255215 ], [ 168.349154816389216, -46.405722865671635 ] ] ] } }
+]
+}

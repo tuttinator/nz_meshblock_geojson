@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2795400", "AU2014": "599500", "AU2014_NAM": "Seaview", "UA2014": "113", "UA2014_NAM": "Timaru", "TA2014": "064", "TA2014_NAM": "Timaru District", "WARD2014": "06403", "WARD2014_N": "Timaru Ward", "CB2014": "06499", "CB2014_NAM": "Area Outside Community", "TASUB2014": "06499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1308", "CON2014_NA": "South Canterbury Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "041", "GED2007_NA": "Rangitata", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 644.982958, "SHAPE_Area": 24391.104868 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.253092983448084, -44.397372683139622 ], [ 171.25357628342968, -44.397275383360657 ], [ 171.253829583008326, -44.39789721691384 ], [ 171.254048166742052, -44.398436566688559 ], [ 171.254288050142804, -44.399010850133294 ], [ 171.25282203314714, -44.399317533099435 ], [ 171.252455366867736, -44.398412633166103 ], [ 171.252117783470851, -44.397575716910474 ], [ 171.253092983448084, -44.397372683139622 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2764600", "AU2014": "598500", "AU2014_NAM": "Geraldine", "UA2014": "285", "UA2014_NAM": "Geraldine", "TA2014": "064", "TA2014_NAM": "Timaru District", "WARD2014": "06401", "WARD2014_N": "Geraldine Ward", "CB2014": "06401", "CB2014_NAM": "Geraldine Community", "TASUB2014": "06499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1308", "CON2014_NA": "South Canterbury Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "058", "GED2007_NA": "Waitaki", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 639.850253, "SHAPE_Area": 22026.269635 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.238819316699022, -44.095697199886182 ], [ 171.238169349798284, -44.097534616695938 ], [ 171.238134166743947, -44.097625883355157 ], [ 171.236950599923716, -44.09742058330211 ], [ 171.236973633340483, -44.097282300144798 ], [ 171.23761433302144, -44.095483099917537 ], [ 171.238819316699022, -44.095697199886182 ] ] ] } }
+]
+}

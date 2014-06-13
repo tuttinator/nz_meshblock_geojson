@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2616100", "AU2014": "594600", "AU2014_NAM": "Sydenham", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06005", "WARD2014_N": "Hagley-Ferrymead Ward", "CB2014": "06005", "CB2014_NAM": "Hagley-Ferrymead Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1305", "CON2014_NA": "Christchurch South Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "004", "GED2007_NA": "Christchurch Central", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 752.939949, "SHAPE_Area": 32508.371810 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.630613766697849, -43.539947366578922 ], [ 172.632035849759291, -43.539946350168933 ], [ 172.633611466877682, -43.539947300180422 ], [ 172.633612700008314, -43.541019749866813 ], [ 172.633610583411212, -43.541149133362822 ], [ 172.632171649753928, -43.541152833514964 ], [ 172.630614100297976, -43.541164533341849 ], [ 172.63061256658915, -43.541036416712529 ], [ 172.630613766697849, -43.539947366578922 ] ] ] } }
+]
+}

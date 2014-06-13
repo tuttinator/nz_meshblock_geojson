@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2167600", "AU2014": "576400", "AU2014_NAM": "Newtown East", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04705", "WARD2014_N": "Southern Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "045", "GED2007_NA": "Rongotai", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 501.053958, "SHAPE_Area": 13249.514025 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.783202400080853, -41.312471583344987 ], [ 174.78420601687705, -41.312304983362985 ], [ 174.78422899998327, -41.312301099793089 ], [ 174.784233683274721, -41.312316750112814 ], [ 174.784428766709738, -41.31295608337895 ], [ 174.782397383315924, -41.3133175334398 ], [ 174.782389350215055, -41.313319033263411 ], [ 174.78219065027173, -41.312651966692904 ], [ 174.783202400080853, -41.312471583344987 ] ] ] } }
+]
+}

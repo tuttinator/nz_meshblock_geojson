@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3030700", "AU2014": "608600", "AU2014_NAM": "Cromwell", "UA2014": "292", "UA2014_NAM": "Cromwell", "TA2014": "069", "TA2014_NAM": "Central Otago District", "WARD2014": "06901", "WARD2014_N": "Cromwell Ward", "CB2014": "06901", "CB2014_NAM": "Cromwell Community", "TASUB2014": "06999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1401", "CON2014_NA": "Dunstan Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "058", "GED2007_NA": "Waitaki", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 453.570064, "SHAPE_Area": 11419.698045 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 169.211744916315155, -45.049976432894603 ], [ 169.211875250218242, -45.050073983003571 ], [ 169.212519333450416, -45.050890499953887 ], [ 169.212337000052429, -45.051273983018618 ], [ 169.212329150219375, -45.051373949567534 ], [ 169.212133583046636, -45.051585099801031 ], [ 169.210885333043478, -45.050914416270899 ], [ 169.211735033529095, -45.05012149967218 ], [ 169.211744916315155, -45.049976432894603 ] ] ] } }
+]
+}

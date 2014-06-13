@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2379000", "AU2014": "584301", "AU2014_NAM": "Motueka West", "UA2014": "273", "UA2014_NAM": "Motueka", "TA2014": "051", "TA2014_NAM": "Tasman District", "WARD2014": "05104", "WARD2014_N": "Motueka Ward", "CB2014": "05102", "CB2014_NAM": "Motueka Community", "TASUB2014": "05199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "16", "REGC2014_N": "Tasman Region", "CON2014": "1699", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1699", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "060", "GED2007_NA": "West Coast-Tasman", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 521.953329, "SHAPE_Area": 16095.287975 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.005350199870804, -41.110036183144047 ], [ 173.005818383175324, -41.110039733504436 ], [ 173.006402800154547, -41.110043199889844 ], [ 173.006549216667594, -41.110043166888623 ], [ 173.006547016437622, -41.110128949926633 ], [ 173.006540433546007, -41.110247916681949 ], [ 173.006519016849865, -41.110799133151644 ], [ 173.006494083088285, -41.111373016757213 ], [ 173.006499283469651, -41.11148449981706 ], [ 173.005291033411368, -41.111474450087655 ], [ 173.005350199870804, -41.110036183144047 ] ] ] } }
+]
+}

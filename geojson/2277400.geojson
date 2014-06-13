@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2277400", "AU2014": "580431", "AU2014_NAM": "Spring Creek-Grovetown", "UA2014": "026", "UA2014_NAM": "Blenheim", "TA2014": "053", "TA2014_NAM": "Marlborough District", "WARD2014": "05302", "WARD2014_N": "Wairau-Awatere Ward", "CB2014": "05399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "18", "REGC2014_N": "Marlborough Region", "CON2014": "1899", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "020", "GED2007_NA": "Kaikoura", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 4202.780365, "SHAPE_Area": 809472.806989 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.965763333283832, -41.481971049855538 ], [ 173.968173299907448, -41.480880949966462 ], [ 173.972982816685857, -41.478691833459337 ], [ 173.976399316827298, -41.482937466878894 ], [ 173.971583783087738, -41.485122066540022 ], [ 173.974145816866468, -41.488298450154694 ], [ 173.964942183334529, -41.492473333091795 ], [ 173.965015966704129, -41.490869333362163 ], [ 173.965119299849619, -41.488629783212048 ], [ 173.965345633138128, -41.486319733135829 ], [ 173.965551999915647, -41.484131400005325 ], [ 173.965763333283832, -41.481971049855538 ] ] ] } }
+]
+}

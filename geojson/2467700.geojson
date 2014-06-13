@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2467700", "AU2014": "587010", "AU2014_NAM": "Kirwee", "UA2014": "502", "UA2014_NAM": "Rural (Incl.some Off Shore Islands)", "TA2014": "062", "TA2014_NAM": "Selwyn District", "WARD2014": "06202", "WARD2014_N": "Selwyn Central Ward", "CB2014": "06202", "CB2014_NAM": "Selwyn Central Community", "TASUB2014": "06299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1306", "CON2014_NA": "Selwyn-Banks Peninsula Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "047", "GED2007_NA": "Selwyn", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 4682.566359, "SHAPE_Area": 1297978.668670 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.291322583126316, -43.614954849833616 ], [ 172.291377166392607, -43.615028583189456 ], [ 172.291380849923115, -43.61503641661357 ], [ 172.293187133297323, -43.617575166569083 ], [ 172.294256316469529, -43.619077916712918 ], [ 172.29483790013569, -43.619894600054408 ], [ 172.295941733436194, -43.621444683497714 ], [ 172.296449649898278, -43.622185233464016 ], [ 172.280519883506742, -43.628195883123027 ], [ 172.280506649950212, -43.628200866866209 ], [ 172.280088616734218, -43.627515999821576 ], [ 172.275637549921129, -43.620876150163419 ], [ 172.291322583126316, -43.614954849833616 ] ] ] } }
+]
+}

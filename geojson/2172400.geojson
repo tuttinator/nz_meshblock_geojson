@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2172400", "AU2014": "576200", "AU2014_NAM": "Berhampore West", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04705", "WARD2014_N": "Southern Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "045", "GED2007_NA": "Rongotai", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 383.149780, "SHAPE_Area": 9132.684994 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.771377200219149, -41.320576199900223 ], [ 174.772668733075818, -41.320612266877546 ], [ 174.772662266838381, -41.320694600201612 ], [ 174.772615399896438, -41.321378149822891 ], [ 174.771768033211998, -41.321352233455876 ], [ 174.77142855009069, -41.321343766546953 ], [ 174.771339650038925, -41.321317316880396 ], [ 174.771342583424115, -41.321258833170674 ], [ 174.771355516507299, -41.321006549803535 ], [ 174.771371616961972, -41.320690883257143 ], [ 174.771374016491905, -41.320644583209038 ], [ 174.771377200219149, -41.320576199900223 ] ] ] } }
+]
+}

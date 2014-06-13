@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2141600", "AU2014": "573400", "AU2014_NAM": "Mt Victoria West", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04703", "WARD2014_N": "Lambton Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "059", "GED2007_NA": "Wellington Central", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 382.174602, "SHAPE_Area": 8777.958236 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.786641550008426, -41.296891050128231 ], [ 174.787852299962736, -41.297274899961586 ], [ 174.787651399778895, -41.297628666672679 ], [ 174.787470466884145, -41.297949733447503 ], [ 174.786293449803935, -41.2975621166377 ], [ 174.78632308359326, -41.297514816509526 ], [ 174.786485483108009, -41.297232566606063 ], [ 174.78645086678668, -41.297221516668152 ], [ 174.786491949870026, -41.297148683492068 ], [ 174.786610483189122, -41.296938666669199 ], [ 174.786641550008426, -41.296891050128231 ] ] ] } }
+]
+}

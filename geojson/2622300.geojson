@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2622300", "AU2014": "594600", "AU2014_NAM": "Sydenham", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06006", "WARD2014_N": "Spreydon-Heathcote Ward", "CB2014": "06006", "CB2014_NAM": "Spreydon-Heathcote Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1305", "CON2014_NA": "Christchurch South Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "040", "GED2007_NA": "Port Hills", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 680.241791, "SHAPE_Area": 29597.104407 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.640551783240426, -43.55499243350237 ], [ 172.640551716695455, -43.554978216556123 ], [ 172.64095541679913, -43.554670599853466 ], [ 172.641396766415966, -43.554333433198678 ], [ 172.643099600223422, -43.55549858318782 ], [ 172.64301739996472, -43.555568300027971 ], [ 172.642630100226057, -43.555868283385045 ], [ 172.642688949960586, -43.555908549979357 ], [ 172.642237483225728, -43.556257333207682 ], [ 172.642216883359481, -43.556256050024267 ], [ 172.640965666649521, -43.55625670000407 ], [ 172.640568783159665, -43.556257233111097 ], [ 172.640565400073484, -43.555965616872221 ], [ 172.640551783240426, -43.55499243350237 ] ] ] } }
+]
+}

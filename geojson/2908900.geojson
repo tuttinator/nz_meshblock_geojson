@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2908900", "AU2014": "604020", "AU2014_NAM": "Roslyn South", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "008", "GED2007_NA": "Dunedin North", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 495.601971, "SHAPE_Area": 13945.618948 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.47958165020404, -45.871824783172329 ], [ 170.478983466578455, -45.873217083290136 ], [ 170.477910833549885, -45.872984066751634 ], [ 170.478516850230562, -45.871603400011743 ], [ 170.478620983395217, -45.871626516741891 ], [ 170.479035099967916, -45.871713950127045 ], [ 170.47944835030475, -45.871801633363027 ], [ 170.47958165020404, -45.871824783172329 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2796700", "AU2014": "599600", "AU2014_NAM": "Watlington", "UA2014": "113", "UA2014_NAM": "Timaru", "TA2014": "064", "TA2014_NAM": "Timaru District", "WARD2014": "06403", "WARD2014_N": "Timaru Ward", "CB2014": "06499", "CB2014_NAM": "Area Outside Community", "TASUB2014": "06499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1308", "CON2014_NA": "South Canterbury Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "041", "GED2007_NA": "Rangitata", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 545.281051, "SHAPE_Area": 17956.357595 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.232865633093013, -44.404055266883539 ], [ 171.233004766431748, -44.403980683492861 ], [ 171.233998966956449, -44.403467233304802 ], [ 171.2351327998893, -44.404583783436422 ], [ 171.235183583491107, -44.404630133175282 ], [ 171.234068316944217, -44.405235849827534 ], [ 171.232955949706451, -44.404144033346306 ], [ 171.232865633093013, -44.404055266883539 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3156500", "AU2014": "612100", "AU2014_NAM": "Bluff", "UA2014": "297", "UA2014_NAM": "Bluff", "TA2014": "075", "TA2014_NAM": "Invercargill City", "WARD2014": "07599", "WARD2014_N": "Area Outside Ward", "CB2014": "07501", "CB2014_NAM": "Bluff Community", "TASUB2014": "07599", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1506", "CON2014_NA": "Invercargill-Rakiura Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "019", "GED2007_NA": "Invercargill", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 723.823235, "SHAPE_Area": 29042.595047 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.339230066455826, -46.599604715684428 ], [ 168.339473133243814, -46.598538499287642 ], [ 168.342588333512793, -46.598876448972973 ], [ 168.342342416450691, -46.59994218235223 ], [ 168.339230066455826, -46.599604715684428 ] ] ] } }
+]
+}

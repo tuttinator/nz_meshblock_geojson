@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2290200", "AU2014": "580410", "AU2014_NAM": "Woodbourne", "UA2014": "026", "UA2014_NAM": "Blenheim", "TA2014": "053", "TA2014_NAM": "Marlborough District", "WARD2014": "05302", "WARD2014_N": "Wairau-Awatere Ward", "CB2014": "05399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "18", "REGC2014_N": "Marlborough Region", "CON2014": "1899", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "020", "GED2007_NA": "Kaikoura", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 2070.174189, "SHAPE_Area": 232949.816303 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.877869716748933, -41.506935483171574 ], [ 173.87794978326238, -41.506892783501208 ], [ 173.878333433548704, -41.511763166614827 ], [ 173.878035933177216, -41.511729583462831 ], [ 173.873437866763766, -41.511959400213861 ], [ 173.873432583534964, -41.511882399947382 ], [ 173.873322549994953, -41.51052499983853 ], [ 173.872111416703405, -41.510579800083534 ], [ 173.872073900053607, -41.510150716516129 ], [ 173.871879983427988, -41.507932266539456 ], [ 173.873537150062248, -41.507258566574443 ], [ 173.874888249851324, -41.507515083301023 ], [ 173.8763344664481, -41.507765550003938 ], [ 173.877869716748933, -41.506935483171574 ] ] ] } }
+]
+}

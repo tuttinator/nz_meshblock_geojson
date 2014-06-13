@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3057600", "AU2014": "610250", "AU2014_NAM": "South Gore", "UA2014": "301", "UA2014_NAM": "Gore", "TA2014": "074", "TA2014_NAM": "Gore District", "WARD2014": "07403", "WARD2014_N": "Gore Ward", "CB2014": "07499", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07499", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1502", "CON2014_NA": "Eastern-Dome Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 880.868342, "SHAPE_Area": 44990.851942 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.943110766490179, -46.111658499573558 ], [ 168.94314859992528, -46.114170666126292 ], [ 168.941652283283702, -46.114179682914312 ], [ 168.941065616761847, -46.114183382737806 ], [ 168.941064333483581, -46.114089999497715 ], [ 168.941039049888673, -46.112231649767281 ], [ 168.94103150020959, -46.111672316407137 ], [ 168.941812783250697, -46.111667132797301 ], [ 168.942231983424534, -46.111664316167129 ], [ 168.942982883569158, -46.111659349751015 ], [ 168.943110766490179, -46.111658499573558 ] ] ] } }
+]
+}

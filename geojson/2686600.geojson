@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2686600", "AU2014": "592402", "AU2014_NAM": "St Albans East", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06001", "WARD2014_N": "Shirley-Papanui Ward", "CB2014": "06001", "CB2014_NAM": "Shirley-Papanui Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1302", "CON2014_NA": "Christchurch North Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "004", "GED2007_NA": "Christchurch Central", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 812.272620, "SHAPE_Area": 38744.323955 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.63568611671792, -43.515707633103411 ], [ 172.635697216849024, -43.517070466664045 ], [ 172.632572166672901, -43.517066833452319 ], [ 172.632571600216068, -43.516451283478446 ], [ 172.632541983342975, -43.516407666634485 ], [ 172.632541533403156, -43.515685383097619 ], [ 172.634948300296912, -43.515690950000824 ], [ 172.63502108322669, -43.515704766637533 ], [ 172.63568611671792, -43.515707633103411 ] ] ] } }
+]
+}

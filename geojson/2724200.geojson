@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2724200", "AU2014": "597300", "AU2014_NAM": "Leeston", "UA2014": "283", "UA2014_NAM": "Leeston", "TA2014": "062", "TA2014_NAM": "Selwyn District", "WARD2014": "06203", "WARD2014_N": "Ellesmere Ward", "CB2014": "06299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "06299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1307", "CON2014_NA": "Rakaia Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "047", "GED2007_NA": "Selwyn", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1106.442434, "SHAPE_Area": 50019.972355 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.295369816903644, -43.762352733522199 ], [ 172.295563550118601, -43.762316149840302 ], [ 172.298540483377565, -43.760906733276208 ], [ 172.298928733224898, -43.760723516715188 ], [ 172.299265833024009, -43.760568866910553 ], [ 172.300075433190756, -43.761458049834289 ], [ 172.299342300210753, -43.761809233489281 ], [ 172.298608366413902, -43.762154216894324 ], [ 172.295444250145692, -43.763672416833792 ], [ 172.295290083207306, -43.763746016906111 ], [ 172.295369816903644, -43.762352733522199 ] ] ] } }
+]
+}

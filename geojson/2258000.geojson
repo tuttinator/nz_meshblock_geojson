@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2258000", "AU2014": "579700", "AU2014_NAM": "Carterton", "UA2014": "264", "UA2014_NAM": "Carterton", "TA2014": "049", "TA2014_NAM": "Carterton District", "WARD2014": "04999", "WARD2014_N": "Area Outside Ward", "CB2014": "04999", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0906", "CON2014_NA": "Wairarapa Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "056", "GED2007_NA": "Wairarapa", "MED2007": "2", "MED2007_NA": "Ikaroa-Rawhiti", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1118.580604, "SHAPE_Area": 68473.890215 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 175.527823666993726, -41.01844490013972 ], [ 175.529373333328692, -41.017331433352112 ], [ 175.530265216654243, -41.017832116767096 ], [ 175.532754066926685, -41.0192636666008 ], [ 175.531517533246102, -41.020656816715977 ], [ 175.52917290023575, -41.019249033382827 ], [ 175.527823666993726, -41.01844490013972 ] ] ] } }
+]
+}

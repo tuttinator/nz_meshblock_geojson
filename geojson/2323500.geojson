@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2323500", "AU2014": "582900", "AU2014_NAM": "Atmore", "UA2014": "021", "UA2014_NAM": "Nelson", "TA2014": "052", "TA2014_NAM": "Nelson City", "WARD2014": "05299", "WARD2014_N": "Area Outside Ward", "CB2014": "05299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "17", "REGC2014_N": "Nelson Region", "CON2014": "1799", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1799", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "029", "GED2007_NA": "Nelson", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 615.734198, "SHAPE_Area": 20849.143753 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.291407749912054, -41.276406033169778 ], [ 173.292588416537001, -41.276434416819299 ], [ 173.292500666954567, -41.278341633203169 ], [ 173.291501000185264, -41.278316349966502 ], [ 173.291418049821488, -41.278315983468488 ], [ 173.291355266695263, -41.278254916895939 ], [ 173.291332133336766, -41.278199200117911 ], [ 173.291407766462498, -41.27640653350722 ], [ 173.291407749912054, -41.276406033169778 ] ] ] } }
+]
+}

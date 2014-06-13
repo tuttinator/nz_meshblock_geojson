@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2402400", "AU2014": "584922", "AU2014_NAM": "Blackball", "UA2014": "501", "UA2014_NAM": "Rural Centre", "TA2014": "056", "TA2014_NAM": "Grey District", "WARD2014": "05604", "WARD2014_N": "Eastern Ward", "CB2014": "05699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "12", "REGC2014_N": "West Coast Region", "CON2014": "1202", "CON2014_NA": "Grey Constituency", "MCON2014": "1299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "060", "GED2007_NA": "West Coast-Tasman", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1174.770148, "SHAPE_Area": 77215.729631 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.412978416993752, -42.363689766703082 ], [ 171.413528800113454, -42.363383233103484 ], [ 171.414682266574715, -42.3627324667669 ], [ 171.415997749788573, -42.364012749908071 ], [ 171.416926433394877, -42.364915983150958 ], [ 171.415640683195193, -42.365455466631715 ], [ 171.412993283277615, -42.366572966792681 ], [ 171.413107783554238, -42.366094949870316 ], [ 171.413064983296067, -42.36530903319521 ], [ 171.412978416993752, -42.363689766703082 ] ] ] } }
+]
+}

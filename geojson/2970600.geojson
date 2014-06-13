@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2970600", "AU2014": "602100", "AU2014_NAM": "Waldronville", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07104", "CB2014_NAM": "Saddle Hill Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "009", "GED2007_NA": "Dunedin South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 624.089153, "SHAPE_Area": 22058.604860 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.399832183092968, -45.923161366577595 ], [ 170.402127616977708, -45.922598466529898 ], [ 170.402313433193882, -45.922554166747915 ], [ 170.402376099824096, -45.922665450018073 ], [ 170.402745816724774, -45.923393000057516 ], [ 170.402773400251732, -45.923459816685181 ], [ 170.401546966712715, -45.923768416559575 ], [ 170.400316216510248, -45.924092366476934 ], [ 170.399832183092968, -45.923161366577595 ] ] ] } }
+]
+}

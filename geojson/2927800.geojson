@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2927800", "AU2014": "604420", "AU2014_NAM": "Forbury", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "009", "GED2007_NA": "Dunedin South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 977.613225, "SHAPE_Area": 34510.374427 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.485838450110833, -45.898406049950729 ], [ 170.486497533289281, -45.899188866501255 ], [ 170.48717814996192, -45.89999673313222 ], [ 170.488506100216824, -45.901568550200537 ], [ 170.487524433504319, -45.901965600024496 ], [ 170.486179466670478, -45.900378983197676 ], [ 170.485599266867268, -45.899561366770129 ], [ 170.485073300071605, -45.898826083064755 ], [ 170.485015816878814, -45.898752483393238 ], [ 170.48509081674311, -45.898718716575623 ], [ 170.485838450110833, -45.898406049950729 ] ] ] } }
+]
+}

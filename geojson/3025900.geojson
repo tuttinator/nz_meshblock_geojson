@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3025900", "AU2014": "608500", "AU2014_NAM": "Alexandra", "UA2014": "291", "UA2014_NAM": "Alexandra", "TA2014": "069", "TA2014_NAM": "Central Otago District", "WARD2014": "06904", "WARD2014_N": "Alexandra Ward", "CB2014": "06903", "CB2014_NAM": "Vincent Community", "TASUB2014": "06999", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1401", "CON2014_NA": "Dunstan Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "058", "GED2007_NA": "Waitaki", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 886.065304, "SHAPE_Area": 45097.642481 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 169.381419983547858, -45.249328449692122 ], [ 169.383021316381615, -45.248468716583112 ], [ 169.385221066886203, -45.250487049721841 ], [ 169.384293016331014, -45.25099786629405 ], [ 169.383992166826772, -45.251165249852328 ], [ 169.383623316500319, -45.251369883274613 ], [ 169.382712816293264, -45.250519616654323 ], [ 169.381522316290756, -45.249433166631725 ], [ 169.381419983547858, -45.249328449692122 ] ] ] } }
+]
+}

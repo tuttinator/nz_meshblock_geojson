@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2475900", "AU2014": "590900", "AU2014_NAM": "Riccarton South", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "060", "TA2014_NAM": "Christchurch City", "WARD2014": "06006", "WARD2014_N": "Spreydon-Heathcote Ward", "CB2014": "06006", "CB2014_NAM": "Spreydon-Heathcote Community", "TASUB2014": "06099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1303", "CON2014_NA": "Christchurch West Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "004", "GED2007_NA": "Christchurch Central", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1089.472197, "SHAPE_Area": 44239.748345 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.612268766880874, -43.540121750211924 ], [ 172.612858449777661, -43.540055599948225 ], [ 172.613306583123119, -43.540031733114198 ], [ 172.61629060006274, -43.5400468833855 ], [ 172.616672783410365, -43.54004363309042 ], [ 172.617862150249039, -43.539988649863524 ], [ 172.617442850092431, -43.540224250171889 ], [ 172.617033083264914, -43.540476050195842 ], [ 172.616288016758944, -43.540918350072154 ], [ 172.616083333228829, -43.541039083130421 ], [ 172.615885716834043, -43.541041049975824 ], [ 172.612583466432937, -43.541044499874502 ], [ 172.612323233588938, -43.541045500121257 ], [ 172.611648166408969, -43.540445733327914 ], [ 172.612268766880874, -43.540121750211924 ] ] ] } }
+]
+}

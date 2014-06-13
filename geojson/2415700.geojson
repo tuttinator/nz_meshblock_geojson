@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2415700", "AU2014": "585000", "AU2014_NAM": "Runanga-Rapahoe", "UA2014": "111", "UA2014_NAM": "Greymouth", "TA2014": "056", "TA2014_NAM": "Grey District", "WARD2014": "05601", "WARD2014_N": "Northern Ward", "CB2014": "05699", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05699", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "12", "REGC2014_N": "West Coast Region", "CON2014": "1202", "CON2014_NA": "Grey Constituency", "MCON2014": "1299", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "060", "GED2007_NA": "West Coast-Tasman", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 974.771899, "SHAPE_Area": 44107.858013 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.247847916794484, -42.400531316858142 ], [ 171.24795598340836, -42.400530766629331 ], [ 171.24900103311117, -42.400549016750986 ], [ 171.251455416549646, -42.400610800213954 ], [ 171.251390000113446, -42.401694383435057 ], [ 171.24861966659472, -42.401632599949011 ], [ 171.248246266777869, -42.401622049966711 ], [ 171.248075800092323, -42.401616583191199 ], [ 171.246786250060978, -42.401576366600132 ], [ 171.246946049791831, -42.401139916827283 ], [ 171.247176650268102, -42.400510150154844 ], [ 171.247847916794484, -42.400531316858142 ] ] ] } }
+]
+}

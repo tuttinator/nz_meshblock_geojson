@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2977300", "AU2014": "602000", "AU2014_NAM": "Brighton", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07104", "CB2014_NAM": "Saddle Hill Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "009", "GED2007_NA": "Dunedin South", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 354.438517, "SHAPE_Area": 5856.579860 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.350170900282734, -45.936748283431676 ], [ 170.349688232996186, -45.936783350186197 ], [ 170.349600566684387, -45.936787666523976 ], [ 170.349600533435336, -45.936787416882673 ], [ 170.349470049967209, -45.935608849967288 ], [ 170.350024033173042, -45.935539166478677 ], [ 170.350170900282734, -45.936748283431676 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2752106", "AU2014": "597600", "AU2014_NAM": "Methven", "UA2014": "308", "UA2014_NAM": "Methven", "TA2014": "063", "TA2014_NAM": "Ashburton District", "WARD2014": "06301", "WARD2014_N": "Western Ward", "CB2014": "06301", "CB2014_NAM": "Methven Community", "TASUB2014": "06399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1307", "CON2014_NA": "Rakaia Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "041", "GED2007_NA": "Rangitata", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1497.774642, "SHAPE_Area": 84571.229654 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 171.647013633436728, -43.632731700186319 ], [ 171.647279466899647, -43.632576183263239 ], [ 171.648304200172305, -43.631743949970101 ], [ 171.648761183573868, -43.631376350040078 ], [ 171.649727883502607, -43.630592216490719 ], [ 171.649828350182474, -43.630658933317214 ], [ 171.653344066940235, -43.632945316521798 ], [ 171.65349661666005, -43.633044183286366 ], [ 171.650029733375391, -43.632859516626162 ], [ 171.650500933098925, -43.633156066714854 ], [ 171.650464316463513, -43.634180116871164 ], [ 171.647013633436728, -43.632731700186319 ] ] ] } }
+]
+}

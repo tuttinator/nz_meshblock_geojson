@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2177300", "AU2014": "576901", "AU2014_NAM": "Kilbirnie East", "UA2014": "020", "UA2014_NAM": "Wellington Zone", "TA2014": "047", "TA2014_NAM": "Wellington City", "WARD2014": "04704", "WARD2014_N": "Eastern Ward", "CB2014": "04799", "CB2014_NAM": "Area Outside Community", "TASUB2014": "04799", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "09", "REGC2014_N": "Wellington Region", "CON2014": "0905", "CON2014_NA": "Wellington Constituency", "MCON2014": "0999", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "045", "GED2007_NA": "Rongotai", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 651.011920, "SHAPE_Area": 21173.480091 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.79968951682028, -41.318734116876932 ], [ 174.80024708334571, -41.318843416822801 ], [ 174.800718233158676, -41.318935316679138 ], [ 174.800034466974353, -41.32099186687379 ], [ 174.798983983516621, -41.320790383133016 ], [ 174.79968951682028, -41.318734116876932 ] ] ] } }
+]
+}

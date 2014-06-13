@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2306200", "AU2014": "581260", "AU2014_NAM": "Witherlea", "UA2014": "026", "UA2014_NAM": "Blenheim", "TA2014": "053", "TA2014_NAM": "Marlborough District", "WARD2014": "05303", "WARD2014_N": "Blenheim Ward", "CB2014": "05399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "18", "REGC2014_N": "Marlborough Region", "CON2014": "1899", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "020", "GED2007_NA": "Kaikoura", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1293.174949, "SHAPE_Area": 61630.103968 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.955353683421322, -41.536968499988745 ], [ 173.95547233359764, -41.538413516883757 ], [ 173.953553616849462, -41.538506166849366 ], [ 173.953475549879869, -41.537624116690743 ], [ 173.95395259986131, -41.537603833518389 ], [ 173.953865666718258, -41.536439216505848 ], [ 173.95388624992728, -41.53596778313662 ], [ 173.953833816803296, -41.535317383372764 ], [ 173.953731749751512, -41.534089833384819 ], [ 173.955116516923937, -41.534024233232131 ], [ 173.955347066422462, -41.536886783159957 ], [ 173.955353683421322, -41.536968499988745 ] ] ] } }
+]
+}

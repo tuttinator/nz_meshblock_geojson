@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3190600", "AU2014": "612801", "AU2014_NAM": "Riverton East", "UA2014": "299", "UA2014_NAM": "Riverton", "TA2014": "073", "TA2014_NAM": "Southland District", "WARD2014": "07302", "WARD2014_N": "Waiau-Aparima Ward", "CB2014": "07303", "CB2014_NAM": "Riverton\/Aparima Community", "TASUB2014": "07399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "15", "REGC2014_N": "Southland Region", "CON2014": "1503", "CON2014_NA": "Western Constituency", "MCON2014": "1599", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "019", "GED2007_NA": "Invercargill", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1246.710443, "SHAPE_Area": 59357.031764 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.016199266801834, -46.348857898801064 ], [ 168.018647367054285, -46.347221298511528 ], [ 168.018750450307607, -46.347151982054839 ], [ 168.018780833632661, -46.347057265250953 ], [ 168.020856117119166, -46.345667465422181 ], [ 168.021939616505307, -46.346447681820941 ], [ 168.019684316603332, -46.347963015323231 ], [ 168.018421633692327, -46.348811048452554 ], [ 168.017247650248947, -46.349600065405788 ], [ 168.016199266801834, -46.348857898801064 ] ] ] } }
+]
+}

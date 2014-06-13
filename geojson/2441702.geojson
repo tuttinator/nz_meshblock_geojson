@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2441702", "AU2014": "585802", "AU2014_NAM": "Amberley", "UA2014": "307", "UA2014_NAM": "Amberley", "TA2014": "058", "TA2014_NAM": "Hurunui District", "WARD2014": "05805", "WARD2014_N": "Amberley Ward", "CB2014": "05899", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05899", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1301", "CON2014_NA": "North Canterbury Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "020", "GED2007_NA": "Kaikoura", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 681.160087, "SHAPE_Area": 26663.080459 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.724990966851891, -43.154285883171596 ], [ 172.725981033276184, -43.15359701681281 ], [ 172.726073749831698, -43.153547233133565 ], [ 172.726283183331532, -43.153705083135378 ], [ 172.727596133287932, -43.154702599847766 ], [ 172.727678333540638, -43.15476318332292 ], [ 172.727800533119449, -43.154757199975485 ], [ 172.727819166762686, -43.155064600180339 ], [ 172.727691183103133, -43.155150399926313 ], [ 172.726876766434629, -43.155733400006163 ], [ 172.7268086667967, -43.155675566845034 ], [ 172.725226583326815, -43.154466099850062 ], [ 172.724990966851891, -43.154285883171596 ] ] ] } }
+]
+}

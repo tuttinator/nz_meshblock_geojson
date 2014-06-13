@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "3037900", "AU2014": "608700", "AU2014_NAM": "Frankton", "UA2014": "117", "UA2014_NAM": "Queenstown", "TA2014": "070", "TA2014_NAM": "Queenstown-Lakes District", "WARD2014": "07001", "WARD2014_N": "Queenstown-Wakatipu Ward", "CB2014": "07099", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07099", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1401", "CON2014_NA": "Dunstan Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "006", "GED2007_NA": "Clutha-Southland", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1033.627839, "SHAPE_Area": 37127.655219 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 168.735987266330568, -45.025463599536813 ], [ 168.734041649971573, -45.025906149335839 ], [ 168.734075266740547, -45.023737866013384 ], [ 168.734100249634452, -45.022385482607298 ], [ 168.734067700023616, -45.021903466067819 ], [ 168.734505283114089, -45.022287665995343 ], [ 168.735279566657965, -45.023947399449717 ], [ 168.735926916700663, -45.025335166066903 ], [ 168.735987266330568, -45.025463599536813 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2299900", "AU2014": "581240", "AU2014_NAM": "Whitney", "UA2014": "026", "UA2014_NAM": "Blenheim", "TA2014": "053", "TA2014_NAM": "Marlborough District", "WARD2014": "05303", "WARD2014_N": "Blenheim Ward", "CB2014": "05399", "CB2014_NAM": "Area Outside Community", "TASUB2014": "05399", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "18", "REGC2014_N": "Marlborough Region", "CON2014": "1899", "CON2014_NA": "Area Outside Regional Council Constituency", "MCON2014": "1899", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "020", "GED2007_NA": "Kaikoura", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1032.200831, "SHAPE_Area": 64876.326098 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 173.960536400146196, -41.516989616480394 ], [ 173.960624583574486, -41.518077666597001 ], [ 173.960694482998974, -41.518972099874006 ], [ 173.957167433570163, -41.519118849992026 ], [ 173.957092633320087, -41.518241566828259 ], [ 173.957000616834449, -41.5171503833446 ], [ 173.956999083178914, -41.517130516604055 ], [ 173.957257083144412, -41.517140549813277 ], [ 173.960536400146196, -41.516989616480394 ] ] ] } }
+]
+}

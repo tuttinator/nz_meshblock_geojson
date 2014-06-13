@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2895800", "AU2014": "602900", "AU2014_NAM": "Fernhill", "UA2014": "023", "UA2014_NAM": "Dunedin", "TA2014": "071", "TA2014_NAM": "Dunedin City", "WARD2014": "07103", "WARD2014_N": "Central Ward", "CB2014": "07199", "CB2014_NAM": "Area Outside Community", "TASUB2014": "07199", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "14", "REGC2014_N": "Otago Region", "CON2014": "1404", "CON2014_NA": "Dunedin Constituency", "MCON2014": "1499", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "008", "GED2007_NA": "Dunedin North", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 825.522270, "SHAPE_Area": 33034.522109 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 170.498895466458919, -45.882472849986357 ], [ 170.499793866475386, -45.882722133347478 ], [ 170.500397317000306, -45.882890066726986 ], [ 170.499713399836395, -45.884120600181241 ], [ 170.49900924992005, -45.885342083313702 ], [ 170.498836116899838, -45.885605933395858 ], [ 170.498811166761271, -45.885563233136381 ], [ 170.49855640029574, -45.885227883273714 ], [ 170.498462266432284, -45.885066983179961 ], [ 170.497980883540663, -45.884195299808773 ], [ 170.498895466458919, -45.882472849986357 ] ] ] } }
+]
+}

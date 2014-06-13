@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "MB2014": "2499303", "AU2014": "587849", "AU2014_NAM": "Trents-Ladbrooks", "UA2014": "022", "UA2014_NAM": "Christchurch", "TA2014": "062", "TA2014_NAM": "Selwyn District", "WARD2014": "06204", "WARD2014_N": "Springs Ward", "CB2014": "06299", "CB2014_NAM": "Area Outside Community", "TASUB2014": "06299", "TASUB2014_": "Area Outside Subdivision", "REGC2014": "13", "REGC2014_N": "Canterbury Region", "CON2014": "1306", "CON2014_NA": "Selwyn-Banks Peninsula Constituency", "MCON2014": "1399", "MCON2014_N": "Area Outside Maori Constituency", "GED2007": "047", "GED2007_NA": "Selwyn", "MED2007": "6", "MED2007_NA": "Te Tai Tonga", "LAND2014": "12", "LAND20014_": "Mainland", "SHAPE_Leng": 1261.030772, "SHAPE_Area": 73860.554159 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 172.502190050249425, -43.568161066899435 ], [ 172.507050516491148, -43.570577116780917 ], [ 172.5069652832548, -43.570806283136626 ], [ 172.506214216875861, -43.571564583395954 ], [ 172.506155999973259, -43.571604599936201 ], [ 172.506072750209256, -43.571628050028544 ], [ 172.505710933387434, -43.571694133276353 ], [ 172.505576299894415, -43.571534483441631 ], [ 172.501105766448063, -43.569260349976894 ], [ 172.502190050249425, -43.568161066899435 ] ] ] } }
+]
+}
