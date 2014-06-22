@@ -11,3 +11,10 @@ Add the following to your bower.json:
 "nz_meshblock_geojson": "git://github.com/tuttinator/nz_meshblock_geojson#1.0.0"
 ```
 
+#### Use with bower-rails:
+
+Add the following to your Bowerfile:
+
+```
+asset 'nz_meshblock_geojson', '1.0.0', github: 'tuttinator/nz_meshblock_geojson'
+```
