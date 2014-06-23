@@ -18,3 +18,8 @@ Add the following to your Bowerfile:
 ```
 asset 'nz_meshblock_geojson', '1.0.0', github: 'tuttinator/nz_meshblock_geojson'
 ```
+
+### Contributing
+
+Feel free to fork and send pull requests, or open issues if you run into
+any mistakes.
